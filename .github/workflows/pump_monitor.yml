@@ -35,3 +35,4 @@ jobs:
           git diff --quiet --cached || git commit -m "Обновление состояния скана пампов/дампов"
           git pull --rebase origin HEAD
           git push
+
