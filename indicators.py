@@ -61,6 +61,34 @@ def sma(values, length):
     return out
 
 
+def stdev(values, length):
+    """Скользящее СТАНДАРТНОЕ ОТКЛОНЕНИЕ (популяционное, как ta.stdev в Pine
+    по умолчанию) — нужно для полос Боллинджера/ширины полос (BBW)."""
+    out = [NAN] * len(values)
+    for i in range(len(values)):
+        if i + 1 < length:
+            continue
+        window = values[i - length + 1:i + 1]
+        mean = sum(window) / length
+        variance = sum((x - mean) ** 2 for x in window) / length
+        out[i] = variance ** 0.5
+    return out
+
+
+def percentile_rank(values, idx, lookback):
+    """Процентиль значения values[idx] относительно окна values[idx-lookback+1:idx+1]
+    (включая сам бар) — аналог ta.percentrank в Pine. Возвращает NAN, если
+    истории не хватает."""
+    if idx - lookback + 1 < 0:
+        return NAN
+    window = values[idx - lookback + 1: idx + 1]
+    if any(is_nan(v) for v in window):
+        return NAN
+    target = values[idx]
+    count_below_or_equal = sum(1 for v in window if v <= target)
+    return 100.0 * count_below_or_equal / len(window)
+
+
 def true_range(highs, lows, closes):
     out = [NAN] * len(highs)
     for i in range(len(highs)):
