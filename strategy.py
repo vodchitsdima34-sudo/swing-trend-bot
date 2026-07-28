@@ -20,7 +20,8 @@ from indicators import (
     barssince_excluding_current, barssince_including_current, is_nan,
 )
 
-PARAMS = dict(
+# Подтверждённый рецепт для ETH (см. дефолты в swing_trend_start.pine)
+ETH_PARAMS = dict(
     rangeLen=15,
     rangeAtrMult=1.0,
     breakoutOnWick=True,
@@ -38,6 +39,7 @@ PARAMS = dict(
     contLookback=3,
     atrLen=14,
     stopAtrMult=2.5,
+    rrTarget=2.0,
     useTrailingStop=True,
     trailAtrMult=4.0,
     exitOnOpposite=True,
@@ -47,6 +49,21 @@ PARAMS = dict(
     climaxLookback=4,
     allowShort=True,
 )
+
+# Подтверждённый рецепт для BTC (см. дефолты в swing_trend_BTC.pine) —
+# отдельно оттюненный на BTCUSDT.P: ADX мягче, объём строже, окно "догона"
+# шире, стоп уже, чем у ETH.
+BTC_PARAMS = dict(ETH_PARAMS)
+BTC_PARAMS.update(
+    adxMin=10.0,
+    volMult=1.0,
+    contLookback=15,
+    stopAtrMult=2.0,
+)
+
+# Обратная совместимость: старое имя PARAMS = рецепт ETH (используется по
+# умолчанию, если compute() вызван без явных params).
+PARAMS = ETH_PARAMS
 
 
 def compute(candles, params=None):
@@ -159,9 +176,9 @@ def compute(candles, params=None):
         cont_short_setup = p["useContinuationEntry"] and p["allowShort"] and trend_ok_short and trend_strong and adx_rising and vol_ok and rsi_ok_short and strong_body_short and pulled_back_short and closes[i] < et
 
         long_stop_candidate = min(closes[i] - av * p["stopAtrMult"], range_low[i] - av * 0.3)
-        long_tgt_candidate = closes[i] + av * p["stopAtrMult"] * 2.0
+        long_tgt_candidate = closes[i] + av * p["stopAtrMult"] * p["rrTarget"]
         short_stop_candidate = max(closes[i] + av * p["stopAtrMult"], range_high[i] + av * 0.3)
-        short_tgt_candidate = closes[i] - av * p["stopAtrMult"] * 2.0
+        short_tgt_candidate = closes[i] - av * p["stopAtrMult"] * p["rrTarget"]
 
         # ----- выходы -----
         exit_long_by_stop = state == 1 and active_stop is not None and closes[i] < active_stop
@@ -223,6 +240,9 @@ def compute(candles, params=None):
             exitShortSignal=exit_short_signal,
             exitReason=exit_reason,
             activeStop=active_stop,
+            activeTarget=active_target,
+            stopAtrMult=p["stopAtrMult"],
+            rrTarget=p["rrTarget"],
             adx=adxv,
             rsi=rsi_val[i],
             volRatio=(volumes[i] / vol_avg[i] if vol_avg[i] else None),
