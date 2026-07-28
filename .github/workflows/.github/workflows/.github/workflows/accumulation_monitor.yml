@@ -1,0 +1,38 @@
+name: Радар накопления -> Telegram
+
+on:
+  schedule:
+    # раз в час, со смещением от свинг-монитора (5-я минута) и скана пампов
+    # (каждые 15 минут) — чтобы не грузить раннеры GitHub одновременно
+    - cron: "20 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan-accumulation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run accumulation scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python accumulation_monitor.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "swing-trend-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add accumulation_state.json
+          git diff --quiet --cached || git commit -m "Обновление состояния радара накопления"
+          git pull --rebase origin HEAD
+          git push
