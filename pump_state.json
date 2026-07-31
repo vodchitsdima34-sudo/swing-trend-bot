@@ -4,8 +4,8 @@
       "instId": "OFC-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.010608,
-      "activeStop": 0.01118445543222121,
-      "extreme": 0.010608,
+      "activeStop": 0.010814568937765782,
+      "extreme": 0.010258,
       "entryTs": 1785522600000
     }
   },
