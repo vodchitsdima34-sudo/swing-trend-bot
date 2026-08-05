@@ -1,20 +1,12 @@
 {
-  "open_positions": {
-    "BIO-USDT-SWAP": {
-      "instId": "BIO-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.02433,
-      "activeStop": 0.025019906426073414,
-      "extreme": 0.02433,
-      "entryTs": 1785910500000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
     "OFC-USDT-SWAP": 1785577135953,
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
-    "BICO-USDT-SWAP": 1785767912330
+    "BICO-USDT-SWAP": 1785767912330,
+    "BIO-USDT-SWAP": 1785929220325
   }
 }
