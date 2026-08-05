@@ -4,16 +4,8 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 10.75,
-      "activeStop": 10.713873193963332,
+      "activeStop": 10.609670409566176,
       "extreme": 9.75,
-      "entryTs": 1785960000000
-    },
-    "ZBT-USDT-SWAP": {
-      "instId": "ZBT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.12023,
-      "activeStop": 0.12350339546952041,
-      "extreme": 0.12926,
       "entryTs": 1785960000000
     }
   },
@@ -24,6 +16,7 @@
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
     "BICO-USDT-SWAP": 1785767912330,
-    "BIO-USDT-SWAP": 1785929220325
+    "BIO-USDT-SWAP": 1785929220325,
+    "ZBT-USDT-SWAP": 1785977899742
   }
 }
