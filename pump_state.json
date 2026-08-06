@@ -4,9 +4,25 @@
       "instId": "BICO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.03044,
-      "activeStop": 0.0289751857783493,
-      "extreme": 0.03044,
+      "activeStop": 0.029652432186272837,
+      "extreme": 0.03185,
       "entryTs": 1785986100000
+    },
+    "SUSHI-USDT-SWAP": {
+      "instId": "SUSHI-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1643,
+      "activeStop": 0.16262756774410397,
+      "extreme": 0.1643,
+      "entryTs": 1785996000000
+    },
+    "PIEVERSE-USDT-SWAP": {
+      "instId": "PIEVERSE-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.7519,
+      "activeStop": 0.7690431797588426,
+      "extreme": 0.7519,
+      "entryTs": 1785996000000
     }
   },
   "cooldown_until": {
