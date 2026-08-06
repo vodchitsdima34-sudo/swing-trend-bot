@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "RESOLV-USDT-SWAP": {
+      "instId": "RESOLV-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02023,
+      "activeStop": 0.019608759805542993,
+      "extreme": 0.02023,
+      "entryTs": 1786014900000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
