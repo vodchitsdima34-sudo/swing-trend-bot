@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "SPCX-USDT-SWAP": {
+      "instId": "SPCX-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 127.8,
+      "activeStop": 125.23744281064162,
+      "extreme": 127.8,
+      "entryTs": 1786112100000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
