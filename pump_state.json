@@ -4,9 +4,25 @@
       "instId": "SPCX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 127.8,
-      "activeStop": 125.23744281064162,
-      "extreme": 128.67,
+      "activeStop": 126.75204708538001,
+      "extreme": 130.89,
       "entryTs": 1786112100000
+    },
+    "SLX-USDT-SWAP": {
+      "instId": "SLX-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.08241,
+      "activeStop": 0.08094975261377205,
+      "extreme": 0.08241,
+      "entryTs": 1786119300000
+    },
+    "MMT-USDT-SWAP": {
+      "instId": "MMT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1816,
+      "activeStop": 0.17728274997357873,
+      "extreme": 0.1816,
+      "entryTs": 1786119300000
     }
   },
   "cooldown_until": {
