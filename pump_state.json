@@ -4,8 +4,8 @@
       "instId": "KGEN-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.2176,
-      "activeStop": 0.21211147012165515,
-      "extreme": 0.2176,
+      "activeStop": 0.23876818489184432,
+      "extreme": 0.25,
       "entryTs": 1786096800000
     }
   },
