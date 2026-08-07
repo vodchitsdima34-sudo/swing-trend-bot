@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "KGEN-USDT-SWAP": {
+      "instId": "KGEN-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.2176,
+      "activeStop": 0.21211147012165515,
+      "extreme": 0.2176,
+      "entryTs": 1786096800000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
