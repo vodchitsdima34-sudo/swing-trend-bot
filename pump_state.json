@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "HMSTR-USDT-SWAP": {
-      "instId": "HMSTR-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.0002002,
-      "activeStop": 0.0001993079310033906,
-      "extreme": 0.0001923,
-      "entryTs": 1786145400000
+    "UB-USDT-SWAP": {
+      "instId": "UB-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.14763,
+      "activeStop": 0.1417469684038438,
+      "extreme": 0.14763,
+      "entryTs": 1786162500000
     }
   },
   "cooldown_until": {
@@ -26,6 +26,7 @@
     "KGEN-USDT-SWAP": 1786111714197,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
-    "MMT-USDT-SWAP": 1786131217449
+    "MMT-USDT-SWAP": 1786131217449,
+    "HMSTR-USDT-SWAP": 1786171215241
   }
 }
