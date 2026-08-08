@@ -5,8 +5,16 @@
       "direction": "long",
       "entryPrice": 0.14763,
       "activeStop": 0.1417469684038438,
-      "extreme": 0.14763,
+      "extreme": 0.14934,
       "entryTs": 1786162500000
+    },
+    "H-USDT-SWAP": {
+      "instId": "H-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.07163,
+      "activeStop": 0.07388137534241376,
+      "extreme": 0.07163,
+      "entryTs": 1786165200000
     }
   },
   "cooldown_until": {
