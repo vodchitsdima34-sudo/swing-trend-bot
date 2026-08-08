@@ -4,9 +4,25 @@
       "instId": "CAP-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.0368,
-      "activeStop": 0.03814633057217357,
-      "extreme": 0.0368,
+      "activeStop": 0.03759318933363908,
+      "extreme": 0.03574,
       "entryTs": 1786203000000
+    },
+    "MAGIC-USDT-SWAP": {
+      "instId": "MAGIC-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.04627,
+      "activeStop": 0.045411377993331746,
+      "extreme": 0.04627,
+      "entryTs": 1786205700000
+    },
+    "OFC-USDT-SWAP": {
+      "instId": "OFC-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.01037,
+      "activeStop": 0.01016328953724711,
+      "extreme": 0.01037,
+      "entryTs": 1786205700000
     }
   },
   "cooldown_until": {
