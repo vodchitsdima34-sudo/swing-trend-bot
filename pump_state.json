@@ -4,8 +4,8 @@
       "instId": "HMSTR-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.0002002,
-      "activeStop": 0.00020665331840494426,
-      "extreme": 0.0002002,
+      "activeStop": 0.00020372582282058996,
+      "extreme": 0.0001962,
       "entryTs": 1786145400000
     }
   },
