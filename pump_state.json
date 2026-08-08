@@ -4,8 +4,8 @@
       "instId": "LIGHT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.1787,
-      "activeStop": 0.1728403627265327,
-      "extreme": 0.1787,
+      "activeStop": 0.1754127600339605,
+      "extreme": 0.1834,
       "entryTs": 1786212900000
     }
   },
