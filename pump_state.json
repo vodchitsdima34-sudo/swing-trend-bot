@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "ARX-USDT-SWAP": {
-      "instId": "ARX-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1318,
-      "activeStop": 0.13267548437883925,
-      "extreme": 0.1296,
-      "entryTs": 1786167900000
-    },
     "BEAT-USDT-SWAP": {
       "instId": "BEAT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 2.2846,
-      "activeStop": 2.2140763576016966,
-      "extreme": 2.2846,
+      "activeStop": 2.3878333939539007,
+      "extreme": 2.5174,
       "entryTs": 1786178700000
     }
   },
@@ -37,6 +29,7 @@
     "MMT-USDT-SWAP": 1786180515398,
     "HMSTR-USDT-SWAP": 1786171215241,
     "H-USDT-SWAP": 1786176441158,
-    "UB-USDT-SWAP": 1786180514524
+    "UB-USDT-SWAP": 1786180514524,
+    "ARX-USDT-SWAP": 1786190034275
   }
 }
