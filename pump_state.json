@@ -4,9 +4,17 @@
       "instId": "ARX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1318,
-      "activeStop": 0.1331084854189418,
+      "activeStop": 0.13267548437883925,
       "extreme": 0.1296,
       "entryTs": 1786167900000
+    },
+    "BEAT-USDT-SWAP": {
+      "instId": "BEAT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 2.2846,
+      "activeStop": 2.2140763576016966,
+      "extreme": 2.2846,
+      "entryTs": 1786178700000
     }
   },
   "cooldown_until": {
