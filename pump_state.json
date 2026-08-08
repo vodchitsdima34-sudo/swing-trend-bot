@@ -4,17 +4,25 @@
       "instId": "UB-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.14763,
-      "activeStop": 0.1417469684038438,
+      "activeStop": 0.1420461583963793,
       "extreme": 0.14934,
       "entryTs": 1786162500000
     },
-    "H-USDT-SWAP": {
-      "instId": "H-USDT-SWAP",
+    "MMT-USDT-SWAP": {
+      "instId": "MMT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.2168,
+      "activeStop": 0.20820888096722306,
+      "extreme": 0.2168,
+      "entryTs": 1786167900000
+    },
+    "ARX-USDT-SWAP": {
+      "instId": "ARX-USDT-SWAP",
       "direction": "short",
-      "entryPrice": 0.07163,
-      "activeStop": 0.07388137534241376,
-      "extreme": 0.07163,
-      "entryTs": 1786165200000
+      "entryPrice": 0.1318,
+      "activeStop": 0.1347098995057441,
+      "extreme": 0.1318,
+      "entryTs": 1786167900000
     }
   },
   "cooldown_until": {
@@ -35,6 +43,7 @@
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
     "MMT-USDT-SWAP": 1786131217449,
-    "HMSTR-USDT-SWAP": 1786171215241
+    "HMSTR-USDT-SWAP": 1786171215241,
+    "H-USDT-SWAP": 1786176441158
   }
 }
