@@ -4,17 +4,9 @@
       "instId": "LIGHT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.1787,
-      "activeStop": 0.17577327888545854,
+      "activeStop": 0.17627676771475362,
       "extreme": 0.1834,
       "entryTs": 1786212900000
-    },
-    "ACT-USDT-SWAP": {
-      "instId": "ACT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.010368,
-      "activeStop": 0.01019812273664643,
-      "extreme": 0.010368,
-      "entryTs": 1786217400000
     }
   },
   "cooldown_until": {
@@ -41,6 +33,7 @@
     "ARX-USDT-SWAP": 1786190034275,
     "BEAT-USDT-SWAP": 1786192342520,
     "CAP-USDT-SWAP": 1786216293390,
-    "MAGIC-USDT-SWAP": 1786216294326
+    "MAGIC-USDT-SWAP": 1786216294326,
+    "ACT-USDT-SWAP": 1786228125348
   }
 }
