@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "SHELL-USDT-SWAP": {
+      "instId": "SHELL-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02426,
+      "activeStop": 0.023410386984461566,
+      "extreme": 0.02426,
+      "entryTs": 1786284900000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
