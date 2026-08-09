@@ -5,16 +5,24 @@
       "direction": "short",
       "entryPrice": 2.7837,
       "activeStop": 2.9746709243225777,
-      "extreme": 2.7837,
+      "extreme": 2.7267,
       "entryTs": 1786247100000
     },
     "UB-USDT-SWAP": {
       "instId": "UB-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.13789,
-      "activeStop": 0.1348257124222871,
-      "extreme": 0.13789,
+      "activeStop": 0.13758202289948065,
+      "extreme": 0.14221,
       "entryTs": 1786247100000
+    },
+    "PARTI-USDT-SWAP": {
+      "instId": "PARTI-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02563,
+      "activeStop": 0.025303385475920887,
+      "extreme": 0.02563,
+      "entryTs": 1786251600000
     }
   },
   "cooldown_until": {
