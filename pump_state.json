@@ -4,9 +4,17 @@
       "instId": "UB-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.13789,
-      "activeStop": 0.13783447482463554,
-      "extreme": 0.14221,
+      "activeStop": 0.1379902490724615,
+      "extreme": 0.14301,
       "entryTs": 1786247100000
+    },
+    "BICO-USDT-SWAP": {
+      "instId": "BICO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.07871,
+      "activeStop": 0.07279759272921646,
+      "extreme": 0.07871,
+      "entryTs": 1786258800000
     }
   },
   "cooldown_until": {
