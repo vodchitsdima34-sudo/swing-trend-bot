@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "YB-USDT-SWAP": {
-      "instId": "YB-USDT-SWAP",
+    "ROBO-USDT-SWAP": {
+      "instId": "ROBO-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.0786,
-      "activeStop": 0.07753571397306781,
-      "extreme": 0.0786,
-      "entryTs": 1786362300000
+      "entryPrice": 0.01556,
+      "activeStop": 0.015024186669375921,
+      "extreme": 0.01556,
+      "entryTs": 1786367700000
     }
   },
   "cooldown_until": {
@@ -43,6 +43,7 @@
     "CHIP-USDT-SWAP": 1786370890009,
     "RECALL-USDT-SWAP": 1786341264674,
     "HOME-USDT-SWAP": 1786351918904,
-    "GRVT-USDT-SWAP": 1786363092544
+    "GRVT-USDT-SWAP": 1786363092544,
+    "YB-USDT-SWAP": 1786376621415
   }
 }
