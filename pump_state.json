@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "HOME-USDT-SWAP": {
-      "instId": "HOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.010694,
-      "activeStop": 0.011471893181919537,
-      "extreme": 0.012099,
-      "entryTs": 1786374900000
-    },
     "MMT-USDT-SWAP": {
       "instId": "MMT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.2267,
       "activeStop": 0.22020690363363946,
-      "extreme": 0.2267,
+      "extreme": 0.2282,
       "entryTs": 1786378500000
     }
   },
@@ -50,7 +42,7 @@
     "MOODENG-USDT-SWAP": 1786307959651,
     "CHIP-USDT-SWAP": 1786370890009,
     "RECALL-USDT-SWAP": 1786341264674,
-    "HOME-USDT-SWAP": 1786351918904,
+    "HOME-USDT-SWAP": 1786390602593,
     "GRVT-USDT-SWAP": 1786363092544,
     "YB-USDT-SWAP": 1786376621415,
     "ROBO-USDT-SWAP": 1786380309724
