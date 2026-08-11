@@ -1,27 +1,11 @@
 {
   "open_positions": {
-    "DOS-USDT-SWAP": {
-      "instId": "DOS-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.4881,
-      "activeStop": 0.4982476184657607,
-      "extreme": 0.4571,
-      "entryTs": 1786445100000
-    },
-    "ACU-USDT-SWAP": {
-      "instId": "ACU-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.09556,
-      "activeStop": 0.09733590638688223,
-      "extreme": 0.09441,
-      "entryTs": 1786445100000
-    },
     "LUNA-USDT-SWAP": {
       "instId": "LUNA-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.04897,
-      "activeStop": 0.04718897410208194,
-      "extreme": 0.04897,
+      "activeStop": 0.04935376821564233,
+      "extreme": 0.05245,
       "entryTs": 1786452300000
     }
   },
@@ -62,7 +46,8 @@
     "GRVT-USDT-SWAP": 1786363092544,
     "YB-USDT-SWAP": 1786376621415,
     "ROBO-USDT-SWAP": 1786380309724,
-    "DOS-USDT-SWAP": 1786437381693,
-    "RVN-USDT-SWAP": 1786445895830
+    "DOS-USDT-SWAP": 1786465933202,
+    "RVN-USDT-SWAP": 1786445895830,
+    "ACU-USDT-SWAP": 1786465934007
   }
 }
