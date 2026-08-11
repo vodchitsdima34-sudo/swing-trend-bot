@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "DOS-USDT-SWAP": {
-      "instId": "DOS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.4552,
-      "activeStop": 0.4634101267254037,
-      "extreme": 0.5119,
-      "entryTs": 1786415400000
+    "RVN-USDT-SWAP": {
+      "instId": "RVN-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.002953,
+      "activeStop": 0.0030312541863632696,
+      "extreme": 0.002953,
+      "entryTs": 1786428900000
     }
   },
   "cooldown_until": {
@@ -45,6 +45,7 @@
     "HOME-USDT-SWAP": 1786390602593,
     "GRVT-USDT-SWAP": 1786363092544,
     "YB-USDT-SWAP": 1786376621415,
-    "ROBO-USDT-SWAP": 1786380309724
+    "ROBO-USDT-SWAP": 1786380309724,
+    "DOS-USDT-SWAP": 1786437381693
   }
 }
