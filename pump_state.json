@@ -4,8 +4,8 @@
       "instId": "RVN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.002953,
-      "activeStop": 0.0030312541863632696,
-      "extreme": 0.002953,
+      "activeStop": 0.00290723061302434,
+      "extreme": 0.002775,
       "entryTs": 1786428900000
     }
   },
