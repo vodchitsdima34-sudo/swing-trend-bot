@@ -4,17 +4,25 @@
       "instId": "DOS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.4881,
-      "activeStop": 0.5190732424815265,
-      "extreme": 0.482,
+      "activeStop": 0.4982476184657607,
+      "extreme": 0.4571,
       "entryTs": 1786445100000
     },
     "ACU-USDT-SWAP": {
       "instId": "ACU-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.09556,
-      "activeStop": 0.09797300528716396,
-      "extreme": 0.09482,
+      "activeStop": 0.09733590638688223,
+      "extreme": 0.09441,
       "entryTs": 1786445100000
+    },
+    "LUNA-USDT-SWAP": {
+      "instId": "LUNA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.04897,
+      "activeStop": 0.04718897410208194,
+      "extreme": 0.04897,
+      "entryTs": 1786452300000
     }
   },
   "cooldown_until": {
