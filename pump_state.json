@@ -4,17 +4,9 @@
       "instId": "DOS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.4552,
-      "activeStop": 0.45164295522870673,
-      "extreme": 0.4976,
+      "activeStop": 0.4634101267254037,
+      "extreme": 0.5119,
       "entryTs": 1786415400000
-    },
-    "BICO-USDT-SWAP": {
-      "instId": "BICO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05153,
-      "activeStop": 0.04848324402084823,
-      "extreme": 0.05153,
-      "entryTs": 1786420800000
     }
   },
   "cooldown_until": {
@@ -23,7 +15,7 @@
     "OFC-USDT-SWAP": 1786383774958,
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
-    "BICO-USDT-SWAP": 1786270066919,
+    "BICO-USDT-SWAP": 1786433710403,
     "BIO-USDT-SWAP": 1785929220325,
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1785981922555,
