@@ -4,9 +4,17 @@
       "instId": "DOS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.4552,
-      "activeStop": 0.42383168310856034,
-      "extreme": 0.4552,
+      "activeStop": 0.45164295522870673,
+      "extreme": 0.4976,
       "entryTs": 1786415400000
+    },
+    "BICO-USDT-SWAP": {
+      "instId": "BICO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.05153,
+      "activeStop": 0.04848324402084823,
+      "extreme": 0.05153,
+      "entryTs": 1786420800000
     }
   },
   "cooldown_until": {
