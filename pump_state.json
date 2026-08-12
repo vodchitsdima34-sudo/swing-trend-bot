@@ -4,17 +4,25 @@
       "instId": "ROBO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.01284,
-      "activeStop": 0.012866719488044945,
-      "extreme": 0.01326,
+      "activeStop": 0.013054102879666789,
+      "extreme": 0.01344,
       "entryTs": 1786553100000
     },
     "ICX-USDT-SWAP": {
       "instId": "ICX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.0197,
-      "activeStop": 0.019951245197116694,
-      "extreme": 0.01958,
+      "activeStop": 0.019667914457746693,
+      "extreme": 0.01927,
       "entryTs": 1786561200000
+    },
+    "SPACE-USDT-SWAP": {
+      "instId": "SPACE-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.004896,
+      "activeStop": 0.004975714061328745,
+      "extreme": 0.004896,
+      "entryTs": 1786571100000
     }
   },
   "cooldown_until": {
