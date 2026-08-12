@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "SPACE-USDT-SWAP": {
-      "instId": "SPACE-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.004896,
-      "activeStop": 0.004964112803978403,
-      "extreme": 0.004857,
-      "entryTs": 1786571100000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -50,6 +41,7 @@
     "RVN-USDT-SWAP": 1786445895830,
     "ACU-USDT-SWAP": 1786465934007,
     "LUNA-USDT-SWAP": 1786469920516,
-    "ICX-USDT-SWAP": 1786582860883
+    "ICX-USDT-SWAP": 1786582860883,
+    "SPACE-USDT-SWAP": 1786586275105
   }
 }
