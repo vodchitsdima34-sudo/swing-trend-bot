@@ -1,29 +1,12 @@
 {
-  "open_positions": {
-    "BICO-USDT-SWAP": {
-      "instId": "BICO-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.02865,
-      "activeStop": 0.029066020030398623,
-      "extreme": 0.0275,
-      "entryTs": 1786631400000
-    },
-    "ENSO-USDT-SWAP": {
-      "instId": "ENSO-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.7995,
-      "activeStop": 0.8177077199090866,
-      "extreme": 0.7995,
-      "entryTs": 1786635900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
     "OFC-USDT-SWAP": 1786383774958,
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
-    "BICO-USDT-SWAP": 1786433710403,
+    "BICO-USDT-SWAP": 1786648317801,
     "BIO-USDT-SWAP": 1785929220325,
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1785981922555,
@@ -60,6 +43,7 @@
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1786586275105,
-    "GPS-USDT-SWAP": 1786630156785
+    "GPS-USDT-SWAP": 1786630156785,
+    "ENSO-USDT-SWAP": 1786648318736
   }
 }
