@@ -4,9 +4,17 @@
       "instId": "BICO-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.02865,
-      "activeStop": 0.029822401328293467,
-      "extreme": 0.02865,
+      "activeStop": 0.029066020030398623,
+      "extreme": 0.0275,
       "entryTs": 1786631400000
+    },
+    "ENSO-USDT-SWAP": {
+      "instId": "ENSO-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.7995,
+      "activeStop": 0.8177077199090866,
+      "extreme": 0.7995,
+      "entryTs": 1786635900000
     }
   },
   "cooldown_until": {
