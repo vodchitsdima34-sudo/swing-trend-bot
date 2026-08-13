@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ACU-USDT-SWAP": {
-      "instId": "ACU-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.13539,
-      "activeStop": 0.12982178767941513,
-      "extreme": 0.13539,
-      "entryTs": 1786599900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -48,7 +39,7 @@
     "ROBO-USDT-SWAP": 1786582859977,
     "DOS-USDT-SWAP": 1786465933202,
     "RVN-USDT-SWAP": 1786445895830,
-    "ACU-USDT-SWAP": 1786465934007,
+    "ACU-USDT-SWAP": 1786614759218,
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1786586275105
