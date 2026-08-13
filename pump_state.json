@@ -4,8 +4,8 @@
       "instId": "EDEN-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.06017,
-      "activeStop": 0.05794566153336346,
-      "extreme": 0.06017,
+      "activeStop": 0.06090847620230271,
+      "extreme": 0.06448,
       "entryTs": 1786647600000
     }
   },
