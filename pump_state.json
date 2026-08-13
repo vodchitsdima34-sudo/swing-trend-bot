@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "GPS-USDT-SWAP": {
-      "instId": "GPS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.010105,
-      "activeStop": 0.010555510112597312,
-      "extreme": 0.010875,
-      "entryTs": 1786615200000
-    },
-    "KGEN-USDT-SWAP": {
-      "instId": "KGEN-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1876,
-      "activeStop": 0.1910811300239392,
-      "extreme": 0.1876,
-      "entryTs": 1786618800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -31,7 +14,7 @@
     "PIEVERSE-USDT-SWAP": 1786014649066,
     "RESOLV-USDT-SWAP": 1786029600875,
     "ZKP-USDT-SWAP": 1786087413223,
-    "KGEN-USDT-SWAP": 1786111714197,
+    "KGEN-USDT-SWAP": 1786630157603,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
     "MMT-USDT-SWAP": 1786394071352,
@@ -59,6 +42,7 @@
     "ACU-USDT-SWAP": 1786614759218,
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
-    "SPACE-USDT-SWAP": 1786586275105
+    "SPACE-USDT-SWAP": 1786586275105,
+    "GPS-USDT-SWAP": 1786630156785
   }
 }
