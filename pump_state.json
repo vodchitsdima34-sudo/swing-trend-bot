@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "ACU-USDT-SWAP": {
+      "instId": "ACU-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.13539,
+      "activeStop": 0.12982178767941513,
+      "extreme": 0.13539,
+      "entryTs": 1786599900000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
