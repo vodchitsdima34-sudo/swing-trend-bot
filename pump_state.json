@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "BICO-USDT-SWAP": {
+      "instId": "BICO-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.02865,
+      "activeStop": 0.029822401328293467,
+      "extreme": 0.02865,
+      "entryTs": 1786631400000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
