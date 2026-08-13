@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "EDEN-USDT-SWAP": {
+      "instId": "EDEN-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.06017,
+      "activeStop": 0.05794566153336346,
+      "extreme": 0.06017,
+      "entryTs": 1786647600000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
