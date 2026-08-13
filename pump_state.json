@@ -4,9 +4,17 @@
       "instId": "GPS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.010105,
-      "activeStop": 0.009931387326000424,
-      "extreme": 0.010105,
+      "activeStop": 0.010555510112597312,
+      "extreme": 0.010875,
       "entryTs": 1786615200000
+    },
+    "KGEN-USDT-SWAP": {
+      "instId": "KGEN-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.1876,
+      "activeStop": 0.1910811300239392,
+      "extreme": 0.1876,
+      "entryTs": 1786618800000
     }
   },
   "cooldown_until": {
