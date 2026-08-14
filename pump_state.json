@@ -4,9 +4,17 @@
       "instId": "GPS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.010191,
-      "activeStop": 0.010450017854374851,
-      "extreme": 0.009956,
+      "activeStop": 0.010160570293849643,
+      "extreme": 0.009741,
       "entryTs": 1786701600000
+    },
+    "LAB-USDT-SWAP": {
+      "instId": "LAB-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0931,
+      "activeStop": 0.08945804582608197,
+      "extreme": 0.0931,
+      "entryTs": 1786712400000
     }
   },
   "cooldown_until": {
