@@ -4,8 +4,8 @@
       "instId": "GPS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.010191,
-      "activeStop": 0.010649364524809293,
-      "extreme": 0.010191,
+      "activeStop": 0.010591793306835452,
+      "extreme": 0.010042,
       "entryTs": 1786701600000
     }
   },
