@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "APR-USDT-SWAP": {
+      "instId": "APR-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1672,
+      "activeStop": 0.15781098118658682,
+      "extreme": 0.1672,
+      "entryTs": 1786832100000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
