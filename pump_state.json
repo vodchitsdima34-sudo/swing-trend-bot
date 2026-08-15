@@ -4,8 +4,8 @@
       "instId": "ROBO-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.01524,
-      "activeStop": 0.014896064875168594,
-      "extreme": 0.01329,
+      "activeStop": 0.014559921885620997,
+      "extreme": 0.01308,
       "entryTs": 1786793400000
     }
   },
