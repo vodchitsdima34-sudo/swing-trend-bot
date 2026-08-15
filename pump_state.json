@@ -5,8 +5,16 @@
       "direction": "long",
       "entryPrice": 0.0272,
       "activeStop": 0.025866630305906923,
-      "extreme": 0.0272,
+      "extreme": 0.02746,
       "entryTs": 1786788900000
+    },
+    "MERL-USDT-SWAP": {
+      "instId": "MERL-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.01864,
+      "activeStop": 0.01839503156931563,
+      "extreme": 0.01864,
+      "entryTs": 1786789800000
     }
   },
   "cooldown_until": {
