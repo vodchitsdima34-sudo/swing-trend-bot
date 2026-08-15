@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ROBO-USDT-SWAP": {
-      "instId": "ROBO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.01907,
-      "activeStop": 0.018371566577679643,
-      "extreme": 0.01907,
-      "entryTs": 1786759200000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -45,7 +36,7 @@
     "HOME-USDT-SWAP": 1786390602593,
     "GRVT-USDT-SWAP": 1786363092544,
     "YB-USDT-SWAP": 1786376621415,
-    "ROBO-USDT-SWAP": 1786582859977,
+    "ROBO-USDT-SWAP": 1786770740879,
     "DOS-USDT-SWAP": 1786465933202,
     "RVN-USDT-SWAP": 1786728770287,
     "ACU-USDT-SWAP": 1786614759218,
