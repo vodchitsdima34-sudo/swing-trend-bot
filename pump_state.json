@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "APR-USDT-SWAP": {
-      "instId": "APR-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1737,
-      "activeStop": 0.17201333539014124,
-      "extreme": 0.156,
-      "entryTs": 1786809600000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -58,7 +49,7 @@
     "LAB-USDT-SWAP": 1786732343733,
     "WLFI-USDT-SWAP": 1786747733972,
     "OL-USDT-SWAP": 1786758498181,
-    "APR-USDT-SWAP": 1786780858321,
+    "APR-USDT-SWAP": 1786830388924,
     "AEON-USDT-SWAP": 1786823167147,
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1786800458844,
