@@ -4,8 +4,8 @@
       "instId": "APR-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1737,
-      "activeStop": 0.17545416072796122,
-      "extreme": 0.1568,
+      "activeStop": 0.17201333539014124,
+      "extreme": 0.156,
       "entryTs": 1786809600000
     }
   },
