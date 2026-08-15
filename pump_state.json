@@ -4,17 +4,25 @@
       "instId": "APR-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1737,
-      "activeStop": 0.19097610524566416,
-      "extreme": 0.1704,
+      "activeStop": 0.18623676641311904,
+      "extreme": 0.1671,
       "entryTs": 1786809600000
     },
     "AEON-USDT-SWAP": {
       "instId": "AEON-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0848,
-      "activeStop": 0.08443540181495617,
-      "extreme": 0.0897,
+      "activeStop": 0.08635430814518796,
+      "extreme": 0.0919,
       "entryTs": 1786809600000
+    },
+    "BOME-USDT-SWAP": {
+      "instId": "BOME-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0009265,
+      "activeStop": 0.0009036138515624763,
+      "extreme": 0.0009265,
+      "entryTs": 1786813200000
     }
   },
   "cooldown_until": {
