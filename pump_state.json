@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "WAL-USDT-SWAP": {
-      "instId": "WAL-USDT-SWAP",
+    "HUMA-USDT-SWAP": {
+      "instId": "HUMA-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.0272,
-      "activeStop": 0.025866630305906923,
-      "extreme": 0.02746,
-      "entryTs": 1786788900000
-    },
-    "MERL-USDT-SWAP": {
-      "instId": "MERL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.01864,
-      "activeStop": 0.01839503156931563,
-      "extreme": 0.01864,
-      "entryTs": 1786789800000
+      "entryPrice": 0.02099,
+      "activeStop": 0.020549481304514148,
+      "extreme": 0.02099,
+      "entryTs": 1786791600000
     }
   },
   "cooldown_until": {
@@ -67,6 +59,8 @@
     "WLFI-USDT-SWAP": 1786747733972,
     "OL-USDT-SWAP": 1786758498181,
     "APR-USDT-SWAP": 1786780858321,
-    "AEON-USDT-SWAP": 1786791749913
+    "AEON-USDT-SWAP": 1786791749913,
+    "WAL-USDT-SWAP": 1786800457962,
+    "MERL-USDT-SWAP": 1786800458844
   }
 }
