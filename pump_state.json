@@ -5,8 +5,16 @@
       "direction": "long",
       "entryPrice": 0.07149,
       "activeStop": 0.06925693242097482,
-      "extreme": 0.07149,
+      "extreme": 0.07193,
       "entryTs": 1786778100000
+    },
+    "PIEVERSE-USDT-SWAP": {
+      "instId": "PIEVERSE-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.7997,
+      "activeStop": 0.8177464112613931,
+      "extreme": 0.7997,
+      "entryTs": 1786779000000
     }
   },
   "cooldown_until": {
