@@ -4,8 +4,8 @@
       "instId": "ROBO-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.01524,
-      "activeStop": 0.01626937887273376,
-      "extreme": 0.01416,
+      "activeStop": 0.015604096549430228,
+      "extreme": 0.01371,
       "entryTs": 1786793400000
     },
     "BICO-USDT-SWAP": {
