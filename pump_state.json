@@ -4,16 +4,16 @@
       "instId": "APR-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1737,
-      "activeStop": 0.19217007221597987,
-      "extreme": 0.1737,
+      "activeStop": 0.19097610524566416,
+      "extreme": 0.1704,
       "entryTs": 1786809600000
     },
     "AEON-USDT-SWAP": {
       "instId": "AEON-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0848,
-      "activeStop": 0.0811825083889577,
-      "extreme": 0.0848,
+      "activeStop": 0.08443540181495617,
+      "extreme": 0.0897,
       "entryTs": 1786809600000
     }
   },
