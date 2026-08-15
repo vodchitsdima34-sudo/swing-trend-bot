@@ -1,20 +1,20 @@
 {
   "open_positions": {
-    "HUMA-USDT-SWAP": {
-      "instId": "HUMA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02099,
-      "activeStop": 0.021175487188351327,
-      "extreme": 0.02189,
-      "entryTs": 1786791600000
-    },
     "ROBO-USDT-SWAP": {
       "instId": "ROBO-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.01524,
-      "activeStop": 0.01695485006160843,
-      "extreme": 0.01524,
+      "activeStop": 0.01626937887273376,
+      "extreme": 0.01416,
       "entryTs": 1786793400000
+    },
+    "BICO-USDT-SWAP": {
+      "instId": "BICO-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.02123,
+      "activeStop": 0.022012600373281406,
+      "extreme": 0.02123,
+      "entryTs": 1786796100000
     }
   },
   "cooldown_until": {
@@ -69,6 +69,7 @@
     "APR-USDT-SWAP": 1786780858321,
     "AEON-USDT-SWAP": 1786791749913,
     "WAL-USDT-SWAP": 1786800457962,
-    "MERL-USDT-SWAP": 1786800458844
+    "MERL-USDT-SWAP": 1786800458844,
+    "HUMA-USDT-SWAP": 1786804542776
   }
 }
