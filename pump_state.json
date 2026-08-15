@@ -4,17 +4,9 @@
       "instId": "APR-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1737,
-      "activeStop": 0.17959356603138807,
-      "extreme": 0.1605,
+      "activeStop": 0.17575547809808437,
+      "extreme": 0.1568,
       "entryTs": 1786809600000
-    },
-    "BOME-USDT-SWAP": {
-      "instId": "BOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0009265,
-      "activeStop": 0.0009116834354869343,
-      "extreme": 0.000944,
-      "entryTs": 1786813200000
     }
   },
   "cooldown_until": {
@@ -71,6 +63,6 @@
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1786800458844,
     "HUMA-USDT-SWAP": 1786804542776,
-    "BOME-USDT-SWAP": 1786810882145
+    "BOME-USDT-SWAP": 1786825733151
   }
 }
