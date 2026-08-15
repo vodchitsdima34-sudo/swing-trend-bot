@@ -4,25 +4,9 @@
       "instId": "ROBO-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.01524,
-      "activeStop": 0.015159601185885422,
-      "extreme": 0.01341,
+      "activeStop": 0.014896064875168594,
+      "extreme": 0.01329,
       "entryTs": 1786793400000
-    },
-    "BICO-USDT-SWAP": {
-      "instId": "BICO-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.02123,
-      "activeStop": 0.022012600373281406,
-      "extreme": 0.02123,
-      "entryTs": 1786796100000
-    },
-    "BOME-USDT-SWAP": {
-      "instId": "BOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.000833,
-      "activeStop": 0.000819691941990853,
-      "extreme": 0.000833,
-      "entryTs": 1786800600000
     }
   },
   "cooldown_until": {
@@ -31,7 +15,7 @@
     "OFC-USDT-SWAP": 1786383774958,
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
-    "BICO-USDT-SWAP": 1786688917292,
+    "BICO-USDT-SWAP": 1786810881344,
     "BIO-USDT-SWAP": 1785929220325,
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1785981922555,
@@ -78,6 +62,7 @@
     "AEON-USDT-SWAP": 1786791749913,
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1786800458844,
-    "HUMA-USDT-SWAP": 1786804542776
+    "HUMA-USDT-SWAP": 1786804542776,
+    "BOME-USDT-SWAP": 1786810882145
   }
 }
