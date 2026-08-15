@@ -4,9 +4,17 @@
       "instId": "APR-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.3518,
-      "activeStop": 0.3202259391192573,
+      "activeStop": 0.3160194464283581,
       "extreme": 0.2627,
       "entryTs": 1786764600000
+    },
+    "BEAT-USDT-SWAP": {
+      "instId": "BEAT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.658,
+      "activeStop": 0.6265046925626152,
+      "extreme": 0.658,
+      "entryTs": 1786769100000
     }
   },
   "cooldown_until": {
