@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "ARX-USDT-SWAP": {
-      "instId": "ARX-USDT-SWAP",
+    "AEON-USDT-SWAP": {
+      "instId": "AEON-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.1217,
-      "activeStop": 0.11981278231225452,
-      "extreme": 0.1217,
-      "entryTs": 1786775400000
+      "entryPrice": 0.07149,
+      "activeStop": 0.06925693242097482,
+      "extreme": 0.07149,
+      "entryTs": 1786778100000
     }
   },
   "cooldown_until": {
@@ -30,7 +30,7 @@
     "HMSTR-USDT-SWAP": 1786307960543,
     "H-USDT-SWAP": 1786694423727,
     "UB-USDT-SWAP": 1786270066137,
-    "ARX-USDT-SWAP": 1786190034275,
+    "ARX-USDT-SWAP": 1786786473144,
     "BEAT-USDT-SWAP": 1786780859189,
     "CAP-USDT-SWAP": 1786341262909,
     "MAGIC-USDT-SWAP": 1786216294326,
