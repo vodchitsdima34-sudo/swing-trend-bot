@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "SOPH-USDT-SWAP": {
-      "instId": "SOPH-USDT-SWAP",
+    "GPS-USDT-SWAP": {
+      "instId": "GPS-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.004442,
-      "activeStop": 0.0042951707363002465,
-      "extreme": 0.004442,
-      "entryTs": 1786921200000
+      "entryPrice": 0.010744,
+      "activeStop": 0.010512343423302886,
+      "extreme": 0.010744,
+      "entryTs": 1786922100000
     }
   },
   "cooldown_until": {
@@ -64,6 +64,7 @@
     "MERL-USDT-SWAP": 1786800458844,
     "HUMA-USDT-SWAP": 1786804542776,
     "BOME-USDT-SWAP": 1786825733151,
-    "DYDX-USDT-SWAP": 1786927869396
+    "DYDX-USDT-SWAP": 1786927869396,
+    "SOPH-USDT-SWAP": 1786931082658
   }
 }
