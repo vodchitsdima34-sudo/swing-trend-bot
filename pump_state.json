@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "DYDX-USDT-SWAP": {
+      "instId": "DYDX-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.09903,
+      "activeStop": 0.10071943487226914,
+      "extreme": 0.09903,
+      "entryTs": 1786915800000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
