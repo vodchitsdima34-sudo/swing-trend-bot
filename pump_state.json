@@ -4,9 +4,17 @@
       "instId": "CHIP-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.03051,
-      "activeStop": 0.029494992446927243,
-      "extreme": 0.03051,
+      "activeStop": 0.030042323089411533,
+      "extreme": 0.03147,
       "entryTs": 1786878000000
+    },
+    "GPS-USDT-SWAP": {
+      "instId": "GPS-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.010097,
+      "activeStop": 0.010395934512282098,
+      "extreme": 0.010097,
+      "entryTs": 1786878900000
     }
   },
   "cooldown_until": {
