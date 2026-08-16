@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "CHIP-USDT-SWAP": {
+      "instId": "CHIP-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.03051,
+      "activeStop": 0.029494992446927243,
+      "extreme": 0.03051,
+      "entryTs": 1786878000000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
