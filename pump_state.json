@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "DYDX-USDT-SWAP": {
-      "instId": "DYDX-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.09903,
-      "activeStop": 0.09794096135046057,
-      "extreme": 0.09528,
-      "entryTs": 1786915800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -63,6 +54,7 @@
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1786800458844,
     "HUMA-USDT-SWAP": 1786804542776,
-    "BOME-USDT-SWAP": 1786825733151
+    "BOME-USDT-SWAP": 1786825733151,
+    "DYDX-USDT-SWAP": 1786927869396
   }
 }
