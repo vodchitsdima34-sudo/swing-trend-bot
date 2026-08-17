@@ -4,16 +4,8 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 18.23,
-      "activeStop": 18.386588995487013,
-      "extreme": 19.12,
-      "entryTs": 1786973400000
-    },
-    "ACU-USDT-SWAP": {
-      "instId": "ACU-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.12176,
-      "activeStop": 0.1229707759584891,
-      "extreme": 0.12883,
+      "activeStop": 18.507153784081286,
+      "extreme": 19.23,
       "entryTs": 1786973400000
     }
   },
@@ -56,7 +48,7 @@
     "ROBO-USDT-SWAP": 1786814349354,
     "DOS-USDT-SWAP": 1786465933202,
     "RVN-USDT-SWAP": 1786728770287,
-    "ACU-USDT-SWAP": 1786614759218,
+    "ACU-USDT-SWAP": 1786985708294,
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1786586275105,
