@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "PIEVERSE-USDT-SWAP": {
-      "instId": "PIEVERSE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.9466,
-      "activeStop": 0.9296172128642592,
-      "extreme": 0.9504,
-      "entryTs": 1787000400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -20,7 +11,7 @@
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1786988999633,
     "SUSHI-USDT-SWAP": 1786014648241,
-    "PIEVERSE-USDT-SWAP": 1786790327333,
+    "PIEVERSE-USDT-SWAP": 1787016106097,
     "RESOLV-USDT-SWAP": 1786029600875,
     "ZKP-USDT-SWAP": 1786087413223,
     "KGEN-USDT-SWAP": 1786630157603,
