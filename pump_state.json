@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "GPS-USDT-SWAP": {
-      "instId": "GPS-USDT-SWAP",
+    "BSB-USDT-SWAP": {
+      "instId": "BSB-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.010744,
-      "activeStop": 0.01152670808669351,
-      "extreme": 0.012,
-      "entryTs": 1786922100000
+      "entryPrice": 0.1273,
+      "activeStop": 0.12294757967669452,
+      "extreme": 0.1273,
+      "entryTs": 1786933800000
     }
   },
   "cooldown_until": {
@@ -52,7 +52,7 @@
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1786586275105,
-    "GPS-USDT-SWAP": 1786892100028,
+    "GPS-USDT-SWAP": 1786942730644,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1786662189467,
     "LAB-USDT-SWAP": 1786732343733,
