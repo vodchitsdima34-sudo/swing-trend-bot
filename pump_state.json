@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "SNXX-USDT-SWAP": {
-      "instId": "SNXX-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 18.23,
-      "activeStop": 19.123191408728626,
-      "extreme": 19.9,
-      "entryTs": 1786973400000
-    },
     "EDEN-USDT-SWAP": {
       "instId": "EDEN-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.05092,
-      "activeStop": 0.04966344188792397,
-      "extreme": 0.05092,
+      "activeStop": 0.051800058042105114,
+      "extreme": 0.05405,
       "entryTs": 1786978800000
     }
   },
@@ -26,7 +18,7 @@
     "BICO-USDT-SWAP": 1786810881344,
     "BIO-USDT-SWAP": 1785929220325,
     "ZBT-USDT-SWAP": 1785977899742,
-    "SNXX-USDT-SWAP": 1785981922555,
+    "SNXX-USDT-SWAP": 1786988999633,
     "SUSHI-USDT-SWAP": 1786014648241,
     "PIEVERSE-USDT-SWAP": 1786790327333,
     "RESOLV-USDT-SWAP": 1786029600875,
