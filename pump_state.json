@@ -4,17 +4,9 @@
       "instId": "BSB-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.1273,
-      "activeStop": 0.12547425695594874,
+      "activeStop": 0.12576671162276867,
       "extreme": 0.13,
       "entryTs": 1786933800000
-    },
-    "H-USDT-SWAP": {
-      "instId": "H-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.11021,
-      "activeStop": 0.11782961752311041,
-      "extreme": 0.11021,
-      "entryTs": 1786943700000
     }
   },
   "cooldown_until": {
@@ -36,7 +28,7 @@
     "SLX-USDT-SWAP": 1786131216534,
     "MMT-USDT-SWAP": 1786394071352,
     "HMSTR-USDT-SWAP": 1786307960543,
-    "H-USDT-SWAP": 1786899551864,
+    "H-USDT-SWAP": 1786953903469,
     "UB-USDT-SWAP": 1786270066137,
     "ARX-USDT-SWAP": 1786786473144,
     "BEAT-USDT-SWAP": 1786780859189,
