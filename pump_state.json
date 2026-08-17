@@ -4,7 +4,7 @@
       "instId": "BSB-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.1273,
-      "activeStop": 0.1259378823757266,
+      "activeStop": 0.12621837816636905,
       "extreme": 0.13,
       "entryTs": 1786933800000
     },
@@ -12,8 +12,8 @@
       "instId": "CHIP-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.03204,
-      "activeStop": 0.031014774113385407,
-      "extreme": 0.03204,
+      "activeStop": 0.031230947914721866,
+      "extreme": 0.0328,
       "entryTs": 1786950000000
     }
   },
