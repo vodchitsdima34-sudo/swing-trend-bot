@@ -4,16 +4,16 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 18.23,
-      "activeStop": 17.786643940201934,
-      "extreme": 18.23,
+      "activeStop": 18.386588995487013,
+      "extreme": 19.12,
       "entryTs": 1786973400000
     },
     "ACU-USDT-SWAP": {
       "instId": "ACU-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.12176,
-      "activeStop": 0.11798730604711752,
-      "extreme": 0.12176,
+      "activeStop": 0.1229707759584891,
+      "extreme": 0.12883,
       "entryTs": 1786973400000
     }
   },
