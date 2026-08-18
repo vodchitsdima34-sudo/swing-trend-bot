@@ -4,8 +4,8 @@
       "instId": "USELESS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.03837,
-      "activeStop": 0.038660278558610206,
-      "extreme": 0.03788,
+      "activeStop": 0.03842345589227501,
+      "extreme": 0.03765,
       "entryTs": 1787044500000
     }
   },
