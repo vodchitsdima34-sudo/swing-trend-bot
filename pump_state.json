@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "ETHW-USDT-SWAP": {
-      "instId": "ETHW-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2582,
-      "activeStop": 0.250732191160878,
-      "extreme": 0.2582,
-      "entryTs": 1787067000000
-    },
     "BSB-USDT-SWAP": {
       "instId": "BSB-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1187,
       "activeStop": 0.12215976168461666,
-      "extreme": 0.1187,
+      "extreme": 0.1186,
       "entryTs": 1787067000000
     }
   },
@@ -77,6 +69,7 @@
     "BSB-USDT-SWAP": 1786964419015,
     "GALA-USDT-SWAP": 1787039846644,
     "UP-USDT-SWAP": 1787045838355,
-    "USELESS-USDT-SWAP": 1787069795981
+    "USELESS-USDT-SWAP": 1787069795981,
+    "ETHW-USDT-SWAP": 1787077820512
   }
 }
