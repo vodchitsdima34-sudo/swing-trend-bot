@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "USELESS-USDT-SWAP": {
-      "instId": "USELESS-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.03837,
-      "activeStop": 0.03818374972759634,
-      "extreme": 0.03744,
-      "entryTs": 1787044500000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -68,6 +59,7 @@
     "SOPH-USDT-SWAP": 1786931082658,
     "BSB-USDT-SWAP": 1786964419015,
     "GALA-USDT-SWAP": 1787039846644,
-    "UP-USDT-SWAP": 1787045838355
+    "UP-USDT-SWAP": 1787045838355,
+    "USELESS-USDT-SWAP": 1787069795981
   }
 }
