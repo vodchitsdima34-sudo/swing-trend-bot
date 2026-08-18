@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "UP-USDT-SWAP": {
-      "instId": "UP-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.3595,
-      "activeStop": 0.37014161887948205,
-      "extreme": 0.35,
-      "entryTs": 1787031000000
+    "EDEN-USDT-SWAP": {
+      "instId": "EDEN-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.05695,
+      "activeStop": 0.054251250172322955,
+      "extreme": 0.05695,
+      "entryTs": 1787037300000
     }
   },
   "cooldown_until": {
@@ -67,6 +67,7 @@
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1786931082658,
     "BSB-USDT-SWAP": 1786964419015,
-    "GALA-USDT-SWAP": 1787039846644
+    "GALA-USDT-SWAP": 1787039846644,
+    "UP-USDT-SWAP": 1787045838355
   }
 }
