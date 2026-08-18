@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "GALA-USDT-SWAP": {
-      "instId": "GALA-USDT-SWAP",
+    "UP-USDT-SWAP": {
+      "instId": "UP-USDT-SWAP",
       "direction": "short",
-      "entryPrice": 0.001458,
-      "activeStop": 0.0014024665389763475,
-      "extreme": 0.001356,
-      "entryTs": 1787022000000
-    },
-    "PIEVERSE-USDT-SWAP": {
-      "instId": "PIEVERSE-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.9337,
-      "activeStop": 0.9178059303753602,
-      "extreme": 0.8709,
-      "entryTs": 1787027400000
+      "entryPrice": 0.3595,
+      "activeStop": 0.37306430070869845,
+      "extreme": 0.3595,
+      "entryTs": 1787031000000
     }
   },
   "cooldown_until": {
@@ -28,7 +20,7 @@
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1786988999633,
     "SUSHI-USDT-SWAP": 1786014648241,
-    "PIEVERSE-USDT-SWAP": 1787016106097,
+    "PIEVERSE-USDT-SWAP": 1787039847401,
     "RESOLV-USDT-SWAP": 1786029600875,
     "ZKP-USDT-SWAP": 1786087413223,
     "KGEN-USDT-SWAP": 1786630157603,
@@ -74,6 +66,7 @@
     "BOME-USDT-SWAP": 1786825733151,
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1786931082658,
-    "BSB-USDT-SWAP": 1786964419015
+    "BSB-USDT-SWAP": 1786964419015,
+    "GALA-USDT-SWAP": 1787039846644
   }
 }
