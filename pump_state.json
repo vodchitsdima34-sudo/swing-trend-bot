@@ -4,8 +4,8 @@
       "instId": "UP-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.3595,
-      "activeStop": 0.37306430070869845,
-      "extreme": 0.3595,
+      "activeStop": 0.37014161887948205,
+      "extreme": 0.35,
       "entryTs": 1787031000000
     }
   },
