@@ -1,20 +1,20 @@
 {
   "open_positions": {
-    "BEAT-USDT-SWAP": {
-      "instId": "BEAT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2998,
-      "activeStop": 0.28032667001613404,
-      "extreme": 0.3061,
-      "entryTs": 1787013900000
-    },
-    "ACU-USDT-SWAP": {
-      "instId": "ACU-USDT-SWAP",
+    "GALA-USDT-SWAP": {
+      "instId": "GALA-USDT-SWAP",
       "direction": "short",
-      "entryPrice": 0.12451,
-      "activeStop": 0.12815863516459852,
-      "extreme": 0.1241,
-      "entryTs": 1787013900000
+      "entryPrice": 0.001458,
+      "activeStop": 0.0014853322669258135,
+      "extreme": 0.001458,
+      "entryTs": 1787022000000
+    },
+    "OFC-USDT-SWAP": {
+      "instId": "OFC-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.008617,
+      "activeStop": 0.008930717385106743,
+      "extreme": 0.008617,
+      "entryTs": 1787022000000
     }
   },
   "cooldown_until": {
@@ -39,7 +39,7 @@
     "H-USDT-SWAP": 1786953903469,
     "UB-USDT-SWAP": 1786270066137,
     "ARX-USDT-SWAP": 1786786473144,
-    "BEAT-USDT-SWAP": 1786780859189,
+    "BEAT-USDT-SWAP": 1787030667917,
     "CAP-USDT-SWAP": 1786970196830,
     "MAGIC-USDT-SWAP": 1786216294326,
     "ACT-USDT-SWAP": 1786341263787,
@@ -56,7 +56,7 @@
     "ROBO-USDT-SWAP": 1786814349354,
     "DOS-USDT-SWAP": 1786465933202,
     "RVN-USDT-SWAP": 1786728770287,
-    "ACU-USDT-SWAP": 1786985708294,
+    "ACU-USDT-SWAP": 1787030668802,
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1786586275105,
