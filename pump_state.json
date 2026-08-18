@@ -4,8 +4,8 @@
       "instId": "BEAT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.2998,
-      "activeStop": 0.278820029288486,
-      "extreme": 0.2998,
+      "activeStop": 0.28032667001613404,
+      "extreme": 0.3061,
       "entryTs": 1787013900000
     },
     "ACU-USDT-SWAP": {
@@ -13,15 +13,7 @@
       "direction": "short",
       "entryPrice": 0.12451,
       "activeStop": 0.12815863516459852,
-      "extreme": 0.12451,
-      "entryTs": 1787013900000
-    },
-    "LAB-USDT-SWAP": {
-      "instId": "LAB-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.08623,
-      "activeStop": 0.08428733808342212,
-      "extreme": 0.08623,
+      "extreme": 0.1241,
       "entryTs": 1787013900000
     }
   },
@@ -71,7 +63,7 @@
     "GPS-USDT-SWAP": 1786942730644,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1786991196913,
-    "LAB-USDT-SWAP": 1786732343733,
+    "LAB-USDT-SWAP": 1787027366288,
     "WLFI-USDT-SWAP": 1786747733972,
     "OL-USDT-SWAP": 1786758498181,
     "APR-USDT-SWAP": 1786918937009,
