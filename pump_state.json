@@ -4,23 +4,23 @@
       "instId": "GALA-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.001458,
-      "activeStop": 0.0014205883554826307,
-      "extreme": 0.001373,
+      "activeStop": 0.00140523498894763,
+      "extreme": 0.001356,
       "entryTs": 1787022000000
     },
-    "OFC-USDT-SWAP": {
-      "instId": "OFC-USDT-SWAP",
+    "PIEVERSE-USDT-SWAP": {
+      "instId": "PIEVERSE-USDT-SWAP",
       "direction": "short",
-      "entryPrice": 0.008617,
-      "activeStop": 0.008804001500869995,
-      "extreme": 0.008361,
-      "entryTs": 1787022000000
+      "entryPrice": 0.9337,
+      "activeStop": 0.9634800477401352,
+      "extreme": 0.9337,
+      "entryTs": 1787027400000
     }
   },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
-    "OFC-USDT-SWAP": 1786383774958,
+    "OFC-USDT-SWAP": 1787035919772,
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
     "BICO-USDT-SWAP": 1786810881344,
