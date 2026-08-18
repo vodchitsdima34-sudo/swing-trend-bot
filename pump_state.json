@@ -4,16 +4,16 @@
       "instId": "GALA-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.001458,
-      "activeStop": 0.0014853322669258135,
-      "extreme": 0.001458,
+      "activeStop": 0.0014205883554826307,
+      "extreme": 0.001373,
       "entryTs": 1787022000000
     },
     "OFC-USDT-SWAP": {
       "instId": "OFC-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.008617,
-      "activeStop": 0.008930717385106743,
-      "extreme": 0.008617,
+      "activeStop": 0.008804001500869995,
+      "extreme": 0.008361,
       "entryTs": 1787022000000
     }
   },
