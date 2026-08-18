@@ -4,9 +4,17 @@
       "instId": "BSB-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1187,
-      "activeStop": 0.12215976168461666,
+      "activeStop": 0.12190343204621443,
       "extreme": 0.1186,
       "entryTs": 1787067000000
+    },
+    "UP-USDT-SWAP": {
+      "instId": "UP-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.352,
+      "activeStop": 0.3396660456568733,
+      "extreme": 0.352,
+      "entryTs": 1787077800000
     }
   },
   "cooldown_until": {
