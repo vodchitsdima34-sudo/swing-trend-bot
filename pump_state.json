@@ -4,8 +4,8 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 16.06,
-      "activeStop": 16.782171305633096,
-      "extreme": 16.06,
+      "activeStop": 15.3486710223723,
+      "extreme": 14.2,
       "entryTs": 1787146200000
     }
   },
