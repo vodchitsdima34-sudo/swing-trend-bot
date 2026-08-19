@@ -4,25 +4,9 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 16.06,
-      "activeStop": 15.124746424236864,
+      "activeStop": 15.059537541334421,
       "extreme": 14.2,
       "entryTs": 1787146200000
-    },
-    "BIO-USDT-SWAP": {
-      "instId": "BIO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02906,
-      "activeStop": 0.028386432190607117,
-      "extreme": 0.02935,
-      "entryTs": 1787153400000
-    },
-    "MMT-USDT-SWAP": {
-      "instId": "MMT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1755,
-      "activeStop": 0.17652085975756235,
-      "extreme": 0.1807,
-      "entryTs": 1787153400000
     }
   },
   "cooldown_until": {
@@ -32,7 +16,7 @@
     "STABLE-USDT-SWAP": 1785708097468,
     "LA-USDT-SWAP": 1785721406301,
     "BICO-USDT-SWAP": 1786810881344,
-    "BIO-USDT-SWAP": 1785929220325,
+    "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1786988999633,
     "SUSHI-USDT-SWAP": 1786014648241,
@@ -42,7 +26,7 @@
     "KGEN-USDT-SWAP": 1786630157603,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
-    "MMT-USDT-SWAP": 1786394071352,
+    "MMT-USDT-SWAP": 1787168408998,
     "HMSTR-USDT-SWAP": 1786307960543,
     "H-USDT-SWAP": 1787109153756,
     "UB-USDT-SWAP": 1786270066137,
