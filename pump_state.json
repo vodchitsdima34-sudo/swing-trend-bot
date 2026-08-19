@@ -4,48 +4,24 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 16.06,
-      "activeStop": 15.20005477735262,
+      "activeStop": 15.124746424236864,
       "extreme": 14.2,
       "entryTs": 1787146200000
-    },
-    "MUBARAK-USDT-SWAP": {
-      "instId": "MUBARAK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02333,
-      "activeStop": 0.023290673395457966,
-      "extreme": 0.02477,
-      "entryTs": 1787153400000
     },
     "BIO-USDT-SWAP": {
       "instId": "BIO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02906,
       "activeStop": 0.028386432190607117,
-      "extreme": 0.02932,
-      "entryTs": 1787153400000
-    },
-    "BOME-USDT-SWAP": {
-      "instId": "BOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0008354,
-      "activeStop": 0.0008497471711964345,
-      "extreme": 0.000873,
-      "entryTs": 1787153400000
-    },
-    "ZAMA-USDT-SWAP": {
-      "instId": "ZAMA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.04522,
-      "activeStop": 0.04584024401125942,
-      "extreme": 0.04688,
+      "extreme": 0.02935,
       "entryTs": 1787153400000
     },
     "MMT-USDT-SWAP": {
       "instId": "MMT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.1755,
-      "activeStop": 0.17543643343837714,
-      "extreme": 0.1796,
+      "activeStop": 0.17652085975756235,
+      "extreme": 0.1807,
       "entryTs": 1787153400000
     }
   },
@@ -103,7 +79,7 @@
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1786800458844,
     "HUMA-USDT-SWAP": 1786804542776,
-    "BOME-USDT-SWAP": 1786825733151,
+    "BOME-USDT-SWAP": 1787166152024,
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1786931082658,
     "BSB-USDT-SWAP": 1787088563300,
@@ -115,6 +91,8 @@
     "TRIA-USDT-SWAP": 1787140688833,
     "SOON-USDT-SWAP": 1787142965408,
     "SIGN-USDT-SWAP": 1787148045278,
-    "WLD-USDT-SWAP": 1787164233524
+    "WLD-USDT-SWAP": 1787164233524,
+    "MUBARAK-USDT-SWAP": 1787166150733,
+    "ZAMA-USDT-SWAP": 1787166152788
   }
 }
