@@ -4,8 +4,8 @@
       "instId": "ACU-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.14423,
-      "activeStop": 0.13992384274245515,
-      "extreme": 0.14513,
+      "activeStop": 0.13994839756801272,
+      "extreme": 0.1455,
       "entryTs": 1787166000000
     }
   },
