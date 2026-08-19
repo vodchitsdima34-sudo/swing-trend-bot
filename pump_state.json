@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "SIGN-USDT-SWAP": {
-      "instId": "SIGN-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.007359,
-      "activeStop": 0.007228668293485672,
-      "extreme": 0.007359,
-      "entryTs": 1787138100000
-    },
     "SPACE-USDT-SWAP": {
       "instId": "SPACE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.004963,
-      "activeStop": 0.004891952958136822,
-      "extreme": 0.004963,
+      "activeStop": 0.004987830293759606,
+      "extreme": 0.005095,
       "entryTs": 1787138100000
     }
   },
@@ -81,6 +73,7 @@
     "ETHW-USDT-SWAP": 1787077820512,
     "OPN-USDT-SWAP": 1787132728088,
     "TRIA-USDT-SWAP": 1787140688833,
-    "SOON-USDT-SWAP": 1787142965408
+    "SOON-USDT-SWAP": 1787142965408,
+    "SIGN-USDT-SWAP": 1787148045278
   }
 }
