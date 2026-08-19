@@ -7,6 +7,38 @@
       "activeStop": 0.13994839756801272,
       "extreme": 0.1455,
       "entryTs": 1787166000000
+    },
+    "TRUMP-USDT-SWAP": {
+      "instId": "TRUMP-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 1.685,
+      "activeStop": 1.6471748234071628,
+      "extreme": 1.685,
+      "entryTs": 1787173200000
+    },
+    "ETH-USDT-SWAP": {
+      "instId": "ETH-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 2260.95,
+      "activeStop": 2215.6821451589617,
+      "extreme": 2260.95,
+      "entryTs": 1787173200000
+    },
+    "USELESS-USDT-SWAP": {
+      "instId": "USELESS-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.04321,
+      "activeStop": 0.04227362017241675,
+      "extreme": 0.04321,
+      "entryTs": 1787173200000
+    },
+    "LINK-USDT-SWAP": {
+      "instId": "LINK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 10.826,
+      "activeStop": 10.656117625588161,
+      "extreme": 10.826,
+      "entryTs": 1787173200000
     }
   },
   "cooldown_until": {
