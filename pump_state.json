@@ -4,9 +4,17 @@
       "instId": "OPN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.05292,
-      "activeStop": 0.054574008460337275,
-      "extreme": 0.05292,
+      "activeStop": 0.0543719391384832,
+      "extreme": 0.05208,
       "entryTs": 1787115600000
+    },
+    "TRIA-USDT-SWAP": {
+      "instId": "TRIA-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.007838,
+      "activeStop": 0.008604762361152861,
+      "extreme": 0.007838,
+      "entryTs": 1787117400000
     }
   },
   "cooldown_until": {
