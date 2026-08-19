@@ -4,9 +4,65 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 16.06,
-      "activeStop": 15.34364691420678,
+      "activeStop": 15.290698832405484,
       "extreme": 14.2,
       "entryTs": 1787146200000
+    },
+    "MUBARAK-USDT-SWAP": {
+      "instId": "MUBARAK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02333,
+      "activeStop": 0.02237888362507516,
+      "extreme": 0.02333,
+      "entryTs": 1787153400000
+    },
+    "GRVT-USDT-SWAP": {
+      "instId": "GRVT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.33212,
+      "activeStop": 0.32605376164217736,
+      "extreme": 0.33212,
+      "entryTs": 1787153400000
+    },
+    "BIO-USDT-SWAP": {
+      "instId": "BIO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02906,
+      "activeStop": 0.028386432190607117,
+      "extreme": 0.02906,
+      "entryTs": 1787153400000
+    },
+    "BOME-USDT-SWAP": {
+      "instId": "BOME-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0008354,
+      "activeStop": 0.0008218574393255497,
+      "extreme": 0.0008354,
+      "entryTs": 1787153400000
+    },
+    "WLD-USDT-SWAP": {
+      "instId": "WLD-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.3434,
+      "activeStop": 0.3372038984858542,
+      "extreme": 0.3434,
+      "entryTs": 1787153400000
+    },
+    "ZAMA-USDT-SWAP": {
+      "instId": "ZAMA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.04522,
+      "activeStop": 0.04464747434280573,
+      "extreme": 0.04522,
+      "entryTs": 1787153400000
+    },
+    "MMT-USDT-SWAP": {
+      "instId": "MMT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1755,
+      "activeStop": 0.17282097778164396,
+      "extreme": 0.1755,
+      "entryTs": 1787153400000
     }
   },
   "cooldown_until": {
