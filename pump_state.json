@@ -4,16 +4,8 @@
       "instId": "USELESS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.047,
-      "activeStop": 0.04678373104971996,
-      "extreme": 0.04817,
-      "entryTs": 1787213700000
-    },
-    "PEPE-USDT-SWAP": {
-      "instId": "PEPE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 3.147e-06,
-      "activeStop": 3.1364903939832546e-06,
-      "extreme": 3.214e-06,
+      "activeStop": 0.0476574316725406,
+      "extreme": 0.04911,
       "entryTs": 1787213700000
     }
   },
@@ -91,6 +83,7 @@
     "TRUMP-USDT-SWAP": 1787188915630,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787219325304,
-    "EDGE-USDT-SWAP": 1787224640438
+    "EDGE-USDT-SWAP": 1787224640438,
+    "PEPE-USDT-SWAP": 1787227198026
   }
 }
