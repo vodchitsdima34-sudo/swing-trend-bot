@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "BEAT-USDT-SWAP": {
-      "instId": "BEAT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1561,
-      "activeStop": 0.1463317713625378,
-      "extreme": 0.1564,
-      "entryTs": 1787247000000
-    },
-    "OL-USDT-SWAP": {
-      "instId": "OL-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.004534,
-      "activeStop": 0.00462214119824471,
-      "extreme": 0.004534,
-      "entryTs": 1787250600000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -39,7 +22,7 @@
     "H-USDT-SWAP": 1787212728019,
     "UB-USDT-SWAP": 1786270066137,
     "ARX-USDT-SWAP": 1786786473144,
-    "BEAT-USDT-SWAP": 1787206232492,
+    "BEAT-USDT-SWAP": 1787261422127,
     "CAP-USDT-SWAP": 1786970196830,
     "MAGIC-USDT-SWAP": 1786216294326,
     "ACT-USDT-SWAP": 1786341263787,
@@ -65,7 +48,7 @@
     "EDEN-USDT-SWAP": 1787050565561,
     "LAB-USDT-SWAP": 1787027366288,
     "WLFI-USDT-SWAP": 1786747733972,
-    "OL-USDT-SWAP": 1786758498181,
+    "OL-USDT-SWAP": 1787261422992,
     "APR-USDT-SWAP": 1786918937009,
     "AEON-USDT-SWAP": 1786823167147,
     "WAL-USDT-SWAP": 1786800457962,
