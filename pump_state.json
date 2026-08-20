@@ -4,8 +4,8 @@
       "instId": "ORDI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 4.259,
-      "activeStop": 4.166305799419941,
-      "extreme": 4.259,
+      "activeStop": 4.199884052700083,
+      "extreme": 4.336,
       "entryTs": 1787220900000
     }
   },
