@@ -4,8 +4,8 @@
       "instId": "STABLE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.03131,
-      "activeStop": 0.03158127445254305,
-      "extreme": 0.0329,
+      "activeStop": 0.031927783684175655,
+      "extreme": 0.03341,
       "entryTs": 1787263200000
     }
   },
