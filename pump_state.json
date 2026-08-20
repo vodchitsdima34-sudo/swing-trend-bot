@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "MON-USDT-SWAP": {
+      "instId": "MON-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02719,
+      "activeStop": 0.026603987234173423,
+      "extreme": 0.02719,
+      "entryTs": 1787263200000
+    },
+    "STABLE-USDT-SWAP": {
+      "instId": "STABLE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.03131,
+      "activeStop": 0.030600351646103155,
+      "extreme": 0.03131,
+      "entryTs": 1787263200000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
