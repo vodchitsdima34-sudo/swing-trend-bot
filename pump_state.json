@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "BRETT-USDT-SWAP": {
-      "instId": "BRETT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.004631,
-      "activeStop": 0.004542659915223528,
-      "extreme": 0.004631,
-      "entryTs": 1787226300000
-    },
-    "PENGU-USDT-SWAP": {
-      "instId": "PENGU-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.007205,
-      "activeStop": 0.0070846026509756915,
-      "extreme": 0.007205,
-      "entryTs": 1787226300000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -93,6 +76,8 @@
     "MET-USDT-SWAP": 1787219325304,
     "EDGE-USDT-SWAP": 1787224640438,
     "PEPE-USDT-SWAP": 1787227198026,
-    "ORDI-USDT-SWAP": 1787234641037
+    "ORDI-USDT-SWAP": 1787234641037,
+    "BRETT-USDT-SWAP": 1787238638753,
+    "PENGU-USDT-SWAP": 1787238639683
   }
 }
