@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "BEAT-USDT-SWAP": {
-      "instId": "BEAT-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.147,
-      "activeStop": 0.15298044431112817,
-      "extreme": 0.1414,
-      "entryTs": 1787186700000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -31,7 +22,7 @@
     "H-USDT-SWAP": 1787109153756,
     "UB-USDT-SWAP": 1786270066137,
     "ARX-USDT-SWAP": 1786786473144,
-    "BEAT-USDT-SWAP": 1787030667917,
+    "BEAT-USDT-SWAP": 1787206232492,
     "CAP-USDT-SWAP": 1786970196830,
     "MAGIC-USDT-SWAP": 1786216294326,
     "ACT-USDT-SWAP": 1786341263787,
