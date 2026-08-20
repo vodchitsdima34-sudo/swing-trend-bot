@@ -1,20 +1,20 @@
 {
   "open_positions": {
-    "SNXX-USDT-SWAP": {
-      "instId": "SNXX-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 14.8,
-      "activeStop": 14.953213911084768,
-      "extreme": 15.67,
-      "entryTs": 1787233500000
-    },
     "MERL-USDT-SWAP": {
       "instId": "MERL-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02042,
-      "activeStop": 0.020022261057663623,
+      "activeStop": 0.020022470167762714,
       "extreme": 0.02059,
       "entryTs": 1787243400000
+    },
+    "BEAT-USDT-SWAP": {
+      "instId": "BEAT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1561,
+      "activeStop": 0.1463317713625378,
+      "extreme": 0.1561,
+      "entryTs": 1787247000000
     }
   },
   "cooldown_until": {
@@ -26,7 +26,7 @@
     "BICO-USDT-SWAP": 1787247166144,
     "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
-    "SNXX-USDT-SWAP": 1787169541987,
+    "SNXX-USDT-SWAP": 1787255906592,
     "SUSHI-USDT-SWAP": 1786014648241,
     "PIEVERSE-USDT-SWAP": 1787039847401,
     "RESOLV-USDT-SWAP": 1786029600875,
