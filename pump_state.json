@@ -1,20 +1,20 @@
 {
   "open_positions": {
-    "ORDI-USDT-SWAP": {
-      "instId": "ORDI-USDT-SWAP",
+    "BRETT-USDT-SWAP": {
+      "instId": "BRETT-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 4.259,
-      "activeStop": 4.22936611758411,
-      "extreme": 4.377,
-      "entryTs": 1787220900000
+      "entryPrice": 0.004631,
+      "activeStop": 0.004542659915223528,
+      "extreme": 0.004631,
+      "entryTs": 1787226300000
     },
-    "KGEN-USDT-SWAP": {
-      "instId": "KGEN-USDT-SWAP",
+    "PENGU-USDT-SWAP": {
+      "instId": "PENGU-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.1858,
-      "activeStop": 0.18344506907840658,
-      "extreme": 0.1858,
-      "entryTs": 1787224500000
+      "entryPrice": 0.007205,
+      "activeStop": 0.0070846026509756915,
+      "extreme": 0.007205,
+      "entryTs": 1787226300000
     }
   },
   "cooldown_until": {
@@ -31,7 +31,7 @@
     "PIEVERSE-USDT-SWAP": 1787039847401,
     "RESOLV-USDT-SWAP": 1786029600875,
     "ZKP-USDT-SWAP": 1786087413223,
-    "KGEN-USDT-SWAP": 1786630157603,
+    "KGEN-USDT-SWAP": 1787234641878,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
     "MMT-USDT-SWAP": 1787168408998,
@@ -92,6 +92,7 @@
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787219325304,
     "EDGE-USDT-SWAP": 1787224640438,
-    "PEPE-USDT-SWAP": 1787227198026
+    "PEPE-USDT-SWAP": 1787227198026,
+    "ORDI-USDT-SWAP": 1787234641037
   }
 }
