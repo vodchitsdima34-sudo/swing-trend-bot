@@ -1,20 +1,28 @@
 {
   "open_positions": {
-    "BOME-USDT-SWAP": {
-      "instId": "BOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0009891,
-      "activeStop": 0.0010854805743460828,
-      "extreme": 0.0011358,
-      "entryTs": 1787207400000
-    },
     "EDGE-USDT-SWAP": {
       "instId": "EDGE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.352,
-      "activeStop": 0.3446675684993935,
-      "extreme": 0.352,
+      "activeStop": 0.36027331449478645,
+      "extreme": 0.3737,
       "entryTs": 1787211000000
+    },
+    "USELESS-USDT-SWAP": {
+      "instId": "USELESS-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.047,
+      "activeStop": 0.04605402287773837,
+      "extreme": 0.047,
+      "entryTs": 1787213700000
+    },
+    "PEPE-USDT-SWAP": {
+      "instId": "PEPE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 3.147e-06,
+      "activeStop": 3.092518110558143e-06,
+      "extreme": 3.147e-06,
+      "entryTs": 1787213700000
     }
   },
   "cooldown_until": {
@@ -71,7 +79,7 @@
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1786800458844,
     "HUMA-USDT-SWAP": 1786804542776,
-    "BOME-USDT-SWAP": 1787166152024,
+    "BOME-USDT-SWAP": 1787222235913,
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1786931082658,
     "BSB-USDT-SWAP": 1787088563300,
