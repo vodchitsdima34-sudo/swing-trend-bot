@@ -1,27 +1,19 @@
 {
   "open_positions": {
-    "EDGE-USDT-SWAP": {
-      "instId": "EDGE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.352,
-      "activeStop": 0.36027331449478645,
-      "extreme": 0.3737,
-      "entryTs": 1787211000000
-    },
     "USELESS-USDT-SWAP": {
       "instId": "USELESS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.047,
-      "activeStop": 0.04605402287773837,
-      "extreme": 0.047,
+      "activeStop": 0.04678373104971996,
+      "extreme": 0.04817,
       "entryTs": 1787213700000
     },
     "PEPE-USDT-SWAP": {
       "instId": "PEPE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 3.147e-06,
-      "activeStop": 3.092518110558143e-06,
-      "extreme": 3.147e-06,
+      "activeStop": 3.1364903939832546e-06,
+      "extreme": 3.214e-06,
       "entryTs": 1787213700000
     }
   },
@@ -98,6 +90,7 @@
     "LINK-USDT-SWAP": 1787187060361,
     "TRUMP-USDT-SWAP": 1787188915630,
     "ETH-USDT-SWAP": 1787188916425,
-    "MET-USDT-SWAP": 1787219325304
+    "MET-USDT-SWAP": 1787219325304,
+    "EDGE-USDT-SWAP": 1787224640438
   }
 }
