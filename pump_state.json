@@ -4,16 +4,16 @@
       "instId": "BICO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.01895,
-      "activeStop": 0.018429604977110978,
-      "extreme": 0.01895,
+      "activeStop": 0.01879016595063381,
+      "extreme": 0.01957,
       "entryTs": 1787232600000
     },
     "SNXX-USDT-SWAP": {
       "instId": "SNXX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 14.8,
-      "activeStop": 14.222500929932258,
-      "extreme": 14.8,
+      "activeStop": 14.82128993994844,
+      "extreme": 15.67,
       "entryTs": 1787233500000
     }
   },
