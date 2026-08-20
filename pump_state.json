@@ -4,16 +4,8 @@
       "instId": "BEAT-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.147,
-      "activeStop": 0.15670911910979582,
-      "extreme": 0.147,
-      "entryTs": 1787186700000
-    },
-    "GPS-USDT-SWAP": {
-      "instId": "GPS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.012094,
-      "activeStop": 0.011670551326292097,
-      "extreme": 0.012094,
+      "activeStop": 0.15398670137860793,
+      "extreme": 0.1414,
       "entryTs": 1787186700000
     }
   },
@@ -60,7 +52,7 @@
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1787152092873,
-    "GPS-USDT-SWAP": 1786942730644,
+    "GPS-USDT-SWAP": 1787200245495,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1787050565561,
     "LAB-USDT-SWAP": 1787027366288,
