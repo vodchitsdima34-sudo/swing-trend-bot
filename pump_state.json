@@ -4,24 +4,16 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 14.8,
-      "activeStop": 14.900381368459387,
+      "activeStop": 14.953213911084768,
       "extreme": 15.67,
       "entryTs": 1787233500000
-    },
-    "PEOPLE-USDT-SWAP": {
-      "instId": "PEOPLE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.009504,
-      "activeStop": 0.009677927886916283,
-      "extreme": 0.010107,
-      "entryTs": 1787238900000
     },
     "MERL-USDT-SWAP": {
       "instId": "MERL-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02042,
-      "activeStop": 0.020006697253693608,
-      "extreme": 0.02042,
+      "activeStop": 0.020022261057663623,
+      "extreme": 0.02059,
       "entryTs": 1787243400000
     }
   },
@@ -103,6 +95,7 @@
     "PEPE-USDT-SWAP": 1787227198026,
     "ORDI-USDT-SWAP": 1787234641037,
     "BRETT-USDT-SWAP": 1787238638753,
-    "PENGU-USDT-SWAP": 1787238639683
+    "PENGU-USDT-SWAP": 1787238639683,
+    "PEOPLE-USDT-SWAP": 1787254096113
   }
 }
