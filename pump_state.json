@@ -5,8 +5,16 @@
       "direction": "short",
       "entryPrice": 0.21,
       "activeStop": 0.21829171844942463,
-      "extreme": 0.2098,
+      "extreme": 0.2097,
       "entryTs": 1787200200000
+    },
+    "BOME-USDT-SWAP": {
+      "instId": "BOME-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0009891,
+      "activeStop": 0.0009655924944441821,
+      "extreme": 0.0009891,
+      "entryTs": 1787207400000
     }
   },
   "cooldown_until": {
