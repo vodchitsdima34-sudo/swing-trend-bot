@@ -4,7 +4,7 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 14.8,
-      "activeStop": 14.863714827429751,
+      "activeStop": 14.900381368459387,
       "extreme": 15.67,
       "entryTs": 1787233500000
     },
@@ -12,9 +12,17 @@
       "instId": "PEOPLE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.009504,
-      "activeStop": 0.009262822490180206,
-      "extreme": 0.009564,
+      "activeStop": 0.009677927886916283,
+      "extreme": 0.010107,
       "entryTs": 1787238900000
+    },
+    "MERL-USDT-SWAP": {
+      "instId": "MERL-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02042,
+      "activeStop": 0.020006697253693608,
+      "extreme": 0.02042,
+      "entryTs": 1787243400000
     }
   },
   "cooldown_until": {
