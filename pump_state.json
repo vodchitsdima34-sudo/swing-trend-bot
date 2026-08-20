@@ -4,9 +4,17 @@
       "instId": "ORDI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 4.259,
-      "activeStop": 4.199884052700083,
-      "extreme": 4.336,
+      "activeStop": 4.22936611758411,
+      "extreme": 4.377,
       "entryTs": 1787220900000
+    },
+    "KGEN-USDT-SWAP": {
+      "instId": "KGEN-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1858,
+      "activeStop": 0.18344506907840658,
+      "extreme": 0.1858,
+      "entryTs": 1787224500000
     }
   },
   "cooldown_until": {
