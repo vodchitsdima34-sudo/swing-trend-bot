@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ONT-USDT-SWAP": {
-      "instId": "ONT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05896,
-      "activeStop": 0.05679211787847819,
-      "extreme": 0.05896,
-      "entryTs": 1787257800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -88,6 +79,7 @@
     "ORDI-USDT-SWAP": 1787234641037,
     "BRETT-USDT-SWAP": 1787238638753,
     "PENGU-USDT-SWAP": 1787238639683,
-    "PEOPLE-USDT-SWAP": 1787254096113
+    "PEOPLE-USDT-SWAP": 1787254096113,
+    "ONT-USDT-SWAP": 1787268432947
   }
 }
