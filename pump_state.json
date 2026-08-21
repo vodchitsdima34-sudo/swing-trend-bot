@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "XPL-USDT-SWAP": {
-      "instId": "XPL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.10442,
-      "activeStop": 0.10228494847379706,
-      "extreme": 0.10735,
-      "entryTs": 1787306400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -94,6 +85,7 @@
     "CRV-USDT-SWAP": 1787293392645,
     "BERA-USDT-SWAP": 1787310434964,
     "ASTER-USDT-SWAP": 1787313125068,
-    "TURBO-USDT-SWAP": 1787313127512
+    "TURBO-USDT-SWAP": 1787313127512,
+    "XPL-USDT-SWAP": 1787320941595
   }
 }
