@@ -4,16 +4,8 @@
       "instId": "ZORA-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.007133,
-      "activeStop": 0.006807695877369712,
-      "extreme": 0.007133,
-      "entryTs": 1787316300000
-    },
-    "TRUMP-USDT-SWAP": {
-      "instId": "TRUMP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.887,
-      "activeStop": 1.827527423852992,
-      "extreme": 1.887,
+      "activeStop": 0.006891387859873471,
+      "extreme": 0.007387,
       "entryTs": 1787316300000
     }
   },
@@ -88,7 +80,7 @@
     "ZAMA-USDT-SWAP": 1787166152788,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1787307573278,
-    "TRUMP-USDT-SWAP": 1787188915630,
+    "TRUMP-USDT-SWAP": 1787327905277,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787219325304,
     "EDGE-USDT-SWAP": 1787224640438,
