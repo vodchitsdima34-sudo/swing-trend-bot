@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "BONK-USDT-SWAP": {
-      "instId": "BONK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 3.079e-06,
-      "activeStop": 3.091503796049351e-06,
-      "extreme": 3.194e-06,
-      "entryTs": 1787330700000
-    },
-    "MINA-USDT-SWAP": {
-      "instId": "MINA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05569,
-      "activeStop": 0.05463764788274148,
-      "extreme": 0.05569,
-      "entryTs": 1787336100000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -104,6 +87,8 @@
     "ASTER-USDT-SWAP": 1787313125068,
     "TURBO-USDT-SWAP": 1787313127512,
     "XPL-USDT-SWAP": 1787320941595,
-    "ZORA-USDT-SWAP": 1787332572301
+    "ZORA-USDT-SWAP": 1787332572301,
+    "BONK-USDT-SWAP": 1787346832277,
+    "MINA-USDT-SWAP": 1787346833115
   }
 }
