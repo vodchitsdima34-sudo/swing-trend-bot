@@ -1,60 +1,20 @@
 {
   "open_positions": {
-    "BOME-USDT-SWAP": {
-      "instId": "BOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0013723,
-      "activeStop": 0.0014606170470348942,
-      "extreme": 0.001569,
-      "entryTs": 1787296500000
-    },
-    "ASTER-USDT-SWAP": {
-      "instId": "ASTER-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.7276,
-      "activeStop": 0.7261702944654812,
-      "extreme": 0.7451,
-      "entryTs": 1787299200000
-    },
-    "PEOPLE-USDT-SWAP": {
-      "instId": "PEOPLE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.013071,
-      "activeStop": 0.012543707213908593,
-      "extreme": 0.013071,
-      "entryTs": 1787301900000
-    },
-    "GALA-USDT-SWAP": {
-      "instId": "GALA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.001912,
-      "activeStop": 0.0018581388576576552,
-      "extreme": 0.001912,
-      "entryTs": 1787301900000
-    },
-    "TURBO-USDT-SWAP": {
-      "instId": "TURBO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0010599,
-      "activeStop": 0.0010372422982703488,
-      "extreme": 0.0010599,
-      "entryTs": 1787301900000
-    },
     "ROBO-USDT-SWAP": {
       "instId": "ROBO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.01483,
-      "activeStop": 0.01450237688814925,
-      "extreme": 0.01483,
+      "activeStop": 0.014748643497027057,
+      "extreme": 0.01524,
       "entryTs": 1787301900000
     },
-    "PIEVERSE-USDT-SWAP": {
-      "instId": "PIEVERSE-USDT-SWAP",
+    "GPS-USDT-SWAP": {
+      "instId": "GPS-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 1.0744,
-      "activeStop": 1.0489718842443465,
-      "extreme": 1.0744,
-      "entryTs": 1787301900000
+      "entryPrice": 0.013386,
+      "activeStop": 0.013031758686800472,
+      "extreme": 0.013386,
+      "entryTs": 1787304600000
     }
   },
   "cooldown_until": {
@@ -68,7 +28,7 @@
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1787255906592,
     "SUSHI-USDT-SWAP": 1786014648241,
-    "PIEVERSE-USDT-SWAP": 1787039847401,
+    "PIEVERSE-USDT-SWAP": 1787313128891,
     "RESOLV-USDT-SWAP": 1786029600875,
     "ZKP-USDT-SWAP": 1786087413223,
     "KGEN-USDT-SWAP": 1787234641878,
@@ -111,11 +71,11 @@
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1787259108025,
     "HUMA-USDT-SWAP": 1786804542776,
-    "BOME-USDT-SWAP": 1787222235913,
+    "BOME-USDT-SWAP": 1787313124177,
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1786931082658,
     "BSB-USDT-SWAP": 1787088563300,
-    "GALA-USDT-SWAP": 1787039846644,
+    "GALA-USDT-SWAP": 1787313126705,
     "UP-USDT-SWAP": 1787096880162,
     "USELESS-USDT-SWAP": 1787229561969,
     "ETHW-USDT-SWAP": 1787077820512,
@@ -136,10 +96,12 @@
     "ORDI-USDT-SWAP": 1787234641037,
     "BRETT-USDT-SWAP": 1787238638753,
     "PENGU-USDT-SWAP": 1787238639683,
-    "PEOPLE-USDT-SWAP": 1787254096113,
+    "PEOPLE-USDT-SWAP": 1787313125893,
     "ONT-USDT-SWAP": 1787268432947,
     "MON-USDT-SWAP": 1787273782354,
     "CRV-USDT-SWAP": 1787293392645,
-    "BERA-USDT-SWAP": 1787310434964
+    "BERA-USDT-SWAP": 1787310434964,
+    "ASTER-USDT-SWAP": 1787313125068,
+    "TURBO-USDT-SWAP": 1787313127512
   }
 }
