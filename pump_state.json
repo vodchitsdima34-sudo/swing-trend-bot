@@ -4,17 +4,25 @@
       "instId": "BOME-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0013723,
-      "activeStop": 0.0013174824958807313,
-      "extreme": 0.0013723,
+      "activeStop": 0.0014135223267280912,
+      "extreme": 0.0015109,
       "entryTs": 1787296500000
     },
-    "LINK-USDT-SWAP": {
-      "instId": "LINK-USDT-SWAP",
+    "BERA-USDT-SWAP": {
+      "instId": "BERA-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 11.609,
-      "activeStop": 11.439859120052605,
-      "extreme": 11.609,
-      "entryTs": 1787296500000
+      "entryPrice": 0.1848,
+      "activeStop": 0.1814905341188513,
+      "extreme": 0.1848,
+      "entryTs": 1787299200000
+    },
+    "ASTER-USDT-SWAP": {
+      "instId": "ASTER-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.7276,
+      "activeStop": 0.7148174470813194,
+      "extreme": 0.7276,
+      "entryTs": 1787299200000
     }
   },
   "cooldown_until": {
@@ -87,7 +95,7 @@
     "MUBARAK-USDT-SWAP": 1787166150733,
     "ZAMA-USDT-SWAP": 1787166152788,
     "HYPE-USDT-SWAP": 1787176192442,
-    "LINK-USDT-SWAP": 1787187060361,
+    "LINK-USDT-SWAP": 1787307573278,
     "TRUMP-USDT-SWAP": 1787188915630,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787219325304,
