@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "CRV-USDT-SWAP": {
+      "instId": "CRV-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.3004,
+      "activeStop": 0.29245626240630074,
+      "extreme": 0.3004,
+      "entryTs": 1787278500000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
