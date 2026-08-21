@@ -4,8 +4,8 @@
       "instId": "CRV-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.3004,
-      "activeStop": 0.29245626240630074,
-      "extreme": 0.3004,
+      "activeStop": 0.3064604141528557,
+      "extreme": 0.3186,
       "entryTs": 1787278500000
     }
   },
