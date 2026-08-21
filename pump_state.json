@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "NEIRO-USDT-SWAP": {
-      "instId": "NEIRO-USDT-SWAP",
+    "BOME-USDT-SWAP": {
+      "instId": "BOME-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.00010307,
-      "activeStop": 0.0001045184901661742,
-      "extreme": 0.00011248,
-      "entryTs": 1787290200000
+      "entryPrice": 0.0013723,
+      "activeStop": 0.0013174824958807313,
+      "extreme": 0.0013723,
+      "entryTs": 1787296500000
+    },
+    "LINK-USDT-SWAP": {
+      "instId": "LINK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 11.609,
+      "activeStop": 11.439859120052605,
+      "extreme": 11.609,
+      "entryTs": 1787296500000
     }
   },
   "cooldown_until": {
@@ -38,7 +46,7 @@
     "LIGHT-USDT-SWAP": 1786232741759,
     "PARTI-USDT-SWAP": 1786262862935,
     "SHELL-USDT-SWAP": 1786295237087,
-    "NEIRO-USDT-SWAP": 1786307958756,
+    "NEIRO-USDT-SWAP": 1787304627263,
     "MOODENG-USDT-SWAP": 1786307959651,
     "CHIP-USDT-SWAP": 1786964419790,
     "RECALL-USDT-SWAP": 1786341264674,
