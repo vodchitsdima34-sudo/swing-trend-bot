@@ -4,7 +4,7 @@
       "instId": "ETHFI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.6244,
-      "activeStop": 0.6095643446060725,
+      "activeStop": 0.6099398869685434,
       "extreme": 0.6337,
       "entryTs": 1787343300000
     },
@@ -13,8 +13,16 @@
       "direction": "long",
       "entryPrice": 2.949e-05,
       "activeStop": 2.860628591841359e-05,
-      "extreme": 2.949e-05,
+      "extreme": 2.972e-05,
       "entryTs": 1787350500000
+    },
+    "SHIB-USDT-SWAP": {
+      "instId": "SHIB-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 6.158e-06,
+      "activeStop": 6.012412752543098e-06,
+      "extreme": 6.158e-06,
+      "entryTs": 1787352300000
     }
   },
   "cooldown_until": {
