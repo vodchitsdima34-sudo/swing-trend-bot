@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "ROBO-USDT-SWAP": {
-      "instId": "ROBO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.01821,
-      "activeStop": 0.017441179995617093,
-      "extreme": 0.01821,
-      "entryTs": 1787343300000
-    },
     "ETHFI-USDT-SWAP": {
       "instId": "ETHFI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.6244,
       "activeStop": 0.6063969502487375,
-      "extreme": 0.6244,
+      "extreme": 0.626,
       "entryTs": 1787343300000
     }
   },
@@ -53,7 +45,7 @@
     "HOME-USDT-SWAP": 1787132729775,
     "GRVT-USDT-SWAP": 1787164231809,
     "YB-USDT-SWAP": 1786376621415,
-    "ROBO-USDT-SWAP": 1787315364356,
+    "ROBO-USDT-SWAP": 1787353224438,
     "DOS-USDT-SWAP": 1786465933202,
     "RVN-USDT-SWAP": 1786728770287,
     "ACU-USDT-SWAP": 1787185426146,
