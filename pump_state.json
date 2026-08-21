@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ZORA-USDT-SWAP": {
-      "instId": "ZORA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.007133,
-      "activeStop": 0.006931694669149752,
-      "extreme": 0.007387,
-      "entryTs": 1787316300000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -95,6 +86,7 @@
     "BERA-USDT-SWAP": 1787310434964,
     "ASTER-USDT-SWAP": 1787313125068,
     "TURBO-USDT-SWAP": 1787313127512,
-    "XPL-USDT-SWAP": 1787320941595
+    "XPL-USDT-SWAP": 1787320941595,
+    "ZORA-USDT-SWAP": 1787332572301
   }
 }
