@@ -4,8 +4,8 @@
       "instId": "BONK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 3.079e-06,
-      "activeStop": 3.0097915339877286e-06,
-      "extreme": 3.079e-06,
+      "activeStop": 3.091503796049351e-06,
+      "extreme": 3.194e-06,
       "entryTs": 1787330700000
     }
   },
