@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "ROBO-USDT-SWAP": {
-      "instId": "ROBO-USDT-SWAP",
+    "XPL-USDT-SWAP": {
+      "instId": "XPL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.01483,
-      "activeStop": 0.014748643497027057,
-      "extreme": 0.01524,
-      "entryTs": 1787301900000
-    },
-    "GPS-USDT-SWAP": {
-      "instId": "GPS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.013386,
-      "activeStop": 0.013031758686800472,
-      "extreme": 0.013386,
-      "entryTs": 1787304600000
+      "entryPrice": 0.10442,
+      "activeStop": 0.10120323656438085,
+      "extreme": 0.10442,
+      "entryTs": 1787306400000
     }
   },
   "cooldown_until": {
@@ -53,14 +45,14 @@
     "HOME-USDT-SWAP": 1787132729775,
     "GRVT-USDT-SWAP": 1787164231809,
     "YB-USDT-SWAP": 1786376621415,
-    "ROBO-USDT-SWAP": 1786814349354,
+    "ROBO-USDT-SWAP": 1787315364356,
     "DOS-USDT-SWAP": 1786465933202,
     "RVN-USDT-SWAP": 1786728770287,
     "ACU-USDT-SWAP": 1787185426146,
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1787152092873,
-    "GPS-USDT-SWAP": 1787200245495,
+    "GPS-USDT-SWAP": 1787315365223,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1787050565561,
     "LAB-USDT-SWAP": 1787027366288,
