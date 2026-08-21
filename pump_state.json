@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "ZORA-USDT-SWAP": {
+      "instId": "ZORA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.007133,
+      "activeStop": 0.006807695877369712,
+      "extreme": 0.007133,
+      "entryTs": 1787316300000
+    },
+    "TRUMP-USDT-SWAP": {
+      "instId": "TRUMP-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 1.887,
+      "activeStop": 1.827527423852992,
+      "extreme": 1.887,
+      "entryTs": 1787316300000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
