@@ -4,8 +4,8 @@
       "instId": "NEIRO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.00010307,
-      "activeStop": 9.801067433853073e-05,
-      "extreme": 0.00010307,
+      "activeStop": 0.0001045184901661742,
+      "extreme": 0.00011248,
       "entryTs": 1787290200000
     }
   },
