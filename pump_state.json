@@ -4,25 +4,17 @@
       "instId": "GRVT-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.26172,
-      "activeStop": 0.2650233819697092,
-      "extreme": 0.25763,
+      "activeStop": 0.2632246113400891,
+      "extreme": 0.25614,
       "entryTs": 1787419800000
     },
     "FARTCOIN-USDT-SWAP": {
       "instId": "FARTCOIN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1895,
-      "activeStop": 0.1978935975157578,
+      "activeStop": 0.19737103805376074,
       "extreme": 0.1852,
       "entryTs": 1787421600000
-    },
-    "ZRO-USDT-SWAP": {
-      "instId": "ZRO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.1046,
-      "activeStop": 1.0827610836676909,
-      "extreme": 1.1221,
-      "entryTs": 1787424300000
     }
   },
   "cooldown_until": {
@@ -127,6 +119,7 @@
     "CRO-USDT-SWAP": 1787385261653,
     "NOT-USDT-SWAP": 1787385262513,
     "SOL-USDT-SWAP": 1787385263386,
-    "POPCAT-USDT-SWAP": 1787426359871
+    "POPCAT-USDT-SWAP": 1787426359871,
+    "ZRO-USDT-SWAP": 1787437553339
   }
 }
