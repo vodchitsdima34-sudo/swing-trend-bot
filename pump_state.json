@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ZAMA-USDT-SWAP": {
-      "instId": "ZAMA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.06468,
-      "activeStop": 0.0608649509220298,
-      "extreme": 0.06615,
-      "entryTs": 1787383800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -77,7 +68,7 @@
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
     "MUBARAK-USDT-SWAP": 1787378787011,
-    "ZAMA-USDT-SWAP": 1787166152788,
+    "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1787307573278,
     "TRUMP-USDT-SWAP": 1787381357582,
