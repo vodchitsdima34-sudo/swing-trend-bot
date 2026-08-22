@@ -4,9 +4,17 @@
       "instId": "FLOKI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 2.949e-05,
-      "activeStop": 2.869406789483239e-05,
-      "extreme": 2.984e-05,
+      "activeStop": 2.919807437431718e-05,
+      "extreme": 3.031e-05,
       "entryTs": 1787350500000
+    },
+    "SAND-USDT-SWAP": {
+      "instId": "SAND-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.0454,
+      "activeStop": 0.04651435965870489,
+      "extreme": 0.0454,
+      "entryTs": 1787361300000
     }
   },
   "cooldown_until": {
