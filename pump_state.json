@@ -4,41 +4,33 @@
       "instId": "TRUMP-USDT-SWAP",
       "direction": "long",
       "entryPrice": 2.118,
-      "activeStop": 2.1518894210207153,
-      "extreme": 2.252,
+      "activeStop": 2.5679292669023397,
+      "extreme": 2.735,
       "entryTs": 1787364900000
     },
     "MOVE-USDT-SWAP": {
       "instId": "MOVE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.00792,
-      "activeStop": 0.007821139512516681,
-      "extreme": 0.00807,
+      "activeStop": 0.008229035363316315,
+      "extreme": 0.008528,
       "entryTs": 1787364900000
     },
-    "MUBARAK-USDT-SWAP": {
-      "instId": "MUBARAK-USDT-SWAP",
+    "POL-USDT-SWAP": {
+      "instId": "POL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.021642,
-      "activeStop": 0.025558822399724165,
-      "extreme": 0.02685,
-      "entryTs": 1787364900000
+      "entryPrice": 0.10508,
+      "activeStop": 0.10297611774954017,
+      "extreme": 0.10508,
+      "entryTs": 1787370300000
     },
-    "O-USDT-SWAP": {
-      "instId": "O-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.5178,
-      "activeStop": 0.514351158024586,
-      "extreme": 0.4838,
-      "entryTs": 1787364900000
-    },
-    "AVNT-USDT-SWAP": {
-      "instId": "AVNT-USDT-SWAP",
+    "UP-USDT-SWAP": {
+      "instId": "UP-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.11413,
-      "activeStop": 0.11180383916996532,
-      "extreme": 0.11413,
-      "entryTs": 1787367600000
+      "entryPrice": 0.4196,
+      "activeStop": 0.40902138988297915,
+      "extreme": 0.4196,
+      "entryTs": 1787370300000
     }
   },
   "cooldown_until": {
@@ -108,7 +100,7 @@
     "SOON-USDT-SWAP": 1787142965408,
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
-    "MUBARAK-USDT-SWAP": 1787166150733,
+    "MUBARAK-USDT-SWAP": 1787378787011,
     "ZAMA-USDT-SWAP": 1787166152788,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1787307573278,
@@ -135,6 +127,8 @@
     "SHIB-USDT-SWAP": 1787362358243,
     "FLOKI-USDT-SWAP": 1787373644280,
     "SAND-USDT-SWAP": 1787373645069,
-    "CORE-USDT-SWAP": 1787376355747
+    "CORE-USDT-SWAP": 1787376355747,
+    "O-USDT-SWAP": 1787378787974,
+    "AVNT-USDT-SWAP": 1787378789002
   }
 }
