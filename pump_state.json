@@ -1,52 +1,12 @@
 {
   "open_positions": {
-    "POL-USDT-SWAP": {
-      "instId": "POL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.10508,
-      "activeStop": 0.10529754739528052,
-      "extreme": 0.10806,
-      "entryTs": 1787370300000
-    },
-    "UP-USDT-SWAP": {
-      "instId": "UP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.4196,
-      "activeStop": 0.41531950411967955,
-      "extreme": 0.4294,
-      "entryTs": 1787370300000
-    },
-    "USELESS-USDT-SWAP": {
-      "instId": "USELESS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.07078,
-      "activeStop": 0.06854013761866776,
-      "extreme": 0.07078,
-      "entryTs": 1787373000000
-    },
-    "CRO-USDT-SWAP": {
-      "instId": "CRO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.069,
-      "activeStop": 0.0671925538160681,
-      "extreme": 0.069,
-      "entryTs": 1787373000000
-    },
-    "NOT-USDT-SWAP": {
-      "instId": "NOT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0004924,
-      "activeStop": 0.00048494312732649326,
-      "extreme": 0.0004924,
-      "entryTs": 1787373000000
-    },
-    "SOL-USDT-SWAP": {
-      "instId": "SOL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 102.22,
-      "activeStop": 100.48783368309239,
-      "extreme": 102.22,
-      "entryTs": 1787373000000
+    "OFC-USDT-SWAP": {
+      "instId": "OFC-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.009406,
+      "activeStop": 0.009771311872633553,
+      "extreme": 0.009406,
+      "entryTs": 1787376600000
     }
   },
   "cooldown_until": {
@@ -108,8 +68,8 @@
     "SOPH-USDT-SWAP": 1786931082658,
     "BSB-USDT-SWAP": 1787088563300,
     "GALA-USDT-SWAP": 1787313126705,
-    "UP-USDT-SWAP": 1787096880162,
-    "USELESS-USDT-SWAP": 1787229561969,
+    "UP-USDT-SWAP": 1787385259946,
+    "USELESS-USDT-SWAP": 1787385260815,
     "ETHW-USDT-SWAP": 1787077820512,
     "OPN-USDT-SWAP": 1787132728088,
     "TRIA-USDT-SWAP": 1787140688833,
@@ -146,6 +106,10 @@
     "CORE-USDT-SWAP": 1787376355747,
     "O-USDT-SWAP": 1787378787974,
     "AVNT-USDT-SWAP": 1787378789002,
-    "MOVE-USDT-SWAP": 1787381358543
+    "MOVE-USDT-SWAP": 1787381358543,
+    "POL-USDT-SWAP": 1787385259124,
+    "CRO-USDT-SWAP": 1787385261653,
+    "NOT-USDT-SWAP": 1787385262513,
+    "SOL-USDT-SWAP": 1787385263386
   }
 }
