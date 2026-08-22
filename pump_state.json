@@ -4,7 +4,7 @@
       "instId": "OL-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.004588,
-      "activeStop": 0.004621998714348697,
+      "activeStop": 0.00461843639804622,
       "extreme": 0.004435,
       "entryTs": 1787409000000
     },
@@ -12,9 +12,25 @@
       "instId": "TRIA-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.007444,
-      "activeStop": 0.007196628219089323,
-      "extreme": 0.007444,
+      "activeStop": 0.007222699500604673,
+      "extreme": 0.007575,
       "entryTs": 1787414400000
+    },
+    "POPCAT-USDT-SWAP": {
+      "instId": "POPCAT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.05884,
+      "activeStop": 0.05717636609815206,
+      "extreme": 0.05884,
+      "entryTs": 1787416200000
+    },
+    "MET-USDT-SWAP": {
+      "instId": "MET-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.2313,
+      "activeStop": 0.22613379004917786,
+      "extreme": 0.2313,
+      "entryTs": 1787416200000
     }
   },
   "cooldown_until": {
