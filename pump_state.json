@@ -1,36 +1,52 @@
 {
   "open_positions": {
-    "TRUMP-USDT-SWAP": {
-      "instId": "TRUMP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 2.118,
-      "activeStop": 2.5679292669023397,
-      "extreme": 2.735,
-      "entryTs": 1787364900000
-    },
-    "MOVE-USDT-SWAP": {
-      "instId": "MOVE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.00792,
-      "activeStop": 0.008229035363316315,
-      "extreme": 0.008528,
-      "entryTs": 1787364900000
-    },
     "POL-USDT-SWAP": {
       "instId": "POL-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.10508,
-      "activeStop": 0.10297611774954017,
-      "extreme": 0.10508,
+      "activeStop": 0.10529754739528052,
+      "extreme": 0.10806,
       "entryTs": 1787370300000
     },
     "UP-USDT-SWAP": {
       "instId": "UP-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.4196,
-      "activeStop": 0.40902138988297915,
-      "extreme": 0.4196,
+      "activeStop": 0.41531950411967955,
+      "extreme": 0.4294,
       "entryTs": 1787370300000
+    },
+    "USELESS-USDT-SWAP": {
+      "instId": "USELESS-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.07078,
+      "activeStop": 0.06854013761866776,
+      "extreme": 0.07078,
+      "entryTs": 1787373000000
+    },
+    "CRO-USDT-SWAP": {
+      "instId": "CRO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.069,
+      "activeStop": 0.0671925538160681,
+      "extreme": 0.069,
+      "entryTs": 1787373000000
+    },
+    "NOT-USDT-SWAP": {
+      "instId": "NOT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0004924,
+      "activeStop": 0.00048494312732649326,
+      "extreme": 0.0004924,
+      "entryTs": 1787373000000
+    },
+    "SOL-USDT-SWAP": {
+      "instId": "SOL-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 102.22,
+      "activeStop": 100.48783368309239,
+      "extreme": 102.22,
+      "entryTs": 1787373000000
     }
   },
   "cooldown_until": {
@@ -104,7 +120,7 @@
     "ZAMA-USDT-SWAP": 1787166152788,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1787307573278,
-    "TRUMP-USDT-SWAP": 1787327905277,
+    "TRUMP-USDT-SWAP": 1787381357582,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787219325304,
     "EDGE-USDT-SWAP": 1787224640438,
@@ -129,6 +145,7 @@
     "SAND-USDT-SWAP": 1787373645069,
     "CORE-USDT-SWAP": 1787376355747,
     "O-USDT-SWAP": 1787378787974,
-    "AVNT-USDT-SWAP": 1787378789002
+    "AVNT-USDT-SWAP": 1787378789002,
+    "MOVE-USDT-SWAP": 1787381358543
   }
 }
