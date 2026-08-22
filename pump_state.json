@@ -4,41 +4,41 @@
       "instId": "TRUMP-USDT-SWAP",
       "direction": "long",
       "entryPrice": 2.118,
-      "activeStop": 2.0528824197736397,
-      "extreme": 2.118,
+      "activeStop": 2.1518894210207153,
+      "extreme": 2.252,
       "entryTs": 1787364900000
     },
     "MOVE-USDT-SWAP": {
       "instId": "MOVE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.00792,
-      "activeStop": 0.007746492699798711,
-      "extreme": 0.00792,
+      "activeStop": 0.007821139512516681,
+      "extreme": 0.00807,
       "entryTs": 1787364900000
     },
     "MUBARAK-USDT-SWAP": {
       "instId": "MUBARAK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.021642,
-      "activeStop": 0.02121248489588694,
-      "extreme": 0.021642,
-      "entryTs": 1787364900000
-    },
-    "CORE-USDT-SWAP": {
-      "instId": "CORE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02797,
-      "activeStop": 0.027339420967654144,
-      "extreme": 0.02797,
+      "activeStop": 0.025558822399724165,
+      "extreme": 0.02685,
       "entryTs": 1787364900000
     },
     "O-USDT-SWAP": {
       "instId": "O-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.5178,
-      "activeStop": 0.5362921376191604,
-      "extreme": 0.5178,
+      "activeStop": 0.514351158024586,
+      "extreme": 0.4838,
       "entryTs": 1787364900000
+    },
+    "AVNT-USDT-SWAP": {
+      "instId": "AVNT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.11413,
+      "activeStop": 0.11180383916996532,
+      "extreme": 0.11413,
+      "entryTs": 1787367600000
     }
   },
   "cooldown_until": {
@@ -134,6 +134,7 @@
     "ETHFI-USDT-SWAP": 1787362356928,
     "SHIB-USDT-SWAP": 1787362358243,
     "FLOKI-USDT-SWAP": 1787373644280,
-    "SAND-USDT-SWAP": 1787373645069
+    "SAND-USDT-SWAP": 1787373645069,
+    "CORE-USDT-SWAP": 1787376355747
   }
 }
