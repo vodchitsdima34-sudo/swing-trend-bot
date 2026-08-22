@@ -4,7 +4,7 @@
       "instId": "OL-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.004588,
-      "activeStop": 0.00461843639804622,
+      "activeStop": 0.004608860351027019,
       "extreme": 0.004435,
       "entryTs": 1787409000000
     },
@@ -12,25 +12,9 @@
       "instId": "TRIA-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.007444,
-      "activeStop": 0.007222699500604673,
+      "activeStop": 0.007236018914878091,
       "extreme": 0.007575,
       "entryTs": 1787414400000
-    },
-    "POPCAT-USDT-SWAP": {
-      "instId": "POPCAT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05884,
-      "activeStop": 0.05717636609815206,
-      "extreme": 0.05884,
-      "entryTs": 1787416200000
-    },
-    "MET-USDT-SWAP": {
-      "instId": "MET-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2313,
-      "activeStop": 0.22613379004917786,
-      "extreme": 0.2313,
-      "entryTs": 1787416200000
     }
   },
   "cooldown_until": {
@@ -106,7 +90,7 @@
     "LINK-USDT-SWAP": 1787307573278,
     "TRUMP-USDT-SWAP": 1787381357582,
     "ETH-USDT-SWAP": 1787188916425,
-    "MET-USDT-SWAP": 1787219325304,
+    "MET-USDT-SWAP": 1787426360673,
     "EDGE-USDT-SWAP": 1787224640438,
     "PEPE-USDT-SWAP": 1787227198026,
     "ORDI-USDT-SWAP": 1787234641037,
@@ -134,6 +118,7 @@
     "POL-USDT-SWAP": 1787385259124,
     "CRO-USDT-SWAP": 1787385261653,
     "NOT-USDT-SWAP": 1787385262513,
-    "SOL-USDT-SWAP": 1787385263386
+    "SOL-USDT-SWAP": 1787385263386,
+    "POPCAT-USDT-SWAP": 1787426359871
   }
 }
