@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "GRVT-USDT-SWAP": {
-      "instId": "GRVT-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.26172,
-      "activeStop": 0.2591170018827786,
-      "extreme": 0.25232,
-      "entryTs": 1787419800000
-    },
     "FARTCOIN-USDT-SWAP": {
       "instId": "FARTCOIN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1895,
-      "activeStop": 0.19643363265614588,
-      "extreme": 0.1852,
+      "activeStop": 0.19293141724102147,
+      "extreme": 0.1815,
       "entryTs": 1787421600000
     }
   },
@@ -51,7 +43,7 @@
     "CHIP-USDT-SWAP": 1786964419790,
     "RECALL-USDT-SWAP": 1786341264674,
     "HOME-USDT-SWAP": 1787132729775,
-    "GRVT-USDT-SWAP": 1787164231809,
+    "GRVT-USDT-SWAP": 1787440845648,
     "YB-USDT-SWAP": 1786376621415,
     "ROBO-USDT-SWAP": 1787353224438,
     "DOS-USDT-SWAP": 1786465933202,
