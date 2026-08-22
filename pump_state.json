@@ -4,7 +4,7 @@
       "instId": "OL-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.004588,
-      "activeStop": 0.004595763589262829,
+      "activeStop": 0.0045907099995315575,
       "extreme": 0.004435,
       "entryTs": 1787409000000
     },
@@ -12,7 +12,7 @@
       "instId": "TRIA-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.007444,
-      "activeStop": 0.0072442766302463725,
+      "activeStop": 0.007273068285639505,
       "extreme": 0.007575,
       "entryTs": 1787414400000
     },
@@ -20,9 +20,17 @@
       "instId": "GRVT-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.26172,
-      "activeStop": 0.2688244821560501,
-      "extreme": 0.26172,
+      "activeStop": 0.26699152218127975,
+      "extreme": 0.25815,
       "entryTs": 1787419800000
+    },
+    "FARTCOIN-USDT-SWAP": {
+      "instId": "FARTCOIN-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.1895,
+      "activeStop": 0.1998369987007332,
+      "extreme": 0.1895,
+      "entryTs": 1787421600000
     }
   },
   "cooldown_until": {
