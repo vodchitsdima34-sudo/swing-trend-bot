@@ -4,9 +4,17 @@
       "instId": "OFC-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.009406,
-      "activeStop": 0.009666107037684911,
+      "activeStop": 0.009632996338088801,
       "extreme": 0.009265,
       "entryTs": 1787376600000
+    },
+    "ZAMA-USDT-SWAP": {
+      "instId": "ZAMA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.06468,
+      "activeStop": 0.060810494676187925,
+      "extreme": 0.06468,
+      "entryTs": 1787383800000
     }
   },
   "cooldown_until": {
