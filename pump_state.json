@@ -4,15 +4,15 @@
       "instId": "GRVT-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.26172,
-      "activeStop": 0.2654450715987831,
-      "extreme": 0.25768,
+      "activeStop": 0.2650233819697092,
+      "extreme": 0.25763,
       "entryTs": 1787419800000
     },
     "FARTCOIN-USDT-SWAP": {
       "instId": "FARTCOIN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1895,
-      "activeStop": 0.19809888476757098,
+      "activeStop": 0.1978935975157578,
       "extreme": 0.1852,
       "entryTs": 1787421600000
     },
@@ -20,7 +20,7 @@
       "instId": "ZRO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 1.1046,
-      "activeStop": 1.0815160342511148,
+      "activeStop": 1.0827610836676909,
       "extreme": 1.1221,
       "entryTs": 1787424300000
     }
