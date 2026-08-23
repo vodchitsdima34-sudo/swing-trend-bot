@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "AEON-USDT-SWAP": {
-      "instId": "AEON-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.06647,
-      "activeStop": 0.06580060399416499,
-      "extreme": 0.06353,
-      "entryTs": 1787441400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -59,7 +50,7 @@
     "WLFI-USDT-SWAP": 1786747733972,
     "OL-USDT-SWAP": 1787434484274,
     "APR-USDT-SWAP": 1786918937009,
-    "AEON-USDT-SWAP": 1786823167147,
+    "AEON-USDT-SWAP": 1787466147302,
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1787259108025,
     "HUMA-USDT-SWAP": 1786804542776,
