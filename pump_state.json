@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "XPL-USDT-SWAP": {
-      "instId": "XPL-USDT-SWAP",
+    "UNI-USDT-SWAP": {
+      "instId": "UNI-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.10389,
-      "activeStop": 0.10211837452666112,
-      "extreme": 0.10592,
-      "entryTs": 1787484600000
+      "entryPrice": 4.619,
+      "activeStop": 4.529095217618975,
+      "extreme": 4.619,
+      "entryTs": 1787491800000
+    },
+    "USELESS-USDT-SWAP": {
+      "instId": "USELESS-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.07249,
+      "activeStop": 0.07061620736041291,
+      "extreme": 0.07249,
+      "entryTs": 1787491800000
     }
   },
   "cooldown_until": {
@@ -95,7 +103,7 @@
     "BERA-USDT-SWAP": 1787310434964,
     "ASTER-USDT-SWAP": 1787313125068,
     "TURBO-USDT-SWAP": 1787313127512,
-    "XPL-USDT-SWAP": 1787320941595,
+    "XPL-USDT-SWAP": 1787500428029,
     "ZORA-USDT-SWAP": 1787332572301,
     "BONK-USDT-SWAP": 1787346832277,
     "MINA-USDT-SWAP": 1787346833115,
