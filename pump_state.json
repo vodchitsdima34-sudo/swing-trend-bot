@@ -1,18 +1,10 @@
 {
   "open_positions": {
-    "STRK-USDT-SWAP": {
-      "instId": "STRK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02956,
-      "activeStop": 0.029314423800596078,
-      "extreme": 0.03014,
-      "entryTs": 1787506200000
-    },
     "SPK-USDT-SWAP": {
       "instId": "SPK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02188,
-      "activeStop": 0.022167987299170328,
+      "activeStop": 0.02220396541117352,
       "extreme": 0.0234,
       "entryTs": 1787508000000
     }
@@ -126,6 +118,7 @@
     "UNI-USDT-SWAP": 1787503771084,
     "PENDLE-USDT-SWAP": 1787503772631,
     "EIGEN-USDT-SWAP": 1787503773391,
-    "VIRTUAL-USDT-SWAP": 1787503774153
+    "VIRTUAL-USDT-SWAP": 1787503774153,
+    "STRK-USDT-SWAP": 1787520509544
   }
 }
