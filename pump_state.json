@@ -4,8 +4,8 @@
       "instId": "UNI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 4.619,
-      "activeStop": 4.529095217618975,
-      "extreme": 4.619,
+      "activeStop": 4.555415270780386,
+      "extreme": 4.682,
       "entryTs": 1787491800000
     },
     "USELESS-USDT-SWAP": {
@@ -13,8 +13,32 @@
       "direction": "long",
       "entryPrice": 0.07249,
       "activeStop": 0.07061620736041291,
-      "extreme": 0.07249,
+      "extreme": 0.0727,
       "entryTs": 1787491800000
+    },
+    "PENDLE-USDT-SWAP": {
+      "instId": "PENDLE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 1.969,
+      "activeStop": 1.9245948953496566,
+      "extreme": 1.969,
+      "entryTs": 1787493600000
+    },
+    "EIGEN-USDT-SWAP": {
+      "instId": "EIGEN-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.2402,
+      "activeStop": 0.23524899401788263,
+      "extreme": 0.2402,
+      "entryTs": 1787493600000
+    },
+    "VIRTUAL-USDT-SWAP": {
+      "instId": "VIRTUAL-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.7288,
+      "activeStop": 0.717245805949007,
+      "extreme": 0.7288,
+      "entryTs": 1787493600000
     }
   },
   "cooldown_until": {
