@@ -4,9 +4,17 @@
       "instId": "STRK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02956,
-      "activeStop": 0.02898321029270214,
-      "extreme": 0.02956,
+      "activeStop": 0.029138279497393442,
+      "extreme": 0.02992,
       "entryTs": 1787506200000
+    },
+    "SPK-USDT-SWAP": {
+      "instId": "SPK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02188,
+      "activeStop": 0.021079755881311703,
+      "extreme": 0.02188,
+      "entryTs": 1787508000000
     }
   },
   "cooldown_until": {
