@@ -4,8 +4,8 @@
       "instId": "XPL-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.10389,
-      "activeStop": 0.1013193692209793,
-      "extreme": 0.10389,
+      "activeStop": 0.1018552505292137,
+      "extreme": 0.10556,
       "entryTs": 1787484600000
     }
   },
