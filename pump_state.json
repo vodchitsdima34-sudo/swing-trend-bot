@@ -4,8 +4,8 @@
       "instId": "SPK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02188,
-      "activeStop": 0.02220396541117352,
-      "extreme": 0.02358,
+      "activeStop": 0.022406580332345865,
+      "extreme": 0.02389,
       "entryTs": 1787508000000
     }
   },
