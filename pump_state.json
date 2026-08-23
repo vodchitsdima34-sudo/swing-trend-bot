@@ -1,46 +1,5 @@
 {
-  "open_positions": {
-    "UNI-USDT-SWAP": {
-      "instId": "UNI-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 4.619,
-      "activeStop": 4.555415270780386,
-      "extreme": 4.682,
-      "entryTs": 1787491800000
-    },
-    "USELESS-USDT-SWAP": {
-      "instId": "USELESS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.07249,
-      "activeStop": 0.07061620736041291,
-      "extreme": 0.0727,
-      "entryTs": 1787491800000
-    },
-    "PENDLE-USDT-SWAP": {
-      "instId": "PENDLE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.969,
-      "activeStop": 1.9245948953496566,
-      "extreme": 1.969,
-      "entryTs": 1787493600000
-    },
-    "EIGEN-USDT-SWAP": {
-      "instId": "EIGEN-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2402,
-      "activeStop": 0.23524899401788263,
-      "extreme": 0.2402,
-      "entryTs": 1787493600000
-    },
-    "VIRTUAL-USDT-SWAP": {
-      "instId": "VIRTUAL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.7288,
-      "activeStop": 0.717245805949007,
-      "extreme": 0.7288,
-      "entryTs": 1787493600000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -101,7 +60,7 @@
     "BSB-USDT-SWAP": 1787088563300,
     "GALA-USDT-SWAP": 1787313126705,
     "UP-USDT-SWAP": 1787385259946,
-    "USELESS-USDT-SWAP": 1787385260815,
+    "USELESS-USDT-SWAP": 1787503771856,
     "ETHW-USDT-SWAP": 1787077820512,
     "OPN-USDT-SWAP": 1787132728088,
     "TRIA-USDT-SWAP": 1787432416678,
@@ -146,6 +105,10 @@
     "POPCAT-USDT-SWAP": 1787426359871,
     "ZRO-USDT-SWAP": 1787437553339,
     "FARTCOIN-USDT-SWAP": 1787442386778,
-    "PUMP-USDT-SWAP": 1787478432252
+    "PUMP-USDT-SWAP": 1787478432252,
+    "UNI-USDT-SWAP": 1787503771084,
+    "PENDLE-USDT-SWAP": 1787503772631,
+    "EIGEN-USDT-SWAP": 1787503773391,
+    "VIRTUAL-USDT-SWAP": 1787503774153
   }
 }
