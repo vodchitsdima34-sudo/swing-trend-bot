@@ -4,8 +4,8 @@
       "instId": "AEON-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.06647,
-      "activeStop": 0.06664175431418198,
-      "extreme": 0.06441,
+      "activeStop": 0.06580060399416499,
+      "extreme": 0.06353,
       "entryTs": 1787441400000
     }
   },
