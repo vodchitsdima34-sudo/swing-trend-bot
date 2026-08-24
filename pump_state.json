@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "VIRTUAL-USDT-SWAP": {
-      "instId": "VIRTUAL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.8175,
-      "activeStop": 0.8058842388180054,
-      "extreme": 0.837,
-      "entryTs": 1787583600000
+    "PUMP-USDT-SWAP": {
+      "instId": "PUMP-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.004601,
+      "activeStop": 0.0047358026485282406,
+      "extreme": 0.004601,
+      "entryTs": 1787591700000
+    },
+    "FARTCOIN-USDT-SWAP": {
+      "instId": "FARTCOIN-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.1746,
+      "activeStop": 0.18004212306706918,
+      "extreme": 0.1746,
+      "entryTs": 1787591700000
     }
   },
   "cooldown_until": {
@@ -118,7 +126,7 @@
     "UNI-USDT-SWAP": 1787503771084,
     "PENDLE-USDT-SWAP": 1787503772631,
     "EIGEN-USDT-SWAP": 1787503773391,
-    "VIRTUAL-USDT-SWAP": 1787503774153,
+    "VIRTUAL-USDT-SWAP": 1787599835099,
     "STRK-USDT-SWAP": 1787520509544,
     "SPK-USDT-SWAP": 1787525347059,
     "NES-USDT-SWAP": 1787594664151,
