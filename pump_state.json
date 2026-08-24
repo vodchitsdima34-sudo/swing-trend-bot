@@ -1,20 +1,36 @@
 {
   "open_positions": {
-    "SNXX-USDT-SWAP": {
-      "instId": "SNXX-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 11.82,
-      "activeStop": 12.204590699741876,
-      "extreme": 11.65,
-      "entryTs": 1787578200000
-    },
     "AERO-USDT-SWAP": {
       "instId": "AERO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.5345,
-      "activeStop": 0.5223463924597819,
-      "extreme": 0.5345,
+      "activeStop": 0.5263991842021852,
+      "extreme": 0.5433,
       "entryTs": 1787580900000
+    },
+    "NES-USDT-SWAP": {
+      "instId": "NES-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.1909,
+      "activeStop": 0.19602197133234212,
+      "extreme": 0.1909,
+      "entryTs": 1787583600000
+    },
+    "VIRTUAL-USDT-SWAP": {
+      "instId": "VIRTUAL-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.8175,
+      "activeStop": 0.794527739586927,
+      "extreme": 0.8175,
+      "entryTs": 1787583600000
+    },
+    "AIXBT-USDT-SWAP": {
+      "instId": "AIXBT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02215,
+      "activeStop": 0.021704805862057294,
+      "extreme": 0.02215,
+      "entryTs": 1787583600000
     }
   },
   "cooldown_until": {
@@ -26,7 +42,7 @@
     "BICO-USDT-SWAP": 1787247166144,
     "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
-    "SNXX-USDT-SWAP": 1787255906592,
+    "SNXX-USDT-SWAP": 1787592170538,
     "SUSHI-USDT-SWAP": 1786014648241,
     "PIEVERSE-USDT-SWAP": 1787313128891,
     "RESOLV-USDT-SWAP": 1786029600875,
