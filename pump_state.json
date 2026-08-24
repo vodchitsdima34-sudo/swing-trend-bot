@@ -4,8 +4,8 @@
       "instId": "OL-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.004458,
-      "activeStop": 0.004658463134225218,
-      "extreme": 0.004458,
+      "activeStop": 0.004626883560124432,
+      "extreme": 0.004374,
       "entryTs": 1787527800000
     }
   },
