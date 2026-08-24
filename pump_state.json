@@ -1,35 +1,11 @@
 {
   "open_positions": {
-    "AERO-USDT-SWAP": {
-      "instId": "AERO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.5345,
-      "activeStop": 0.5263991842021852,
-      "extreme": 0.5433,
-      "entryTs": 1787580900000
-    },
-    "NES-USDT-SWAP": {
-      "instId": "NES-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1909,
-      "activeStop": 0.19602197133234212,
-      "extreme": 0.1909,
-      "entryTs": 1787583600000
-    },
     "VIRTUAL-USDT-SWAP": {
       "instId": "VIRTUAL-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.8175,
-      "activeStop": 0.794527739586927,
-      "extreme": 0.8175,
-      "entryTs": 1787583600000
-    },
-    "AIXBT-USDT-SWAP": {
-      "instId": "AIXBT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02215,
-      "activeStop": 0.021704805862057294,
-      "extreme": 0.02215,
+      "activeStop": 0.8045771062095756,
+      "extreme": 0.837,
       "entryTs": 1787583600000
     }
   },
@@ -145,7 +121,9 @@
     "VIRTUAL-USDT-SWAP": 1787503774153,
     "STRK-USDT-SWAP": 1787520509544,
     "SPK-USDT-SWAP": 1787525347059,
-    "NES-USDT-SWAP": 1787558598942,
-    "KORU-USDT-SWAP": 1787589667543
+    "NES-USDT-SWAP": 1787594664151,
+    "KORU-USDT-SWAP": 1787589667543,
+    "AERO-USDT-SWAP": 1787594663240,
+    "AIXBT-USDT-SWAP": 1787594665434
   }
 }
