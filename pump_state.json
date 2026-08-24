@@ -4,7 +4,7 @@
       "instId": "FARTCOIN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1746,
-      "activeStop": 0.17734829797787796,
+      "activeStop": 0.17729742834164827,
       "extreme": 0.1717,
       "entryTs": 1787591700000
     },
@@ -12,7 +12,7 @@
       "instId": "OL-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.004454,
-      "activeStop": 0.00462446533963531,
+      "activeStop": 0.004607265804303742,
       "extreme": 0.004453,
       "entryTs": 1787596200000
     }
