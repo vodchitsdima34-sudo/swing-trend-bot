@@ -4,25 +4,17 @@
       "instId": "SNXX-USDT-SWAP",
       "direction": "short",
       "entryPrice": 11.82,
-      "activeStop": 12.22828276595543,
-      "extreme": 11.82,
+      "activeStop": 12.204590699741876,
+      "extreme": 11.65,
       "entryTs": 1787578200000
     },
-    "KORU-USDT-SWAP": {
-      "instId": "KORU-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 18.04,
-      "activeStop": 18.514568305309442,
-      "extreme": 18.04,
-      "entryTs": 1787578200000
-    },
-    "ARX-USDT-SWAP": {
-      "instId": "ARX-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1317,
-      "activeStop": 0.13511477798679195,
-      "extreme": 0.1317,
-      "entryTs": 1787578200000
+    "AERO-USDT-SWAP": {
+      "instId": "AERO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.5345,
+      "activeStop": 0.5223463924597819,
+      "extreme": 0.5345,
+      "entryTs": 1787580900000
     }
   },
   "cooldown_until": {
@@ -46,7 +38,7 @@
     "HMSTR-USDT-SWAP": 1786307960543,
     "H-USDT-SWAP": 1787212728019,
     "UB-USDT-SWAP": 1786270066137,
-    "ARX-USDT-SWAP": 1786786473144,
+    "ARX-USDT-SWAP": 1787589668356,
     "BEAT-USDT-SWAP": 1787339587035,
     "CAP-USDT-SWAP": 1786970196830,
     "MAGIC-USDT-SWAP": 1786216294326,
@@ -137,6 +129,7 @@
     "VIRTUAL-USDT-SWAP": 1787503774153,
     "STRK-USDT-SWAP": 1787520509544,
     "SPK-USDT-SWAP": 1787525347059,
-    "NES-USDT-SWAP": 1787558598942
+    "NES-USDT-SWAP": 1787558598942,
+    "KORU-USDT-SWAP": 1787589667543
   }
 }
