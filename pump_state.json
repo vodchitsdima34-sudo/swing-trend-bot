@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "PUMP-USDT-SWAP": {
-      "instId": "PUMP-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.004601,
-      "activeStop": 0.0047358026485282406,
-      "extreme": 0.004601,
-      "entryTs": 1787591700000
-    },
     "FARTCOIN-USDT-SWAP": {
       "instId": "FARTCOIN-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1746,
-      "activeStop": 0.18004212306706918,
-      "extreme": 0.1746,
+      "activeStop": 0.17988128328178554,
+      "extreme": 0.1728,
       "entryTs": 1787591700000
     }
   },
@@ -122,7 +114,7 @@
     "POPCAT-USDT-SWAP": 1787426359871,
     "ZRO-USDT-SWAP": 1787437553339,
     "FARTCOIN-USDT-SWAP": 1787442386778,
-    "PUMP-USDT-SWAP": 1787478432252,
+    "PUMP-USDT-SWAP": 1787601849494,
     "UNI-USDT-SWAP": 1787503771084,
     "PENDLE-USDT-SWAP": 1787503772631,
     "EIGEN-USDT-SWAP": 1787503773391,
