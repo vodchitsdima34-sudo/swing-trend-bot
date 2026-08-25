@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "WIF-USDT-SWAP": {
-      "instId": "WIF-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2195,
-      "activeStop": 0.2233493417778291,
-      "extreme": 0.2312,
-      "entryTs": 1787624100000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -125,6 +116,7 @@
     "KORU-USDT-SWAP": 1787589667543,
     "AERO-USDT-SWAP": 1787594663240,
     "AIXBT-USDT-SWAP": 1787594665434,
-    "MEW-USDT-SWAP": 1787635877652
+    "MEW-USDT-SWAP": 1787635877652,
+    "WIF-USDT-SWAP": 1787639011053
   }
 }
