@@ -4,9 +4,17 @@
       "instId": "MUBARAK-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.022569,
-      "activeStop": 0.023208518562270224,
-      "extreme": 0.022569,
+      "activeStop": 0.02263888914852341,
+      "extreme": 0.021741,
       "entryTs": 1787644800000
+    },
+    "GMT-USDT-SWAP": {
+      "instId": "GMT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.007889,
+      "activeStop": 0.007656860924630558,
+      "extreme": 0.007889,
+      "entryTs": 1787647500000
     }
   },
   "cooldown_until": {
