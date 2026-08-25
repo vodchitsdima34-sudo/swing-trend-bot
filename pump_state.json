@@ -4,17 +4,17 @@
       "instId": "MUBARAK-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.022569,
-      "activeStop": 0.02263888914852341,
-      "extreme": 0.021741,
+      "activeStop": 0.02199121800853436,
+      "extreme": 0.021068,
       "entryTs": 1787644800000
     },
-    "GMT-USDT-SWAP": {
-      "instId": "GMT-USDT-SWAP",
+    "POPCAT-USDT-SWAP": {
+      "instId": "POPCAT-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.007889,
-      "activeStop": 0.007656860924630558,
-      "extreme": 0.007889,
-      "entryTs": 1787647500000
+      "entryPrice": 0.06561,
+      "activeStop": 0.06413340257834636,
+      "extreme": 0.06561,
+      "entryTs": 1787650200000
     }
   },
   "cooldown_until": {
@@ -135,6 +135,7 @@
     "AIXBT-USDT-SWAP": 1787594665434,
     "MEW-USDT-SWAP": 1787635877652,
     "WIF-USDT-SWAP": 1787639011053,
-    "STX-USDT-SWAP": 1787653372793
+    "STX-USDT-SWAP": 1787653372793,
+    "GMT-USDT-SWAP": 1787658684136
   }
 }
