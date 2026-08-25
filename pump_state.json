@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "STX-USDT-SWAP": {
-      "instId": "STX-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2848,
-      "activeStop": 0.2765444842676454,
-      "extreme": 0.2867,
-      "entryTs": 1787638500000
+    "MUBARAK-USDT-SWAP": {
+      "instId": "MUBARAK-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.022569,
+      "activeStop": 0.023208518562270224,
+      "extreme": 0.022569,
+      "entryTs": 1787644800000
     }
   },
   "cooldown_until": {
@@ -126,6 +126,7 @@
     "AERO-USDT-SWAP": 1787594663240,
     "AIXBT-USDT-SWAP": 1787594665434,
     "MEW-USDT-SWAP": 1787635877652,
-    "WIF-USDT-SWAP": 1787639011053
+    "WIF-USDT-SWAP": 1787639011053,
+    "STX-USDT-SWAP": 1787653372793
   }
 }
