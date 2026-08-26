@@ -4,9 +4,17 @@
       "instId": "RLS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.00195,
-      "activeStop": 0.00189467693612973,
+      "activeStop": 0.001894898269054363,
       "extreme": 0.001976,
       "entryTs": 1787733000000
+    },
+    "H-USDT-SWAP": {
+      "instId": "H-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.07155,
+      "activeStop": 0.07364171151599176,
+      "extreme": 0.07155,
+      "entryTs": 1787741100000
     }
   },
   "cooldown_until": {
