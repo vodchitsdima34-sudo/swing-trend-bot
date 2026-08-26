@@ -1,35 +1,19 @@
 {
   "open_positions": {
-    "BICO-USDT-SWAP": {
-      "instId": "BICO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02287,
-      "activeStop": 0.02284467059793844,
-      "extreme": 0.02443,
-      "entryTs": 1787745600000
-    },
     "GPS-USDT-SWAP": {
       "instId": "GPS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.009728,
-      "activeStop": 0.00987086975061187,
-      "extreme": 0.009473,
+      "activeStop": 0.009661333179998163,
+      "extreme": 0.009301,
       "entryTs": 1787750100000
-    },
-    "S-USDT-SWAP": {
-      "instId": "S-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02955,
-      "activeStop": 0.02907641441329413,
-      "extreme": 0.02955,
-      "entryTs": 1787752800000
     },
     "ONT-USDT-SWAP": {
       "instId": "ONT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.05681,
-      "activeStop": 0.05531290730790836,
-      "extreme": 0.05681,
+      "activeStop": 0.05741026343306374,
+      "extreme": 0.06035,
       "entryTs": 1787752800000
     }
   },
@@ -39,7 +23,7 @@
     "OFC-USDT-SWAP": 1787394534165,
     "STABLE-USDT-SWAP": 1787282127717,
     "LA-USDT-SWAP": 1785721406301,
-    "BICO-USDT-SWAP": 1787247166144,
+    "BICO-USDT-SWAP": 1787767217375,
     "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1787592170538,
@@ -153,6 +137,7 @@
     "WIF-USDT-SWAP": 1787639011053,
     "STX-USDT-SWAP": 1787653372793,
     "GMT-USDT-SWAP": 1787658684136,
-    "RLS-USDT-SWAP": 1787758439413
+    "RLS-USDT-SWAP": 1787758439413,
+    "S-USDT-SWAP": 1787767218729
   }
 }
