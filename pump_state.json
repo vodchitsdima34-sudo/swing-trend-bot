@@ -4,17 +4,25 @@
       "instId": "RLS-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.00195,
-      "activeStop": 0.001894898269054363,
-      "extreme": 0.001976,
+      "activeStop": 0.0019186969378825977,
+      "extreme": 0.002003,
       "entryTs": 1787733000000
     },
     "H-USDT-SWAP": {
       "instId": "H-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.07155,
-      "activeStop": 0.07364171151599176,
-      "extreme": 0.07113,
+      "activeStop": 0.07336705345393307,
+      "extreme": 0.07077,
       "entryTs": 1787741100000
+    },
+    "BICO-USDT-SWAP": {
+      "instId": "BICO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02287,
+      "activeStop": 0.0219239563773514,
+      "extreme": 0.02287,
+      "entryTs": 1787745600000
     }
   },
   "cooldown_until": {
