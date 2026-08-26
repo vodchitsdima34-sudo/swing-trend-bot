@@ -7,6 +7,14 @@
       "activeStop": 0.1270444827456883,
       "extreme": 0.131,
       "entryTs": 1787715000000
+    },
+    "LIGHT-USDT-SWAP": {
+      "instId": "LIGHT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1721,
+      "activeStop": 0.1666320057161488,
+      "extreme": 0.1721,
+      "entryTs": 1787726700000
     }
   },
   "cooldown_until": {
