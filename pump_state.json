@@ -4,7 +4,7 @@
       "instId": "ACU-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.13059,
-      "activeStop": 0.1270444827456883,
+      "activeStop": 0.12717149413940362,
       "extreme": 0.131,
       "entryTs": 1787715000000
     },
@@ -12,9 +12,17 @@
       "instId": "LIGHT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.1721,
-      "activeStop": 0.1666320057161488,
-      "extreme": 0.1721,
+      "activeStop": 0.17041506207310364,
+      "extreme": 0.1784,
       "entryTs": 1787726700000
+    },
+    "EDEN-USDT-SWAP": {
+      "instId": "EDEN-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.06036,
+      "activeStop": 0.05785396274891902,
+      "extreme": 0.06036,
+      "entryTs": 1787729400000
     }
   },
   "cooldown_until": {
