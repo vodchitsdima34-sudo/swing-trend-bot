@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "GPS-USDT-SWAP": {
-      "instId": "GPS-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.009728,
-      "activeStop": 0.009661333179998163,
-      "extreme": 0.009301,
-      "entryTs": 1787750100000
-    },
-    "ONT-USDT-SWAP": {
-      "instId": "ONT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05681,
-      "activeStop": 0.05741026343306374,
-      "extreme": 0.06035,
-      "entryTs": 1787752800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -60,7 +43,7 @@
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1786582860883,
     "SPACE-USDT-SWAP": 1787152092873,
-    "GPS-USDT-SWAP": 1787315365223,
+    "GPS-USDT-SWAP": 1787770729873,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1787744416758,
     "LAB-USDT-SWAP": 1787339587961,
@@ -97,7 +80,7 @@
     "BRETT-USDT-SWAP": 1787238638753,
     "PENGU-USDT-SWAP": 1787238639683,
     "PEOPLE-USDT-SWAP": 1787313125893,
-    "ONT-USDT-SWAP": 1787674901672,
+    "ONT-USDT-SWAP": 1787770730676,
     "MON-USDT-SWAP": 1787611682986,
     "CRV-USDT-SWAP": 1787293392645,
     "BERA-USDT-SWAP": 1787310434964,
