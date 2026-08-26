@@ -4,17 +4,33 @@
       "instId": "BICO-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.02287,
-      "activeStop": 0.022055312269144502,
-      "extreme": 0.0235,
+      "activeStop": 0.02284467059793844,
+      "extreme": 0.02443,
       "entryTs": 1787745600000
     },
     "GPS-USDT-SWAP": {
       "instId": "GPS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.009728,
-      "activeStop": 0.010022521723642328,
-      "extreme": 0.009728,
+      "activeStop": 0.00987086975061187,
+      "extreme": 0.009473,
       "entryTs": 1787750100000
+    },
+    "S-USDT-SWAP": {
+      "instId": "S-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02955,
+      "activeStop": 0.02907641441329413,
+      "extreme": 0.02955,
+      "entryTs": 1787752800000
+    },
+    "ONT-USDT-SWAP": {
+      "instId": "ONT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.05681,
+      "activeStop": 0.05531290730790836,
+      "extreme": 0.05681,
+      "entryTs": 1787752800000
     }
   },
   "cooldown_until": {
