@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "SNXX-USDT-SWAP": {
+      "instId": "SNXX-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 12.77,
+      "activeStop": 13.168821461872229,
+      "extreme": 12.77,
+      "entryTs": 1787839200000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
