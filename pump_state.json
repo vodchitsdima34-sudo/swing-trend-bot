@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ZKP-USDT-SWAP": {
-      "instId": "ZKP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05881,
-      "activeStop": 0.05632353340493668,
-      "extreme": 0.05881,
-      "entryTs": 1788051600000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -22,7 +13,7 @@
     "SUSHI-USDT-SWAP": 1786014648241,
     "PIEVERSE-USDT-SWAP": 1787313128891,
     "RESOLV-USDT-SWAP": 1786029600875,
-    "ZKP-USDT-SWAP": 1786087413223,
+    "ZKP-USDT-SWAP": 1788081295824,
     "KGEN-USDT-SWAP": 1787234641878,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
