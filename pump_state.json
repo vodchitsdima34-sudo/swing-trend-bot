@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "ANIME-USDT-SWAP": {
-      "instId": "ANIME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.003021,
-      "activeStop": 0.002912880954193099,
-      "extreme": 0.003021,
-      "entryTs": 1788136200000
-    },
-    "ZKP-USDT-SWAP": {
-      "instId": "ZKP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05474,
-      "activeStop": 0.05256716760848681,
-      "extreme": 0.05474,
-      "entryTs": 1788136200000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -30,7 +13,7 @@
     "SUSHI-USDT-SWAP": 1786014648241,
     "PIEVERSE-USDT-SWAP": 1787313128891,
     "RESOLV-USDT-SWAP": 1786029600875,
-    "ZKP-USDT-SWAP": 1788081295824,
+    "ZKP-USDT-SWAP": 1788165723806,
     "KGEN-USDT-SWAP": 1787234641878,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
@@ -139,6 +122,7 @@
     "GMT-USDT-SWAP": 1787658684136,
     "RLS-USDT-SWAP": 1787758439413,
     "S-USDT-SWAP": 1787767218729,
-    "BAND-USDT-SWAP": 1788044834442
+    "BAND-USDT-SWAP": 1788044834442,
+    "ANIME-USDT-SWAP": 1788165723003
   }
 }
