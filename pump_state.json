@@ -4,8 +4,8 @@
       "instId": "FIL-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.7708,
-      "activeStop": 0.7535379001601311,
-      "extreme": 0.7708,
+      "activeStop": 0.7703630635902734,
+      "extreme": 0.7992,
       "entryTs": 1788283800000
     }
   },
