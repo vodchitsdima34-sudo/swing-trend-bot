@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "CHIP-USDT-SWAP": {
-      "instId": "CHIP-USDT-SWAP",
+    "FIL-USDT-SWAP": {
+      "instId": "FIL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.04375,
-      "activeStop": 0.042628469687195095,
-      "extreme": 0.04375,
-      "entryTs": 1788272100000
+      "entryPrice": 0.7708,
+      "activeStop": 0.7535379001601311,
+      "extreme": 0.7708,
+      "entryTs": 1788283800000
     }
   },
   "cooldown_until": {
@@ -40,7 +40,7 @@
     "SHELL-USDT-SWAP": 1786295237087,
     "NEIRO-USDT-SWAP": 1787304627263,
     "MOODENG-USDT-SWAP": 1786307959651,
-    "CHIP-USDT-SWAP": 1786964419790,
+    "CHIP-USDT-SWAP": 1788292646894,
     "RECALL-USDT-SWAP": 1786341264674,
     "HOME-USDT-SWAP": 1787132729775,
     "GRVT-USDT-SWAP": 1787440845648,
