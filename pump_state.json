@@ -1,20 +1,20 @@
 {
   "open_positions": {
-    "LA-USDT-SWAP": {
-      "instId": "LA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.06608,
-      "activeStop": 0.06416532281751222,
-      "extreme": 0.06608,
-      "entryTs": 1788344100000
-    },
     "DOS-USDT-SWAP": {
       "instId": "DOS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.2476,
-      "activeStop": 0.25228077424630574,
-      "extreme": 0.2476,
+      "activeStop": 0.24659123041199366,
+      "extreme": 0.2407,
       "entryTs": 1788344100000
+    },
+    "MUBARAK-USDT-SWAP": {
+      "instId": "MUBARAK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.024519,
+      "activeStop": 0.02397161402358475,
+      "extreme": 0.024519,
+      "entryTs": 1788358500000
     }
   },
   "cooldown_until": {
@@ -22,7 +22,7 @@
     "SOXL-USDT-SWAP": 1785376050821,
     "OFC-USDT-SWAP": 1787394534165,
     "STABLE-USDT-SWAP": 1787282127717,
-    "LA-USDT-SWAP": 1788335406684,
+    "LA-USDT-SWAP": 1788367439835,
     "BICO-USDT-SWAP": 1787767217375,
     "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
