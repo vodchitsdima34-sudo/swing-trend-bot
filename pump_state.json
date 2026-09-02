@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "KITE-USDT-SWAP": {
-      "instId": "KITE-USDT-SWAP",
+    "LA-USDT-SWAP": {
+      "instId": "LA-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.13302,
-      "activeStop": 0.13111225132766466,
-      "extreme": 0.13302,
-      "entryTs": 1788327000000
+      "entryPrice": 0.06608,
+      "activeStop": 0.06416532281751222,
+      "extreme": 0.06608,
+      "entryTs": 1788344100000
+    },
+    "DOS-USDT-SWAP": {
+      "instId": "DOS-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.2476,
+      "activeStop": 0.25228077424630574,
+      "extreme": 0.2476,
+      "entryTs": 1788344100000
     }
   },
   "cooldown_until": {
@@ -133,6 +141,7 @@
     "S-USDT-SWAP": 1787767218729,
     "BAND-USDT-SWAP": 1788044834442,
     "ANIME-USDT-SWAP": 1788165723003,
-    "FIL-USDT-SWAP": 1788311001779
+    "FIL-USDT-SWAP": 1788311001779,
+    "KITE-USDT-SWAP": 1788353051741
   }
 }
