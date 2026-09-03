@@ -1,68 +1,36 @@
 {
   "open_positions": {
-    "MUBARAK-USDT-SWAP": {
-      "instId": "MUBARAK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.030818,
-      "activeStop": 0.029382968810523977,
-      "extreme": 0.030818,
-      "entryTs": 1788446700000
-    },
-    "DGAI-USDT-SWAP": {
-      "instId": "DGAI-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.8268,
-      "activeStop": 0.7997073019819111,
-      "extreme": 0.8268,
-      "entryTs": 1788446700000
-    },
     "PEPE-USDT-SWAP": {
       "instId": "PEPE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 3.746e-06,
-      "activeStop": 3.694993137675378e-06,
-      "extreme": 3.746e-06,
+      "activeStop": 3.7890521982254724e-06,
+      "extreme": 3.879e-06,
       "entryTs": 1788446700000
     },
     "DOGE-USDT-SWAP": {
       "instId": "DOGE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.08787,
-      "activeStop": 0.0869313877155864,
-      "extreme": 0.08787,
+      "activeStop": 0.0884948626355727,
+      "extreme": 0.08995,
       "entryTs": 1788446700000
     },
     "MOODENG-USDT-SWAP": {
       "instId": "MOODENG-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.04224,
-      "activeStop": 0.04169845194651538,
-      "extreme": 0.04224,
+      "activeStop": 0.04195580103943784,
+      "extreme": 0.04271,
       "entryTs": 1788446700000
     },
-    "MEME-USDT-SWAP": {
-      "instId": "MEME-USDT-SWAP",
+    "MERL-USDT-SWAP": {
+      "instId": "MERL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.0005498,
-      "activeStop": 0.0005440132559467205,
-      "extreme": 0.0005498,
-      "entryTs": 1788446700000
-    },
-    "BRETT-USDT-SWAP": {
-      "instId": "BRETT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.005243,
-      "activeStop": 0.005173661764538805,
-      "extreme": 0.005243,
-      "entryTs": 1788446700000
-    },
-    "BOME-USDT-SWAP": {
-      "instId": "BOME-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0009394,
-      "activeStop": 0.000924582948894818,
-      "extreme": 0.0009394,
-      "entryTs": 1788446700000
+      "entryPrice": 0.02337,
+      "activeStop": 0.022982628755131743,
+      "extreme": 0.02337,
+      "entryTs": 1788459300000
     }
   },
   "cooldown_until": {
@@ -119,7 +87,7 @@
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1787259108025,
     "HUMA-USDT-SWAP": 1786804542776,
-    "BOME-USDT-SWAP": 1787313124177,
+    "BOME-USDT-SWAP": 1788467937322,
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1788335405928,
     "BSB-USDT-SWAP": 1787088563300,
@@ -132,7 +100,7 @@
     "SOON-USDT-SWAP": 1787142965408,
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
-    "MUBARAK-USDT-SWAP": 1788379651894,
+    "MUBARAK-USDT-SWAP": 1788467932337,
     "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1787307573278,
@@ -142,7 +110,7 @@
     "EDGE-USDT-SWAP": 1787224640438,
     "PEPE-USDT-SWAP": 1787227198026,
     "ORDI-USDT-SWAP": 1787234641037,
-    "BRETT-USDT-SWAP": 1787238638753,
+    "BRETT-USDT-SWAP": 1788467936402,
     "PENGU-USDT-SWAP": 1787238639683,
     "PEOPLE-USDT-SWAP": 1787313125893,
     "ONT-USDT-SWAP": 1787770730676,
@@ -190,6 +158,8 @@
     "BAND-USDT-SWAP": 1788044834442,
     "ANIME-USDT-SWAP": 1788165723003,
     "FIL-USDT-SWAP": 1788311001779,
-    "KITE-USDT-SWAP": 1788353051741
+    "KITE-USDT-SWAP": 1788353051741,
+    "DGAI-USDT-SWAP": 1788467933059,
+    "MEME-USDT-SWAP": 1788467935488
   }
 }
