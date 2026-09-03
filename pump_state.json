@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "RECALL-USDT-SWAP": {
+      "instId": "RECALL-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.04175,
+      "activeStop": 0.04228654337906288,
+      "extreme": 0.04175,
+      "entryTs": 1788397200000
+    },
+    "LA-USDT-SWAP": {
+      "instId": "LA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.06711,
+      "activeStop": 0.06519656736394767,
+      "extreme": 0.06711,
+      "entryTs": 1788397200000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
