@@ -1,38 +1,5 @@
 {
-  "open_positions": {
-    "PEPE-USDT-SWAP": {
-      "instId": "PEPE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 3.746e-06,
-      "activeStop": 3.7890521982254724e-06,
-      "extreme": 3.879e-06,
-      "entryTs": 1788446700000
-    },
-    "DOGE-USDT-SWAP": {
-      "instId": "DOGE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.08787,
-      "activeStop": 0.0884948626355727,
-      "extreme": 0.08995,
-      "entryTs": 1788446700000
-    },
-    "MOODENG-USDT-SWAP": {
-      "instId": "MOODENG-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.04224,
-      "activeStop": 0.04195580103943784,
-      "extreme": 0.04271,
-      "entryTs": 1788446700000
-    },
-    "MERL-USDT-SWAP": {
-      "instId": "MERL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02337,
-      "activeStop": 0.022982628755131743,
-      "extreme": 0.02337,
-      "entryTs": 1788459300000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -63,7 +30,7 @@
     "PARTI-USDT-SWAP": 1786262862935,
     "SHELL-USDT-SWAP": 1786295237087,
     "NEIRO-USDT-SWAP": 1787304627263,
-    "MOODENG-USDT-SWAP": 1786307959651,
+    "MOODENG-USDT-SWAP": 1788477664005,
     "CHIP-USDT-SWAP": 1788292646894,
     "RECALL-USDT-SWAP": 1788441419225,
     "HOME-USDT-SWAP": 1787132729775,
@@ -85,7 +52,7 @@
     "APR-USDT-SWAP": 1786918937009,
     "AEON-USDT-SWAP": 1787466147302,
     "WAL-USDT-SWAP": 1786800457962,
-    "MERL-USDT-SWAP": 1787259108025,
+    "MERL-USDT-SWAP": 1788477665435,
     "HUMA-USDT-SWAP": 1786804542776,
     "BOME-USDT-SWAP": 1788467937322,
     "DYDX-USDT-SWAP": 1786927869396,
@@ -108,7 +75,7 @@
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787426360673,
     "EDGE-USDT-SWAP": 1787224640438,
-    "PEPE-USDT-SWAP": 1787227198026,
+    "PEPE-USDT-SWAP": 1788477662211,
     "ORDI-USDT-SWAP": 1787234641037,
     "BRETT-USDT-SWAP": 1788467936402,
     "PENGU-USDT-SWAP": 1787238639683,
@@ -160,6 +127,7 @@
     "FIL-USDT-SWAP": 1788311001779,
     "KITE-USDT-SWAP": 1788353051741,
     "DGAI-USDT-SWAP": 1788467933059,
-    "MEME-USDT-SWAP": 1788467935488
+    "MEME-USDT-SWAP": 1788467935488,
+    "DOGE-USDT-SWAP": 1788477663084
   }
 }
