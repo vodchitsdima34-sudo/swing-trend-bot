@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "RECALL-USDT-SWAP": {
-      "instId": "RECALL-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.04175,
-      "activeStop": 0.038691641091893735,
-      "extreme": 0.03754,
-      "entryTs": 1788397200000
+    "SPK-USDT-SWAP": {
+      "instId": "SPK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02281,
+      "activeStop": 0.02228893150536386,
+      "extreme": 0.02281,
+      "entryTs": 1788433200000
     }
   },
   "cooldown_until": {
@@ -41,7 +41,7 @@
     "NEIRO-USDT-SWAP": 1787304627263,
     "MOODENG-USDT-SWAP": 1786307959651,
     "CHIP-USDT-SWAP": 1788292646894,
-    "RECALL-USDT-SWAP": 1786341264674,
+    "RECALL-USDT-SWAP": 1788441419225,
     "HOME-USDT-SWAP": 1787132729775,
     "GRVT-USDT-SWAP": 1787440845648,
     "YB-USDT-SWAP": 1786376621415,
