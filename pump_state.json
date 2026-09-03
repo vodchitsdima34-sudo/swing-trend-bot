@@ -1,12 +1,68 @@
 {
   "open_positions": {
-    "SPK-USDT-SWAP": {
-      "instId": "SPK-USDT-SWAP",
+    "MUBARAK-USDT-SWAP": {
+      "instId": "MUBARAK-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.02281,
-      "activeStop": 0.02228893150536386,
-      "extreme": 0.02281,
-      "entryTs": 1788433200000
+      "entryPrice": 0.030818,
+      "activeStop": 0.029382968810523977,
+      "extreme": 0.030818,
+      "entryTs": 1788446700000
+    },
+    "DGAI-USDT-SWAP": {
+      "instId": "DGAI-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.8268,
+      "activeStop": 0.7997073019819111,
+      "extreme": 0.8268,
+      "entryTs": 1788446700000
+    },
+    "PEPE-USDT-SWAP": {
+      "instId": "PEPE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 3.746e-06,
+      "activeStop": 3.694993137675378e-06,
+      "extreme": 3.746e-06,
+      "entryTs": 1788446700000
+    },
+    "DOGE-USDT-SWAP": {
+      "instId": "DOGE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.08787,
+      "activeStop": 0.0869313877155864,
+      "extreme": 0.08787,
+      "entryTs": 1788446700000
+    },
+    "MOODENG-USDT-SWAP": {
+      "instId": "MOODENG-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.04224,
+      "activeStop": 0.04169845194651538,
+      "extreme": 0.04224,
+      "entryTs": 1788446700000
+    },
+    "MEME-USDT-SWAP": {
+      "instId": "MEME-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0005498,
+      "activeStop": 0.0005440132559467205,
+      "extreme": 0.0005498,
+      "entryTs": 1788446700000
+    },
+    "BRETT-USDT-SWAP": {
+      "instId": "BRETT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.005243,
+      "activeStop": 0.005173661764538805,
+      "extreme": 0.005243,
+      "entryTs": 1788446700000
+    },
+    "BOME-USDT-SWAP": {
+      "instId": "BOME-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0009394,
+      "activeStop": 0.000924582948894818,
+      "extreme": 0.0009394,
+      "entryTs": 1788446700000
     }
   },
   "cooldown_until": {
@@ -120,7 +176,7 @@
     "EIGEN-USDT-SWAP": 1787503773391,
     "VIRTUAL-USDT-SWAP": 1787599835099,
     "STRK-USDT-SWAP": 1787520509544,
-    "SPK-USDT-SWAP": 1787525347059,
+    "SPK-USDT-SWAP": 1788455177138,
     "NES-USDT-SWAP": 1787594664151,
     "KORU-USDT-SWAP": 1787589667543,
     "AERO-USDT-SWAP": 1787594663240,
