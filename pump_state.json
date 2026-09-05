@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "SUSHI-USDT-SWAP": {
-      "instId": "SUSHI-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2314,
-      "activeStop": 0.2555530131129299,
-      "extreme": 0.27,
-      "entryTs": 1788627600000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -19,7 +10,7 @@
     "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
     "SNXX-USDT-SWAP": 1787882006797,
-    "SUSHI-USDT-SWAP": 1786014648241,
+    "SUSHI-USDT-SWAP": 1788651045120,
     "PIEVERSE-USDT-SWAP": 1787313128891,
     "RESOLV-USDT-SWAP": 1786029600875,
     "ZKP-USDT-SWAP": 1788165723806,
