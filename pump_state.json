@@ -4,8 +4,8 @@
       "instId": "SUSHI-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.2314,
-      "activeStop": 0.2256934749175602,
-      "extreme": 0.2314,
+      "activeStop": 0.2555530131129299,
+      "extreme": 0.27,
       "entryTs": 1788627600000
     }
   },
