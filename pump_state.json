@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "EDGE-USDT-SWAP": {
-      "instId": "EDGE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.6742,
-      "activeStop": 0.6562921090330509,
-      "extreme": 0.6742,
-      "entryTs": 1788701400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -83,7 +74,7 @@
     "TRUMP-USDT-SWAP": 1787381357582,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787426360673,
-    "EDGE-USDT-SWAP": 1787224640438,
+    "EDGE-USDT-SWAP": 1788720428270,
     "PEPE-USDT-SWAP": 1788477662211,
     "ORDI-USDT-SWAP": 1787234641037,
     "BRETT-USDT-SWAP": 1788467936402,
