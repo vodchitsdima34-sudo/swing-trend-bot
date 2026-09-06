@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "DOOD-USDT-SWAP": {
+      "instId": "DOOD-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.00177,
+      "activeStop": 0.0018747660230838269,
+      "extreme": 0.00177,
+      "entryTs": 1788727500000
+    },
+    "LINK-USDT-SWAP": {
+      "instId": "LINK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 13.089,
+      "activeStop": 12.924424210846684,
+      "extreme": 13.089,
+      "entryTs": 1788727500000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
