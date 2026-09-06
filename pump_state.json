@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "DOOD-USDT-SWAP": {
-      "instId": "DOOD-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.00177,
-      "activeStop": 0.0018747660230838269,
-      "extreme": 0.00177,
-      "entryTs": 1788727500000
-    },
-    "LINK-USDT-SWAP": {
-      "instId": "LINK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 13.089,
-      "activeStop": 12.924424210846684,
-      "extreme": 13.089,
-      "entryTs": 1788727500000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -87,7 +70,7 @@
     "MUBARAK-USDT-SWAP": 1788467932337,
     "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1787176192442,
-    "LINK-USDT-SWAP": 1787307573278,
+    "LINK-USDT-SWAP": 1788742398834,
     "TRUMP-USDT-SWAP": 1787381357582,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787426360673,
@@ -146,6 +129,7 @@
     "DGAI-USDT-SWAP": 1788467933059,
     "MEME-USDT-SWAP": 1788467935488,
     "DOGE-USDT-SWAP": 1788477663084,
-    "ENJ-USDT-SWAP": 1788574701847
+    "ENJ-USDT-SWAP": 1788574701847,
+    "DOOD-USDT-SWAP": 1788742397935
   }
 }
