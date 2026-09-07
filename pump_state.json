@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "TIA-USDT-SWAP": {
-      "instId": "TIA-USDT-SWAP",
+    "SOPH-USDT-SWAP": {
+      "instId": "SOPH-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.4772,
-      "activeStop": 0.46444971748844754,
-      "extreme": 0.4772,
-      "entryTs": 1788740100000
-    },
-    "YGG-USDT-SWAP": {
-      "instId": "YGG-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02572,
-      "activeStop": 0.025295637795893056,
-      "extreme": 0.02572,
-      "entryTs": 1788740100000
+      "entryPrice": 0.004764,
+      "activeStop": 0.004656843373158381,
+      "extreme": 0.004764,
+      "entryTs": 1788757200000
     }
   },
   "cooldown_until": {
@@ -147,6 +139,8 @@
     "MEME-USDT-SWAP": 1788467935488,
     "DOGE-USDT-SWAP": 1788477663084,
     "ENJ-USDT-SWAP": 1788574701847,
-    "DOOD-USDT-SWAP": 1788742397935
+    "DOOD-USDT-SWAP": 1788742397935,
+    "TIA-USDT-SWAP": 1788765319431,
+    "YGG-USDT-SWAP": 1788765320290
   }
 }
