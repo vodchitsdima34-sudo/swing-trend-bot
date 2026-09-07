@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "TIA-USDT-SWAP": {
+      "instId": "TIA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.4772,
+      "activeStop": 0.46444971748844754,
+      "extreme": 0.4772,
+      "entryTs": 1788740100000
+    },
+    "YGG-USDT-SWAP": {
+      "instId": "YGG-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02572,
+      "activeStop": 0.025295637795893056,
+      "extreme": 0.02572,
+      "entryTs": 1788740100000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1785291218377,
     "SOXL-USDT-SWAP": 1785376050821,
