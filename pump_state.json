@@ -4,8 +4,8 @@
       "instId": "SOPH-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.004764,
-      "activeStop": 0.004656843373158381,
-      "extreme": 0.004764,
+      "activeStop": 0.004914473855676808,
+      "extreme": 0.005149,
       "entryTs": 1788757200000
     }
   },
