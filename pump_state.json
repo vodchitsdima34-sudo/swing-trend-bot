@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "RAY-USDT-SWAP": {
-      "instId": "RAY-USDT-SWAP",
+    "OL-USDT-SWAP": {
+      "instId": "OL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 1.2217,
-      "activeStop": 1.1927004217591755,
-      "extreme": 1.2217,
-      "entryTs": 1788900300000
+      "entryPrice": 0.006141,
+      "activeStop": 0.005849141943452707,
+      "extreme": 0.006141,
+      "entryTs": 1788908400000
     }
   },
   "cooldown_until": {
@@ -142,6 +142,7 @@
     "DOOD-USDT-SWAP": 1788742397935,
     "TIA-USDT-SWAP": 1788765319431,
     "YGG-USDT-SWAP": 1788765320290,
-    "CNPY-USDT-SWAP": 1788908600423
+    "CNPY-USDT-SWAP": 1788908600423,
+    "RAY-USDT-SWAP": 1788917019544
   }
 }
