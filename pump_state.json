@@ -4,9 +4,17 @@
       "instId": "ICX-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.01536,
-      "activeStop": 0.014682240677330927,
-      "extreme": 0.01536,
+      "activeStop": 0.01488311667278047,
+      "extreme": 0.01579,
       "entryTs": 1788859800000
+    },
+    "ROBO-USDT-SWAP": {
+      "instId": "ROBO-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.01099,
+      "activeStop": 0.01127581419955696,
+      "extreme": 0.01099,
+      "entryTs": 1788876000000
     }
   },
   "cooldown_until": {
