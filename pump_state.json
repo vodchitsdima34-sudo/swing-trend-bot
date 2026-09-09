@@ -4,8 +4,8 @@
       "instId": "IOST-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0010916,
-      "activeStop": 0.0010260821358760509,
-      "extreme": 0.0010916,
+      "activeStop": 0.001198927661846816,
+      "extreme": 0.0013254,
       "entryTs": 1788933600000
     }
   },
