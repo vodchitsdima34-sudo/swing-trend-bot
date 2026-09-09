@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "OL-USDT-SWAP": {
-      "instId": "OL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.006141,
-      "activeStop": 0.005849141943452707,
-      "extreme": 0.006141,
-      "entryTs": 1788908400000
+    "ZIL-USDT-SWAP": {
+      "instId": "ZIL-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.002898,
+      "activeStop": 0.0029587437382574957,
+      "extreme": 0.002898,
+      "entryTs": 1788915600000
     }
   },
   "cooldown_until": {
@@ -57,7 +57,7 @@
     "EDEN-USDT-SWAP": 1787744416758,
     "LAB-USDT-SWAP": 1787339587961,
     "WLFI-USDT-SWAP": 1786747733972,
-    "OL-USDT-SWAP": 1787619284015,
+    "OL-USDT-SWAP": 1788924153265,
     "APR-USDT-SWAP": 1786918937009,
     "AEON-USDT-SWAP": 1787466147302,
     "WAL-USDT-SWAP": 1786800457962,
