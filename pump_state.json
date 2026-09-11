@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "BLUR-USDT-SWAP": {
-      "instId": "BLUR-USDT-SWAP",
+    "LAB-USDT-SWAP": {
+      "instId": "LAB-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.01911,
-      "activeStop": 0.018519710166262093,
-      "extreme": 0.01911,
-      "entryTs": 1789137900000
+      "entryPrice": 0.07619,
+      "activeStop": 0.07148616060073747,
+      "extreme": 0.07619,
+      "entryTs": 1789150500000
+    },
+    "BEAT-USDT-SWAP": {
+      "instId": "BEAT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0913,
+      "activeStop": 0.08791812276789704,
+      "extreme": 0.0913,
+      "entryTs": 1789150500000
     }
   },
   "cooldown_until": {
@@ -148,6 +156,7 @@
     "PONS-USDT-SWAP": 1788986798287,
     "CASHCAT-USDT-SWAP": 1788986799194,
     "INIT-USDT-SWAP": 1789073882911,
-    "KAT-USDT-SWAP": 1789115133860
+    "KAT-USDT-SWAP": 1789115133860,
+    "BLUR-USDT-SWAP": 1789159006793
   }
 }
