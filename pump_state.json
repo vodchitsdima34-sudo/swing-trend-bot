@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "KAT-USDT-SWAP": {
-      "instId": "KAT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.005104,
-      "activeStop": 0.004979431175813843,
-      "extreme": 0.005104,
-      "entryTs": 1789088400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -147,6 +138,7 @@
     "IOST-USDT-SWAP": 1788974325280,
     "PONS-USDT-SWAP": 1788986798287,
     "CASHCAT-USDT-SWAP": 1788986799194,
-    "INIT-USDT-SWAP": 1789073882911
+    "INIT-USDT-SWAP": 1789073882911,
+    "KAT-USDT-SWAP": 1789115133860
   }
 }
