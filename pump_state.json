@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "FLOCK-USDT-SWAP": {
-      "instId": "FLOCK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.08068,
-      "activeStop": 0.07590535030796264,
-      "extreme": 0.08068,
-      "entryTs": 1789231500000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -149,6 +140,7 @@
     "CASHCAT-USDT-SWAP": 1788986799194,
     "INIT-USDT-SWAP": 1789073882911,
     "KAT-USDT-SWAP": 1789115133860,
-    "BLUR-USDT-SWAP": 1789159006793
+    "BLUR-USDT-SWAP": 1789159006793,
+    "FLOCK-USDT-SWAP": 1789248091122
   }
 }
