@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "SOPH-USDT-SWAP": {
-      "instId": "SOPH-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.004516,
-      "activeStop": 0.0046085002666910275,
-      "extreme": 0.004516,
-      "entryTs": 1789261200000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -65,7 +56,7 @@
     "HUMA-USDT-SWAP": 1786804542776,
     "BOME-USDT-SWAP": 1788467937322,
     "DYDX-USDT-SWAP": 1786927869396,
-    "SOPH-USDT-SWAP": 1788868615624,
+    "SOPH-USDT-SWAP": 1789288428695,
     "BSB-USDT-SWAP": 1787088563300,
     "GALA-USDT-SWAP": 1787313126705,
     "UP-USDT-SWAP": 1789240198282,
