@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "UP-USDT-SWAP": {
-      "instId": "UP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.3597,
-      "activeStop": 0.35209195819799316,
-      "extreme": 0.3597,
-      "entryTs": 1789367400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -68,7 +59,7 @@
     "SOPH-USDT-SWAP": 1789288428695,
     "BSB-USDT-SWAP": 1787088563300,
     "GALA-USDT-SWAP": 1787313126705,
-    "UP-USDT-SWAP": 1789240198282,
+    "UP-USDT-SWAP": 1789400433392,
     "USELESS-USDT-SWAP": 1788539618968,
     "ETHW-USDT-SWAP": 1787077820512,
     "OPN-USDT-SWAP": 1787132728088,
