@@ -4,31 +4,23 @@
       "instId": "XRP-USDT-SWAP",
       "direction": "short",
       "entryPrice": 1.3246,
-      "activeStop": 1.3550203812041743,
-      "extreme": 1.3246,
-      "entryTs": 1789497900000
-    },
-    "OFC-USDT-SWAP": {
-      "instId": "OFC-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.007079,
-      "activeStop": 0.0072403983268734436,
-      "extreme": 0.007079,
+      "activeStop": 1.2972152591141453,
+      "extreme": 1.2633,
       "entryTs": 1789497900000
     },
     "RAVE-USDT-SWAP": {
       "instId": "RAVE-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1721,
-      "activeStop": 0.17717251672896,
-      "extreme": 0.1721,
+      "activeStop": 0.17658292929433714,
+      "extreme": 0.1714,
       "entryTs": 1789497900000
     }
   },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
-    "OFC-USDT-SWAP": 1787394534165,
+    "OFC-USDT-SWAP": 1789517807169,
     "STABLE-USDT-SWAP": 1787282127717,
     "LA-USDT-SWAP": 1788423096840,
     "BICO-USDT-SWAP": 1787767217375,
