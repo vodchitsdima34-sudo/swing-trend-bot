@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "IOST-USDT-SWAP": {
-      "instId": "IOST-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0008091,
-      "activeStop": 0.0007903942119454173,
-      "extreme": 0.0008091,
-      "entryTs": 1789534800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -144,7 +135,7 @@
     "YGG-USDT-SWAP": 1788765320290,
     "CNPY-USDT-SWAP": 1788908600423,
     "RAY-USDT-SWAP": 1788917019544,
-    "IOST-USDT-SWAP": 1788974325280,
+    "IOST-USDT-SWAP": 1789560668805,
     "PONS-USDT-SWAP": 1788986798287,
     "CASHCAT-USDT-SWAP": 1788986799194,
     "INIT-USDT-SWAP": 1789073882911,
