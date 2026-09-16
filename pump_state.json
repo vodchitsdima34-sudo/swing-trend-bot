@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "RAVE-USDT-SWAP": {
-      "instId": "RAVE-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1721,
-      "activeStop": 0.1752843954119816,
-      "extreme": 0.1714,
-      "entryTs": 1789497900000
+    "IOST-USDT-SWAP": {
+      "instId": "IOST-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.0008091,
+      "activeStop": 0.0007903942119454173,
+      "extreme": 0.0008091,
+      "entryTs": 1789534800000
     }
   },
   "cooldown_until": {
@@ -152,6 +152,7 @@
     "BLUR-USDT-SWAP": 1789159006793,
     "FLOCK-USDT-SWAP": 1789248091122,
     "ARB-USDT-SWAP": 1789506786090,
-    "XRP-USDT-SWAP": 1789526370345
+    "XRP-USDT-SWAP": 1789526370345,
+    "RAVE-USDT-SWAP": 1789543049347
   }
 }
