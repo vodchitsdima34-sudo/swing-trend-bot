@@ -4,8 +4,8 @@
       "instId": "ONE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0012243,
-      "activeStop": 0.001139899024228426,
-      "extreme": 0.0012243,
+      "activeStop": 0.0014853367259839902,
+      "extreme": 0.00165,
       "entryTs": 1789654500000
     }
   },
