@@ -4,17 +4,17 @@
       "instId": "ONE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0009396,
-      "activeStop": 0.0008830685052135289,
-      "extreme": 0.0009396,
+      "activeStop": 0.001014246921251303,
+      "extreme": 0.00112,
       "entryTs": 1789602300000
     },
-    "AKE-USDT-SWAP": {
-      "instId": "AKE-USDT-SWAP",
+    "MOODENG-USDT-SWAP": {
+      "instId": "MOODENG-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.02032,
-      "activeStop": 0.01922219697017763,
-      "extreme": 0.02032,
-      "entryTs": 1789602300000
+      "entryPrice": 0.04321,
+      "activeStop": 0.04231065029670919,
+      "extreme": 0.04321,
+      "entryTs": 1789619400000
     }
   },
   "cooldown_until": {
@@ -161,6 +161,7 @@
     "FLOCK-USDT-SWAP": 1789248091122,
     "ARB-USDT-SWAP": 1789506786090,
     "XRP-USDT-SWAP": 1789526370345,
-    "RAVE-USDT-SWAP": 1789543049347
+    "RAVE-USDT-SWAP": 1789543049347,
+    "AKE-USDT-SWAP": 1789627968536
   }
 }
