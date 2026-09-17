@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "0G-USDT-SWAP": {
-      "instId": "0G-USDT-SWAP",
+    "ONE-USDT-SWAP": {
+      "instId": "ONE-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.2133,
-      "activeStop": 0.20922716358366267,
-      "extreme": 0.2133,
-      "entryTs": 1789637400000
+      "entryPrice": 0.0012243,
+      "activeStop": 0.001139899024228426,
+      "extreme": 0.0012243,
+      "entryTs": 1789654500000
     }
   },
   "cooldown_until": {
@@ -155,6 +155,7 @@
     "XRP-USDT-SWAP": 1789526370345,
     "RAVE-USDT-SWAP": 1789543049347,
     "AKE-USDT-SWAP": 1789627968536,
-    "ONE-USDT-SWAP": 1789645814992
+    "ONE-USDT-SWAP": 1789645814992,
+    "0G-USDT-SWAP": 1789663355164
   }
 }
