@@ -1,19 +1,11 @@
 {
   "open_positions": {
-    "AKE-USDT-SWAP": {
-      "instId": "AKE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02786,
-      "activeStop": 0.035546847040302726,
-      "extreme": 0.03942,
-      "entryTs": 1789749900000
-    },
     "ZK-USDT-SWAP": {
       "instId": "ZK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.011,
       "activeStop": 0.010780762135323746,
-      "extreme": 0.011,
+      "extreme": 0.011032,
       "entryTs": 1789758900000
     }
   },
@@ -162,7 +154,7 @@
     "ARB-USDT-SWAP": 1789727401081,
     "XRP-USDT-SWAP": 1789526370345,
     "RAVE-USDT-SWAP": 1789543049347,
-    "AKE-USDT-SWAP": 1789627968536,
+    "AKE-USDT-SWAP": 1789775557953,
     "ONE-USDT-SWAP": 1789688770539,
     "0G-USDT-SWAP": 1789663355164,
     "APT-USDT-SWAP": 1789727402747,
