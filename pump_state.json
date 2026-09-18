@@ -1,5 +1,62 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "ARB-USDT-SWAP": {
+      "instId": "ARB-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.21713,
+      "activeStop": 0.20948936110191513,
+      "extreme": 0.21713,
+      "entryTs": 1789701300000
+    },
+    "UNI-USDT-SWAP": {
+      "instId": "UNI-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 8.541,
+      "activeStop": 8.318128147744924,
+      "extreme": 8.541,
+      "entryTs": 1789701300000
+    },
+    "APT-USDT-SWAP": {
+      "instId": "APT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.6983,
+      "activeStop": 0.6838681623652744,
+      "extreme": 0.6983,
+      "entryTs": 1789701300000
+    },
+    "OP-USDT-SWAP": {
+      "instId": "OP-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.11506,
+      "activeStop": 0.11291015640958289,
+      "extreme": 0.11506,
+      "entryTs": 1789701300000
+    },
+    "RAY-USDT-SWAP": {
+      "instId": "RAY-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 1.6232,
+      "activeStop": 1.5884786538738436,
+      "extreme": 1.6232,
+      "entryTs": 1789701300000
+    },
+    "NEIRO-USDT-SWAP": {
+      "instId": "NEIRO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 8.945e-05,
+      "activeStop": 8.837743475047631e-05,
+      "extreme": 8.945e-05,
+      "entryTs": 1789701300000
+    },
+    "STRK-USDT-SWAP": {
+      "instId": "STRK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.03103,
+      "activeStop": 0.03058092877382408,
+      "extreme": 0.03103,
+      "entryTs": 1789701300000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
