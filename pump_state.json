@@ -4,8 +4,8 @@
       "instId": "ZK-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.011,
-      "activeStop": 0.010780762135323746,
-      "extreme": 0.011032,
+      "activeStop": 0.011034104062154595,
+      "extreme": 0.011337,
       "entryTs": 1789758900000
     }
   },
