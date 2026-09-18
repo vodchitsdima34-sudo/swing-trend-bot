@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "RAY-USDT-SWAP": {
-      "instId": "RAY-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.6232,
-      "activeStop": 1.6753837576220854,
-      "extreme": 1.7374,
-      "entryTs": 1789701300000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -143,7 +134,7 @@
     "TIA-USDT-SWAP": 1788765319431,
     "YGG-USDT-SWAP": 1788765320290,
     "CNPY-USDT-SWAP": 1788908600423,
-    "RAY-USDT-SWAP": 1788917019544,
+    "RAY-USDT-SWAP": 1789744013645,
     "IOST-USDT-SWAP": 1789560668805,
     "PONS-USDT-SWAP": 1788986798287,
     "CASHCAT-USDT-SWAP": 1788986799194,
