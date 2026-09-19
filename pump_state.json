@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ZK-USDT-SWAP": {
-      "instId": "ZK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.011,
-      "activeStop": 0.011034104062154595,
-      "extreme": 0.011337,
-      "entryTs": 1789758900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -159,6 +150,7 @@
     "0G-USDT-SWAP": 1789663355164,
     "APT-USDT-SWAP": 1789727402747,
     "OP-USDT-SWAP": 1789727403559,
-    "LPT-USDT-SWAP": 1789767374471
+    "LPT-USDT-SWAP": 1789767374471,
+    "ZK-USDT-SWAP": 1789795357563
   }
 }
