@@ -4,8 +4,8 @@
       "instId": "NES-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1629,
-      "activeStop": 0.16785633051930593,
-      "extreme": 0.1629,
+      "activeStop": 0.1622365250335066,
+      "extreme": 0.1585,
       "entryTs": 1789884000000
     }
   },
