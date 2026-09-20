@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "F-USDT-SWAP": {
-      "instId": "F-USDT-SWAP",
+    "NES-USDT-SWAP": {
+      "instId": "NES-USDT-SWAP",
       "direction": "short",
-      "entryPrice": 0.003901,
-      "activeStop": 0.004004695162799549,
-      "extreme": 0.003901,
-      "entryTs": 1789865100000
-    },
-    "ALLO-USDT-SWAP": {
-      "instId": "ALLO-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.24639,
-      "activeStop": 0.24149654784321684,
-      "extreme": 0.24639,
-      "entryTs": 1789865100000
+      "entryPrice": 0.1629,
+      "activeStop": 0.16785633051930593,
+      "extreme": 0.1629,
+      "entryTs": 1789884000000
     }
   },
   "cooldown_until": {
@@ -169,6 +161,8 @@
     "OP-USDT-SWAP": 1789727403559,
     "LPT-USDT-SWAP": 1789767374471,
     "ZK-USDT-SWAP": 1789795357563,
-    "ACH-USDT-SWAP": 1789828312804
+    "ACH-USDT-SWAP": 1789828312804,
+    "F-USDT-SWAP": 1789892189003,
+    "ALLO-USDT-SWAP": 1789892189897
   }
 }
