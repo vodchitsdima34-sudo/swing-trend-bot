@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "ALLO-USDT-SWAP": {
-      "instId": "ALLO-USDT-SWAP",
+    "GRASS-USDT-SWAP": {
+      "instId": "GRASS-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.28189,
-      "activeStop": 0.2730714869738024,
-      "extreme": 0.28189,
-      "entryTs": 1790009100000
+      "entryPrice": 0.4315,
+      "activeStop": 0.42036070536260706,
+      "extreme": 0.4315,
+      "entryTs": 1790023500000
     }
   },
   "cooldown_until": {
@@ -163,7 +163,7 @@
     "ZK-USDT-SWAP": 1789795357563,
     "ACH-USDT-SWAP": 1789828312804,
     "F-USDT-SWAP": 1789892189003,
-    "ALLO-USDT-SWAP": 1789892189897,
+    "ALLO-USDT-SWAP": 1790031862677,
     "AR-USDT-SWAP": 1789944157368,
     "SUI-USDT-SWAP": 1789975831988,
     "OPG-USDT-SWAP": 1789996021943,
