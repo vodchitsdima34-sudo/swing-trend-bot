@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "SEI-USDT-SWAP": {
-      "instId": "SEI-USDT-SWAP",
+    "ALLO-USDT-SWAP": {
+      "instId": "ALLO-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.06327,
-      "activeStop": 0.06159622777803147,
-      "extreme": 0.06327,
-      "entryTs": 1789987500000
-    },
-    "IMX-USDT-SWAP": {
-      "instId": "IMX-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.15613,
-      "activeStop": 0.1532067755225164,
-      "extreme": 0.15613,
-      "entryTs": 1789987500000
+      "entryPrice": 0.28189,
+      "activeStop": 0.2730714869738024,
+      "extreme": 0.28189,
+      "entryTs": 1790009100000
     }
   },
   "cooldown_until": {
@@ -174,6 +166,8 @@
     "ALLO-USDT-SWAP": 1789892189897,
     "AR-USDT-SWAP": 1789944157368,
     "SUI-USDT-SWAP": 1789975831988,
-    "OPG-USDT-SWAP": 1789996021943
+    "OPG-USDT-SWAP": 1789996021943,
+    "SEI-USDT-SWAP": 1790017423563,
+    "IMX-USDT-SWAP": 1790017424463
   }
 }
