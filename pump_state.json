@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "SNXX-USDT-SWAP": {
-      "instId": "SNXX-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 20.02,
-      "activeStop": 19.474664850391527,
-      "extreme": 20.02,
-      "entryTs": 1790084700000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -18,7 +9,7 @@
     "BICO-USDT-SWAP": 1787767217375,
     "BIO-USDT-SWAP": 1787168408129,
     "ZBT-USDT-SWAP": 1785977899742,
-    "SNXX-USDT-SWAP": 1787882006797,
+    "SNXX-USDT-SWAP": 1790107613817,
     "SUSHI-USDT-SWAP": 1788651045120,
     "PIEVERSE-USDT-SWAP": 1789975832797,
     "RESOLV-USDT-SWAP": 1786029600875,
