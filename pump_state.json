@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "GRASS-USDT-SWAP": {
-      "instId": "GRASS-USDT-SWAP",
+    "ONE-USDT-SWAP": {
+      "instId": "ONE-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.4315,
-      "activeStop": 0.42036070536260706,
-      "extreme": 0.4315,
-      "entryTs": 1790023500000
+      "entryPrice": 0.0047638,
+      "activeStop": 0.004302082166740719,
+      "extreme": 0.0047638,
+      "entryTs": 1790034300000
+    },
+    "CASHCAT-USDT-SWAP": {
+      "instId": "CASHCAT-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.1664,
+      "activeStop": 0.17200376168271198,
+      "extreme": 0.1664,
+      "entryTs": 1790034300000
     }
   },
   "cooldown_until": {
@@ -168,6 +176,7 @@
     "SUI-USDT-SWAP": 1789975831988,
     "OPG-USDT-SWAP": 1789996021943,
     "SEI-USDT-SWAP": 1790017423563,
-    "IMX-USDT-SWAP": 1790017424463
+    "IMX-USDT-SWAP": 1790017424463,
+    "GRASS-USDT-SWAP": 1790042831269
   }
 }
