@@ -4,17 +4,33 @@
       "instId": "ONE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.0047638,
-      "activeStop": 0.004302082166740719,
-      "extreme": 0.0047638,
+      "activeStop": 0.005020413716338903,
+      "extreme": 0.005445,
       "entryTs": 1790034300000
     },
     "CASHCAT-USDT-SWAP": {
       "instId": "CASHCAT-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.1664,
-      "activeStop": 0.17200376168271198,
-      "extreme": 0.1664,
+      "activeStop": 0.1624285411583313,
+      "extreme": 0.1552,
       "entryTs": 1790034300000
+    },
+    "MUBARAK-USDT-SWAP": {
+      "instId": "MUBARAK-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.053541,
+      "activeStop": 0.05148443388455184,
+      "extreme": 0.053541,
+      "entryTs": 1790051400000
+    },
+    "RLS-USDT-SWAP": {
+      "instId": "RLS-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.002845,
+      "activeStop": 0.0027466892690380363,
+      "extreme": 0.002845,
+      "entryTs": 1790051400000
     }
   },
   "cooldown_until": {
