@@ -1,38 +1,5 @@
 {
-  "open_positions": {
-    "ONE-USDT-SWAP": {
-      "instId": "ONE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0047638,
-      "activeStop": 0.005020413716338903,
-      "extreme": 0.005445,
-      "entryTs": 1790034300000
-    },
-    "CASHCAT-USDT-SWAP": {
-      "instId": "CASHCAT-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.1664,
-      "activeStop": 0.1624285411583313,
-      "extreme": 0.1552,
-      "entryTs": 1790034300000
-    },
-    "MUBARAK-USDT-SWAP": {
-      "instId": "MUBARAK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.053541,
-      "activeStop": 0.05148443388455184,
-      "extreme": 0.053541,
-      "entryTs": 1790051400000
-    },
-    "RLS-USDT-SWAP": {
-      "instId": "RLS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.002845,
-      "activeStop": 0.0027466892690380363,
-      "extreme": 0.002845,
-      "entryTs": 1790051400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -100,7 +67,7 @@
     "SOON-USDT-SWAP": 1787142965408,
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
-    "MUBARAK-USDT-SWAP": 1788467932337,
+    "MUBARAK-USDT-SWAP": 1790077227251,
     "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1788742398834,
@@ -153,7 +120,7 @@
     "WIF-USDT-SWAP": 1787639011053,
     "STX-USDT-SWAP": 1787653372793,
     "GMT-USDT-SWAP": 1787658684136,
-    "RLS-USDT-SWAP": 1787758439413,
+    "RLS-USDT-SWAP": 1790077228036,
     "S-USDT-SWAP": 1787767218729,
     "BAND-USDT-SWAP": 1788044834442,
     "ANIME-USDT-SWAP": 1788165723003,
@@ -170,7 +137,7 @@
     "RAY-USDT-SWAP": 1789744013645,
     "IOST-USDT-SWAP": 1789560668805,
     "PONS-USDT-SWAP": 1788986798287,
-    "CASHCAT-USDT-SWAP": 1788986799194,
+    "CASHCAT-USDT-SWAP": 1790077226443,
     "INIT-USDT-SWAP": 1789073882911,
     "KAT-USDT-SWAP": 1789115133860,
     "BLUR-USDT-SWAP": 1789159006793,
@@ -179,7 +146,7 @@
     "XRP-USDT-SWAP": 1789526370345,
     "RAVE-USDT-SWAP": 1789543049347,
     "AKE-USDT-SWAP": 1789996021159,
-    "ONE-USDT-SWAP": 1789850169901,
+    "ONE-USDT-SWAP": 1790077225641,
     "0G-USDT-SWAP": 1789663355164,
     "APT-USDT-SWAP": 1789727402747,
     "OP-USDT-SWAP": 1789727403559,
