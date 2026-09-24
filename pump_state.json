@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "TRIA-USDT-SWAP": {
-      "instId": "TRIA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.004576,
-      "activeStop": 0.004481554703722817,
-      "extreme": 0.004576,
-      "entryTs": 1790211600000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -72,7 +63,7 @@
     "USELESS-USDT-SWAP": 1788539618968,
     "ETHW-USDT-SWAP": 1787077820512,
     "OPN-USDT-SWAP": 1787132728088,
-    "TRIA-USDT-SWAP": 1787432416678,
+    "TRIA-USDT-SWAP": 1790238651448,
     "SOON-USDT-SWAP": 1787142965408,
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
