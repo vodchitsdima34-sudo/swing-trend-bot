@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "AVNT-USDT-SWAP": {
-      "instId": "AVNT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.13217,
-      "activeStop": 0.12941507406785518,
-      "extreme": 0.13217,
-      "entryTs": 1790395200000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -105,7 +96,7 @@
     "SAND-USDT-SWAP": 1787373645069,
     "CORE-USDT-SWAP": 1787376355747,
     "O-USDT-SWAP": 1787378787974,
-    "AVNT-USDT-SWAP": 1788868616423,
+    "AVNT-USDT-SWAP": 1790422088954,
     "MOVE-USDT-SWAP": 1787381358543,
     "POL-USDT-SWAP": 1787385259124,
     "CRO-USDT-SWAP": 1787385261653,
