@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "AZTEC-USDT-SWAP": {
-      "instId": "AZTEC-USDT-SWAP",
+    "GRT-USDT-SWAP": {
+      "instId": "GRT-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.01864,
-      "activeStop": 0.018242708102287727,
-      "extreme": 0.01864,
-      "entryTs": 1790527500000
-    },
-    "APR-USDT-SWAP": {
-      "instId": "APR-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1449,
-      "activeStop": 0.14217341689685237,
-      "extreme": 0.1449,
-      "entryTs": 1790527500000
+      "entryPrice": 0.03306,
+      "activeStop": 0.03217883145236829,
+      "extreme": 0.03306,
+      "entryTs": 1790538300000
     }
   },
   "cooldown_until": {
@@ -66,7 +58,7 @@
     "LAB-USDT-SWAP": 1789168766033,
     "WLFI-USDT-SWAP": 1786747733972,
     "OL-USDT-SWAP": 1788924153265,
-    "APR-USDT-SWAP": 1786918937009,
+    "APR-USDT-SWAP": 1790547050371,
     "AEON-USDT-SWAP": 1787466147302,
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1788477665435,
@@ -178,6 +170,7 @@
     "SEI-USDT-SWAP": 1790017423563,
     "IMX-USDT-SWAP": 1790017424463,
     "GRASS-USDT-SWAP": 1790155457207,
-    "W-USDT-SWAP": 1790498203653
+    "W-USDT-SWAP": 1790498203653,
+    "AZTEC-USDT-SWAP": 1790547049373
   }
 }
