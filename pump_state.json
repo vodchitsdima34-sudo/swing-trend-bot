@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "MUBARAK-USDT-SWAP": {
-      "instId": "MUBARAK-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.053303,
-      "activeStop": 0.0547362360559961,
-      "extreme": 0.053303,
-      "entryTs": 1790579700000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -76,7 +67,7 @@
     "SOON-USDT-SWAP": 1787142965408,
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
-    "MUBARAK-USDT-SWAP": 1790077227251,
+    "MUBARAK-USDT-SWAP": 1790618342427,
     "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1787176192442,
     "LINK-USDT-SWAP": 1788742398834,
