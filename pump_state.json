@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "MEGA-USDT-SWAP": {
-      "instId": "MEGA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05401,
-      "activeStop": 0.05180768833325835,
-      "extreme": 0.05401,
-      "entryTs": 1790874000000
-    },
-    "RESOLV-USDT-SWAP": {
-      "instId": "RESOLV-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02004,
-      "activeStop": 0.019544944241373586,
-      "extreme": 0.02004,
-      "entryTs": 1790874000000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -29,7 +12,7 @@
     "SNXX-USDT-SWAP": 1790107613817,
     "SUSHI-USDT-SWAP": 1788651045120,
     "PIEVERSE-USDT-SWAP": 1789975832797,
-    "RESOLV-USDT-SWAP": 1786029600875,
+    "RESOLV-USDT-SWAP": 1790898911904,
     "ZKP-USDT-SWAP": 1788165723806,
     "KGEN-USDT-SWAP": 1787234641878,
     "SPCX-USDT-SWAP": 1786131215492,
@@ -181,6 +164,7 @@
     "W-USDT-SWAP": 1790498203653,
     "AZTEC-USDT-SWAP": 1790547049373,
     "GRT-USDT-SWAP": 1790557423183,
-    "SYRUP-USDT-SWAP": 1790674023954
+    "SYRUP-USDT-SWAP": 1790674023954,
+    "MEGA-USDT-SWAP": 1790898911105
   }
 }
