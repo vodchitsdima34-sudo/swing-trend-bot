@@ -1,28 +1,12 @@
 {
   "open_positions": {
-    "SAND-USDT-SWAP": {
-      "instId": "SAND-USDT-SWAP",
+    "APE-USDT-SWAP": {
+      "instId": "APE-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.05414,
-      "activeStop": 0.05283953436562838,
-      "extreme": 0.05414,
-      "entryTs": 1790924400000
-    },
-    "MINA-USDT-SWAP": {
-      "instId": "MINA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.16617,
-      "activeStop": 0.16276324145828547,
-      "extreme": 0.16617,
-      "entryTs": 1790924400000
-    },
-    "MANA-USDT-SWAP": {
-      "instId": "MANA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.09457,
-      "activeStop": 0.09336339292026706,
-      "extreme": 0.09457,
-      "entryTs": 1790924400000
+      "entryPrice": 0.18164,
+      "activeStop": 0.17554215715495766,
+      "extreme": 0.18164,
+      "entryTs": 1790948700000
     }
   },
   "cooldown_until": {
@@ -114,11 +98,11 @@
     "XPL-USDT-SWAP": 1787500428029,
     "ZORA-USDT-SWAP": 1787332572301,
     "BONK-USDT-SWAP": 1790175290395,
-    "MINA-USDT-SWAP": 1787346833115,
+    "MINA-USDT-SWAP": 1790956835949,
     "ETHFI-USDT-SWAP": 1787362356928,
     "SHIB-USDT-SWAP": 1787362358243,
     "FLOKI-USDT-SWAP": 1787373644280,
-    "SAND-USDT-SWAP": 1787373645069,
+    "SAND-USDT-SWAP": 1790956835038,
     "CORE-USDT-SWAP": 1787376355747,
     "O-USDT-SWAP": 1787378787974,
     "AVNT-USDT-SWAP": 1790422088954,
@@ -190,6 +174,7 @@
     "AZTEC-USDT-SWAP": 1790547049373,
     "GRT-USDT-SWAP": 1790557423183,
     "SYRUP-USDT-SWAP": 1790674023954,
-    "MEGA-USDT-SWAP": 1790898911105
+    "MEGA-USDT-SWAP": 1790898911105,
+    "MANA-USDT-SWAP": 1790956836843
   }
 }
