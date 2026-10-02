@@ -1,5 +1,30 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "SAND-USDT-SWAP": {
+      "instId": "SAND-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.05414,
+      "activeStop": 0.05283953436562838,
+      "extreme": 0.05414,
+      "entryTs": 1790924400000
+    },
+    "MINA-USDT-SWAP": {
+      "instId": "MINA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.16617,
+      "activeStop": 0.16276324145828547,
+      "extreme": 0.16617,
+      "entryTs": 1790924400000
+    },
+    "MANA-USDT-SWAP": {
+      "instId": "MANA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.09457,
+      "activeStop": 0.09336339292026706,
+      "extreme": 0.09457,
+      "entryTs": 1790924400000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
