@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "ESP-USDT-SWAP": {
-      "instId": "ESP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.11445,
-      "activeStop": 0.11132746576647881,
-      "extreme": 0.11445,
-      "entryTs": 1791080100000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -176,6 +167,7 @@
     "SYRUP-USDT-SWAP": 1790674023954,
     "MEGA-USDT-SWAP": 1790898911105,
     "MANA-USDT-SWAP": 1790956836843,
-    "APE-USDT-SWAP": 1790975892207
+    "APE-USDT-SWAP": 1790975892207,
+    "ESP-USDT-SWAP": 1791110919265
   }
 }
