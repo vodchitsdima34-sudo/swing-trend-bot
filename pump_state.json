@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "FLOKI-USDT-SWAP": {
-      "instId": "FLOKI-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 2.96e-05,
-      "activeStop": 2.922638551197159e-05,
-      "extreme": 2.96e-05,
-      "entryTs": 1791149400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -101,7 +92,7 @@
     "MINA-USDT-SWAP": 1790956835949,
     "ETHFI-USDT-SWAP": 1787362356928,
     "SHIB-USDT-SWAP": 1787362358243,
-    "FLOKI-USDT-SWAP": 1787373644280,
+    "FLOKI-USDT-SWAP": 1791167262571,
     "SAND-USDT-SWAP": 1790956835038,
     "CORE-USDT-SWAP": 1787376355747,
     "O-USDT-SWAP": 1787378787974,
