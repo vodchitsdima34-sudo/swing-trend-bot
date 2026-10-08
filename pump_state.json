@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "PONS-USDT-SWAP": {
-      "instId": "PONS-USDT-SWAP",
+    "AKE-USDT-SWAP": {
+      "instId": "AKE-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.4212,
-      "activeStop": 0.41019310871251863,
-      "extreme": 0.4212,
-      "entryTs": 1791426600000
-    },
-    "CASHCAT-USDT-SWAP": {
-      "instId": "CASHCAT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1301,
-      "activeStop": 0.1269288283131383,
-      "extreme": 0.1301,
-      "entryTs": 1791426600000
+      "entryPrice": 0.03108,
+      "activeStop": 0.029956277383979765,
+      "extreme": 0.03108,
+      "entryTs": 1791453600000
     }
   },
   "cooldown_until": {
@@ -153,8 +145,8 @@
     "CNPY-USDT-SWAP": 1788908600423,
     "RAY-USDT-SWAP": 1789744013645,
     "IOST-USDT-SWAP": 1789560668805,
-    "PONS-USDT-SWAP": 1788986798287,
-    "CASHCAT-USDT-SWAP": 1790077226443,
+    "PONS-USDT-SWAP": 1791461975205,
+    "CASHCAT-USDT-SWAP": 1791461976086,
     "INIT-USDT-SWAP": 1789073882911,
     "KAT-USDT-SWAP": 1789115133860,
     "BLUR-USDT-SWAP": 1789159006793,
