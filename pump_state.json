@@ -4,16 +4,8 @@
       "instId": "BAT-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.12846,
-      "activeStop": 0.12449518774902128,
-      "extreme": 0.12846,
-      "entryTs": 1791562500000
-    },
-    "ZK-USDT-SWAP": {
-      "instId": "ZK-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.014437,
-      "activeStop": 0.014033533364835309,
-      "extreme": 0.014437,
+      "activeStop": 0.1316613077630872,
+      "extreme": 0.13866,
       "entryTs": 1791562500000
     }
   },
@@ -168,7 +160,7 @@
     "APT-USDT-SWAP": 1789727402747,
     "OP-USDT-SWAP": 1789727403559,
     "LPT-USDT-SWAP": 1789767374471,
-    "ZK-USDT-SWAP": 1789795357563,
+    "ZK-USDT-SWAP": 1791587882356,
     "ACH-USDT-SWAP": 1789828312804,
     "F-USDT-SWAP": 1789892189003,
     "ALLO-USDT-SWAP": 1790031862677,
