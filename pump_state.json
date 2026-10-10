@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "BAT-USDT-SWAP": {
-      "instId": "BAT-USDT-SWAP",
+    "O-USDT-SWAP": {
+      "instId": "O-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.12846,
-      "activeStop": 0.1316613077630872,
-      "extreme": 0.13866,
-      "entryTs": 1791562500000
+      "entryPrice": 0.5098,
+      "activeStop": 0.4990782602050805,
+      "extreme": 0.5098,
+      "entryTs": 1791593100000
     }
   },
   "cooldown_until": {
@@ -177,6 +177,7 @@
     "MEGA-USDT-SWAP": 1790898911105,
     "MANA-USDT-SWAP": 1790956836843,
     "APE-USDT-SWAP": 1790975892207,
-    "ESP-USDT-SWAP": 1791110919265
+    "ESP-USDT-SWAP": 1791110919265,
+    "BAT-USDT-SWAP": 1791601590870
   }
 }
