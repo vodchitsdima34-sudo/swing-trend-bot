@@ -4,8 +4,8 @@
       "instId": "CHIP-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.05832,
-      "activeStop": 0.05679410682458154,
-      "extreme": 0.05832,
+      "activeStop": 0.06548514386275191,
+      "extreme": 0.06936,
       "entryTs": 1791654300000
     }
   },
