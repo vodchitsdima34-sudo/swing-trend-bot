@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "CFX-USDT-SWAP": {
-      "instId": "CFX-USDT-SWAP",
+    "CHIP-USDT-SWAP": {
+      "instId": "CHIP-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.05566,
-      "activeStop": 0.05419387028030379,
-      "extreme": 0.05566,
-      "entryTs": 1791638100000
+      "entryPrice": 0.05832,
+      "activeStop": 0.05679410682458154,
+      "extreme": 0.05832,
+      "entryTs": 1791654300000
     }
   },
   "cooldown_until": {
@@ -178,6 +178,7 @@
     "MANA-USDT-SWAP": 1790956836843,
     "APE-USDT-SWAP": 1790975892207,
     "ESP-USDT-SWAP": 1791110919265,
-    "BAT-USDT-SWAP": 1791601590870
+    "BAT-USDT-SWAP": 1791601590870,
+    "CFX-USDT-SWAP": 1791662535294
   }
 }
