@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "XDP-USDT-SWAP": {
+      "instId": "XDP-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.02592,
+      "activeStop": 0.025282118860691746,
+      "extreme": 0.02592,
+      "entryTs": 1791698400000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
