@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "GPS-USDT-SWAP": {
-      "instId": "GPS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.008652,
-      "activeStop": 0.00850367626374875,
-      "extreme": 0.008652,
-      "entryTs": 1791962100000
+    "GRASS-USDT-SWAP": {
+      "instId": "GRASS-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.6842,
+      "activeStop": 0.7027516174569202,
+      "extreme": 0.6842,
+      "entryTs": 1791981900000
+    },
+    "PUMP-USDT-SWAP": {
+      "instId": "PUMP-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.00483,
+      "activeStop": 0.004919976240099986,
+      "extreme": 0.00483,
+      "entryTs": 1791981900000
     }
   },
   "cooldown_until": {
@@ -52,7 +60,7 @@
     "LUNA-USDT-SWAP": 1786469920516,
     "ICX-USDT-SWAP": 1788897607576,
     "SPACE-USDT-SWAP": 1787152092873,
-    "GPS-USDT-SWAP": 1787770729873,
+    "GPS-USDT-SWAP": 1791990338931,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1787744416758,
     "LAB-USDT-SWAP": 1789168766033,
