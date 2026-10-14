@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "GRASS-USDT-SWAP": {
-      "instId": "GRASS-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.6842,
-      "activeStop": 0.7027516174569202,
-      "extreme": 0.6842,
-      "entryTs": 1791981900000
-    },
-    "PUMP-USDT-SWAP": {
-      "instId": "PUMP-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.00483,
-      "activeStop": 0.004919976240099986,
-      "extreme": 0.00483,
-      "entryTs": 1791981900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -122,7 +105,7 @@
     "POPCAT-USDT-SWAP": 1787661132912,
     "ZRO-USDT-SWAP": 1787674902933,
     "FARTCOIN-USDT-SWAP": 1787615734555,
-    "PUMP-USDT-SWAP": 1787678475775,
+    "PUMP-USDT-SWAP": 1792008059093,
     "UNI-USDT-SWAP": 1789727401894,
     "PENDLE-USDT-SWAP": 1787503772631,
     "EIGEN-USDT-SWAP": 1787503773391,
@@ -177,7 +160,7 @@
     "OPG-USDT-SWAP": 1789996021943,
     "SEI-USDT-SWAP": 1790017423563,
     "IMX-USDT-SWAP": 1790566759543,
-    "GRASS-USDT-SWAP": 1790155457207,
+    "GRASS-USDT-SWAP": 1792008058302,
     "W-USDT-SWAP": 1790498203653,
     "AZTEC-USDT-SWAP": 1790547049373,
     "GRT-USDT-SWAP": 1790557423183,
