@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "TRUTH-USDT-SWAP": {
+      "instId": "TRUTH-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.017317,
+      "activeStop": 0.01685774336020037,
+      "extreme": 0.017317,
+      "entryTs": 1792119600000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
