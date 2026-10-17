@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "STRK-USDT-SWAP": {
-      "instId": "STRK-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.06621,
-      "activeStop": 0.06776216580655758,
-      "extreme": 0.06621,
-      "entryTs": 1792241100000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -119,7 +110,7 @@
     "PENDLE-USDT-SWAP": 1787503772631,
     "EIGEN-USDT-SWAP": 1787503773391,
     "VIRTUAL-USDT-SWAP": 1787599835099,
-    "STRK-USDT-SWAP": 1789727405706,
+    "STRK-USDT-SWAP": 1792261730694,
     "SPK-USDT-SWAP": 1788455177138,
     "NES-USDT-SWAP": 1789923157337,
     "KORU-USDT-SWAP": 1787589667543,
