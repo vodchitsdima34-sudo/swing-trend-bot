@@ -1,34 +1,18 @@
 {
   "open_positions": {
-    "FARTCOIN-USDT-SWAP": {
-      "instId": "FARTCOIN-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.135,
-      "activeStop": 0.13708549624537752,
-      "extreme": 0.135,
-      "entryTs": 1792352700000
-    },
-    "OFC-USDT-SWAP": {
-      "instId": "OFC-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.005565,
-      "activeStop": 0.005706139379222803,
-      "extreme": 0.005565,
-      "entryTs": 1792352700000
-    },
-    "AKE-USDT-SWAP": {
-      "instId": "AKE-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.02812,
-      "activeStop": 0.0287841669239571,
-      "extreme": 0.02812,
-      "entryTs": 1792352700000
+    "USELESS-USDT-SWAP": {
+      "instId": "USELESS-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.14021,
+      "activeStop": 0.13765752201782178,
+      "extreme": 0.14021,
+      "entryTs": 1792360800000
     }
   },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
-    "OFC-USDT-SWAP": 1789517807169,
+    "OFC-USDT-SWAP": 1792369540124,
     "STABLE-USDT-SWAP": 1787282127717,
     "LA-USDT-SWAP": 1788423096840,
     "BICO-USDT-SWAP": 1787767217375,
@@ -129,7 +113,7 @@
     "SOL-USDT-SWAP": 1787385263386,
     "POPCAT-USDT-SWAP": 1787661132912,
     "ZRO-USDT-SWAP": 1787674902933,
-    "FARTCOIN-USDT-SWAP": 1787615734555,
+    "FARTCOIN-USDT-SWAP": 1792369539299,
     "PUMP-USDT-SWAP": 1792008059093,
     "UNI-USDT-SWAP": 1789727401894,
     "PENDLE-USDT-SWAP": 1787503772631,
@@ -170,7 +154,7 @@
     "ARB-USDT-SWAP": 1789727401081,
     "XRP-USDT-SWAP": 1789526370345,
     "RAVE-USDT-SWAP": 1789543049347,
-    "AKE-USDT-SWAP": 1792081174873,
+    "AKE-USDT-SWAP": 1792369540969,
     "ONE-USDT-SWAP": 1790077225641,
     "0G-USDT-SWAP": 1789663355164,
     "APT-USDT-SWAP": 1789727402747,
