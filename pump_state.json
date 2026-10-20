@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "DOOD-USDT-SWAP": {
-      "instId": "DOOD-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.001779,
-      "activeStop": 0.0017001356981828399,
-      "extreme": 0.001779,
-      "entryTs": 1792508400000
-    },
-    "DOS-USDT-SWAP": {
-      "instId": "DOS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2061,
-      "activeStop": 0.19953329587453375,
-      "extreme": 0.2061,
-      "entryTs": 1792508400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -54,7 +37,7 @@
     "GRVT-USDT-SWAP": 1787440845648,
     "YB-USDT-SWAP": 1786376621415,
     "ROBO-USDT-SWAP": 1788897608422,
-    "DOS-USDT-SWAP": 1788379651005,
+    "DOS-USDT-SWAP": 1792531728459,
     "RVN-USDT-SWAP": 1786728770287,
     "ACU-USDT-SWAP": 1787744415343,
     "LUNA-USDT-SWAP": 1786469920516,
@@ -147,7 +130,7 @@
     "MEME-USDT-SWAP": 1788467935488,
     "DOGE-USDT-SWAP": 1788477663084,
     "ENJ-USDT-SWAP": 1788574701847,
-    "DOOD-USDT-SWAP": 1788742397935,
+    "DOOD-USDT-SWAP": 1792531727660,
     "TIA-USDT-SWAP": 1788765319431,
     "YGG-USDT-SWAP": 1788765320290,
     "CNPY-USDT-SWAP": 1788908600423,
