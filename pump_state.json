@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "PEPE-USDT-SWAP": {
-      "instId": "PEPE-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 4.867e-06,
-      "activeStop": 4.970318586415463e-06,
-      "extreme": 5.111e-06,
-      "entryTs": 1792744200000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -84,7 +75,7 @@
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787426360673,
     "EDGE-USDT-SWAP": 1788720428270,
-    "PEPE-USDT-SWAP": 1788477662211,
+    "PEPE-USDT-SWAP": 1792786879601,
     "ORDI-USDT-SWAP": 1787234641037,
     "BRETT-USDT-SWAP": 1788467936402,
     "PENGU-USDT-SWAP": 1787238639683,
