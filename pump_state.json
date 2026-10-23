@@ -4,8 +4,8 @@
       "instId": "PEPE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 4.867e-06,
-      "activeStop": 4.795551147635183e-06,
-      "extreme": 4.867e-06,
+      "activeStop": 4.970318586415463e-06,
+      "extreme": 5.111e-06,
       "entryTs": 1792744200000
     }
   },
