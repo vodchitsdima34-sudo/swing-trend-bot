@@ -4,16 +4,8 @@
       "instId": "AKE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.03098,
-      "activeStop": 0.029347230881628106,
-      "extreme": 0.03098,
-      "entryTs": 1792859400000
-    },
-    "DNA-USDT-SWAP": {
-      "instId": "DNA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2136,
-      "activeStop": 0.20570409625213354,
-      "extreme": 0.2136,
+      "activeStop": 0.029478273163741287,
+      "extreme": 0.03125,
       "entryTs": 1792859400000
     }
   },
@@ -193,7 +185,7 @@
     "TRUTH-USDT-SWAP": 1792146288741,
     "BTW-USDT-SWAP": 1792720385078,
     "AXIS-USDT-SWAP": 1792823773393,
-    "DNA-USDT-SWAP": 1792823774253,
+    "DNA-USDT-SWAP": 1792876529939,
     "ORDER-USDT-SWAP": 1792855200529,
     "BLEND-USDT-SWAP": 1792855201427
   }
