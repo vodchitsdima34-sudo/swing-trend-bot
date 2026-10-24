@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "AKE-USDT-SWAP": {
+      "instId": "AKE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.03098,
+      "activeStop": 0.029347230881628106,
+      "extreme": 0.03098,
+      "entryTs": 1792859400000
+    },
+    "DNA-USDT-SWAP": {
+      "instId": "DNA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.2136,
+      "activeStop": 0.20570409625213354,
+      "extreme": 0.2136,
+      "entryTs": 1792859400000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
