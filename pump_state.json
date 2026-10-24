@@ -4,8 +4,8 @@
       "instId": "AKE-USDT-SWAP",
       "direction": "long",
       "entryPrice": 0.03098,
-      "activeStop": 0.029478273163741287,
-      "extreme": 0.03125,
+      "activeStop": 0.030270207154785993,
+      "extreme": 0.03155,
       "entryTs": 1792859400000
     }
   },
