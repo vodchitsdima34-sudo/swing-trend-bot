@@ -4,16 +4,8 @@
       "instId": "RLS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.002733,
-      "activeStop": 0.0030591054526441716,
-      "extreme": 0.002733,
-      "entryTs": 1792946700000
-    },
-    "SOON-USDT-SWAP": {
-      "instId": "SOON-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.3013,
-      "activeStop": 0.2934390285671727,
-      "extreme": 0.3013,
+      "activeStop": 0.002585927373120663,
+      "extreme": 0.002222,
       "entryTs": 1792946700000
     }
   },
@@ -81,7 +73,7 @@
     "ETHW-USDT-SWAP": 1787077820512,
     "OPN-USDT-SWAP": 1787132728088,
     "TRIA-USDT-SWAP": 1790238651448,
-    "SOON-USDT-SWAP": 1787142965408,
+    "SOON-USDT-SWAP": 1792964208027,
     "SIGN-USDT-SWAP": 1787148045278,
     "WLD-USDT-SWAP": 1787164233524,
     "MUBARAK-USDT-SWAP": 1791145392493,
