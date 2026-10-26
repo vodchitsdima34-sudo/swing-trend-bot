@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "BLEND-USDT-SWAP": {
-      "instId": "BLEND-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05059,
-      "activeStop": 0.04981966342052479,
-      "extreme": 0.05059,
-      "entryTs": 1792972800000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -187,7 +178,7 @@
     "AXIS-USDT-SWAP": 1792823773393,
     "DNA-USDT-SWAP": 1792876529939,
     "ORDER-USDT-SWAP": 1792855200529,
-    "BLEND-USDT-SWAP": 1792855201427,
+    "BLEND-USDT-SWAP": 1792998510684,
     "AI-USDT-SWAP": 1792955423254
   }
 }
