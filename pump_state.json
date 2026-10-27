@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "CT-USDT-SWAP": {
-      "instId": "CT-USDT-SWAP",
+    "DOS-USDT-SWAP": {
+      "instId": "DOS-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.1793,
-      "activeStop": 0.174195025469123,
-      "extreme": 0.1793,
-      "entryTs": 1793080800000
+      "entryPrice": 0.2457,
+      "activeStop": 0.23670107609609042,
+      "extreme": 0.2457,
+      "entryTs": 1793103300000
     }
   },
   "cooldown_until": {
@@ -188,6 +188,7 @@
     "DNA-USDT-SWAP": 1792876529939,
     "ORDER-USDT-SWAP": 1792855200529,
     "BLEND-USDT-SWAP": 1792998510684,
-    "AI-USDT-SWAP": 1792955423254
+    "AI-USDT-SWAP": 1792955423254,
+    "CT-USDT-SWAP": 1793111598103
   }
 }
