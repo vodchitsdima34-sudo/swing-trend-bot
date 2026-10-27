@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "DOS-USDT-SWAP": {
-      "instId": "DOS-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2457,
-      "activeStop": 0.24764539293651536,
-      "extreme": 0.2553,
-      "entryTs": 1793103300000
-    },
-    "INIT-USDT-SWAP": {
-      "instId": "INIT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1925,
-      "activeStop": 0.18424951680928292,
-      "extreme": 0.1925,
-      "entryTs": 1793124000000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -54,7 +37,7 @@
     "GRVT-USDT-SWAP": 1787440845648,
     "YB-USDT-SWAP": 1786376621415,
     "ROBO-USDT-SWAP": 1788897608422,
-    "DOS-USDT-SWAP": 1792531728459,
+    "DOS-USDT-SWAP": 1793147373682,
     "RVN-USDT-SWAP": 1786728770287,
     "ACU-USDT-SWAP": 1787744415343,
     "LUNA-USDT-SWAP": 1786469920516,
@@ -155,7 +138,7 @@
     "IOST-USDT-SWAP": 1789560668805,
     "PONS-USDT-SWAP": 1791461975205,
     "CASHCAT-USDT-SWAP": 1791461976086,
-    "INIT-USDT-SWAP": 1792188324161,
+    "INIT-USDT-SWAP": 1793147374524,
     "KAT-USDT-SWAP": 1789115133860,
     "BLUR-USDT-SWAP": 1792081175678,
     "FLOCK-USDT-SWAP": 1789248091122,
