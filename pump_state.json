@@ -4,8 +4,8 @@
       "instId": "DOS-USDT-SWAP",
       "direction": "short",
       "entryPrice": 0.2264,
-      "activeStop": 0.2529964568763424,
-      "extreme": 0.2264,
+      "activeStop": 0.23646628279783732,
+      "extreme": 0.2181,
       "entryTs": 1793215800000
     }
   },
