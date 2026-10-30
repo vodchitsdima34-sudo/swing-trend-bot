@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "TRX-USDT-SWAP": {
-      "instId": "TRX-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.34721,
-      "activeStop": 0.3422918380112227,
-      "extreme": 0.34721,
-      "entryTs": 1793309400000
+    "RSR-USDT-SWAP": {
+      "instId": "RSR-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.001225,
+      "activeStop": 0.0012812651403187997,
+      "extreme": 0.001225,
+      "entryTs": 1793322900000
     }
   },
   "cooldown_until": {
@@ -189,6 +189,7 @@
     "ORDER-USDT-SWAP": 1792855200529,
     "BLEND-USDT-SWAP": 1792998510684,
     "AI-USDT-SWAP": 1792955423254,
-    "CT-USDT-SWAP": 1793111598103
+    "CT-USDT-SWAP": 1793111598103,
+    "TRX-USDT-SWAP": 1793331479493
   }
 }
