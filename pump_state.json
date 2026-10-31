@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "BTW-USDT-SWAP": {
-      "instId": "BTW-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.2648,
-      "activeStop": 1.206864472522872,
-      "extreme": 1.2648,
-      "entryTs": 1793412900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -183,7 +174,7 @@
     "XDP-USDT-SWAP": 1791732172521,
     "PYTH-USDT-SWAP": 1792096198218,
     "TRUTH-USDT-SWAP": 1792146288741,
-    "BTW-USDT-SWAP": 1792720385078,
+    "BTW-USDT-SWAP": 1793444024492,
     "AXIS-USDT-SWAP": 1792823773393,
     "DNA-USDT-SWAP": 1792876529939,
     "ORDER-USDT-SWAP": 1792855200529,
