@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "TRUMP-USDT-SWAP": {
-      "instId": "TRUMP-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.739,
-      "activeStop": 1.7095100923166615,
-      "extreme": 1.739,
-      "entryTs": 1793544300000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -80,7 +71,7 @@
     "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1793318141949,
     "LINK-USDT-SWAP": 1788742398834,
-    "TRUMP-USDT-SWAP": 1787381357582,
+    "TRUMP-USDT-SWAP": 1793569195473,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787426360673,
     "EDGE-USDT-SWAP": 1788720428270,
