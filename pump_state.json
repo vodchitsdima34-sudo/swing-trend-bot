@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "TRUTH-USDT-SWAP": {
-      "instId": "TRUTH-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.016115,
-      "activeStop": 0.01668727434354871,
-      "extreme": 0.016115,
-      "entryTs": 1793698200000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -182,7 +173,7 @@
     "CFX-USDT-SWAP": 1791662535294,
     "XDP-USDT-SWAP": 1791732172521,
     "PYTH-USDT-SWAP": 1792096198218,
-    "TRUTH-USDT-SWAP": 1792146288741,
+    "TRUTH-USDT-SWAP": 1793734451849,
     "BTW-USDT-SWAP": 1793444024492,
     "AXIS-USDT-SWAP": 1792823773393,
     "DNA-USDT-SWAP": 1792876529939,
