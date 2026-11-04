@@ -1,22 +1,5 @@
 {
-  "open_positions": {
-    "TRUMP-USDT-SWAP": {
-      "instId": "TRUMP-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 1.249,
-      "activeStop": 1.2950291469371178,
-      "extreme": 1.249,
-      "entryTs": 1793813400000
-    },
-    "BILL-USDT-SWAP": {
-      "instId": "BILL-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.004779,
-      "activeStop": 0.004889885461655975,
-      "extreme": 0.004779,
-      "entryTs": 1793813400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -88,7 +71,7 @@
     "ZAMA-USDT-SWAP": 1787396353975,
     "HYPE-USDT-SWAP": 1793318141949,
     "LINK-USDT-SWAP": 1788742398834,
-    "TRUMP-USDT-SWAP": 1793569195473,
+    "TRUMP-USDT-SWAP": 1793841351268,
     "ETH-USDT-SWAP": 1787188916425,
     "MET-USDT-SWAP": 1787426360673,
     "EDGE-USDT-SWAP": 1788720428270,
@@ -199,6 +182,7 @@
     "AI-USDT-SWAP": 1792955423254,
     "CT-USDT-SWAP": 1793111598103,
     "TRX-USDT-SWAP": 1793331479493,
-    "RSR-USDT-SWAP": 1793353407117
+    "RSR-USDT-SWAP": 1793353407117,
+    "BILL-USDT-SWAP": 1793841352099
   }
 }
