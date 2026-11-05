@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "XTZ-USDT-SWAP": {
-      "instId": "XTZ-USDT-SWAP",
+    "MERL-USDT-SWAP": {
+      "instId": "MERL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.2913,
-      "activeStop": 0.2829986180474627,
-      "extreme": 0.2913,
-      "entryTs": 1793877300000
-    },
-    "CNPY-USDT-SWAP": {
-      "instId": "CNPY-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1744,
-      "activeStop": 0.17046915646058527,
-      "extreme": 0.1744,
-      "entryTs": 1793877300000
+      "entryPrice": 0.02885,
+      "activeStop": 0.02808412200186519,
+      "extreme": 0.02885,
+      "entryTs": 1793903400000
     }
   },
   "cooldown_until": {
@@ -150,7 +142,7 @@
     "DOOD-USDT-SWAP": 1792531727660,
     "TIA-USDT-SWAP": 1788765319431,
     "YGG-USDT-SWAP": 1788765320290,
-    "CNPY-USDT-SWAP": 1788908600423,
+    "CNPY-USDT-SWAP": 1793912327832,
     "RAY-USDT-SWAP": 1789744013645,
     "IOST-USDT-SWAP": 1789560668805,
     "PONS-USDT-SWAP": 1791461975205,
@@ -200,6 +192,7 @@
     "CT-USDT-SWAP": 1793111598103,
     "TRX-USDT-SWAP": 1793331479493,
     "RSR-USDT-SWAP": 1793353407117,
-    "BILL-USDT-SWAP": 1793841352099
+    "BILL-USDT-SWAP": 1793841352099,
+    "XTZ-USDT-SWAP": 1793912326924
   }
 }
