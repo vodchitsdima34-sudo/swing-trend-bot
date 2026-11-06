@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "MERL-USDT-SWAP": {
-      "instId": "MERL-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.02885,
-      "activeStop": 0.02808412200186519,
-      "extreme": 0.02885,
-      "entryTs": 1793903400000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -61,7 +52,7 @@
     "APR-USDT-SWAP": 1793279186335,
     "AEON-USDT-SWAP": 1787466147302,
     "WAL-USDT-SWAP": 1786800457962,
-    "MERL-USDT-SWAP": 1788477665435,
+    "MERL-USDT-SWAP": 1793930566870,
     "HUMA-USDT-SWAP": 1786804542776,
     "BOME-USDT-SWAP": 1788467937322,
     "DYDX-USDT-SWAP": 1786927869396,
