@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "PIEVERSE-USDT-SWAP": {
+      "instId": "PIEVERSE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 1.8005,
+      "activeStop": 1.727489859817489,
+      "extreme": 1.8005,
+      "entryTs": 1794365100000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
