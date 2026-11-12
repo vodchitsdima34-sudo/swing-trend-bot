@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "BARD-USDT-SWAP": {
-      "instId": "BARD-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.1073,
-      "activeStop": 0.10324748314102287,
-      "extreme": 0.1073,
-      "entryTs": 1794501000000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -193,6 +184,7 @@
     "TRX-USDT-SWAP": 1793331479493,
     "RSR-USDT-SWAP": 1793353407117,
     "BILL-USDT-SWAP": 1793841352099,
-    "XTZ-USDT-SWAP": 1793912326924
+    "XTZ-USDT-SWAP": 1793912326924,
+    "BARD-USDT-SWAP": 1794530134171
   }
 }
