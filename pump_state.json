@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "BARD-USDT-SWAP": {
+      "instId": "BARD-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.1073,
+      "activeStop": 0.10324748314102287,
+      "extreme": 0.1073,
+      "entryTs": 1794501000000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
