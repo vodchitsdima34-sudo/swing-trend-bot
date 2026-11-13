@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "LAB-USDT-SWAP": {
-      "instId": "LAB-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.03563,
-      "activeStop": 0.036432193851812664,
-      "extreme": 0.03563,
-      "entryTs": 1794537000000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -55,7 +46,7 @@
     "GPS-USDT-SWAP": 1791990338931,
     "ENSO-USDT-SWAP": 1786648318736,
     "EDEN-USDT-SWAP": 1787744416758,
-    "LAB-USDT-SWAP": 1789168766033,
+    "LAB-USDT-SWAP": 1794573374886,
     "WLFI-USDT-SWAP": 1786747733972,
     "OL-USDT-SWAP": 1788924153265,
     "APR-USDT-SWAP": 1793279186335,
