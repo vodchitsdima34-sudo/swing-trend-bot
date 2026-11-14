@@ -1,12 +1,20 @@
 {
   "open_positions": {
-    "BEAT-USDT-SWAP": {
-      "instId": "BEAT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.08255,
-      "activeStop": 0.08109629324349894,
-      "extreme": 0.08255,
-      "entryTs": 1794652200000
+    "CASHCAT-USDT-SWAP": {
+      "instId": "CASHCAT-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.04063,
+      "activeStop": 0.04187624983215371,
+      "extreme": 0.04063,
+      "entryTs": 1794673800000
+    },
+    "INJ-USDT-SWAP": {
+      "instId": "INJ-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 7.164,
+      "activeStop": 7.341911975049864,
+      "extreme": 7.164,
+      "entryTs": 1794673800000
     }
   },
   "cooldown_until": {
@@ -31,7 +39,7 @@
     "H-USDT-SWAP": 1787758440201,
     "UB-USDT-SWAP": 1786270066137,
     "ARX-USDT-SWAP": 1787589668356,
-    "BEAT-USDT-SWAP": 1793301924002,
+    "BEAT-USDT-SWAP": 1794682471018,
     "CAP-USDT-SWAP": 1793179632058,
     "MAGIC-USDT-SWAP": 1786216294326,
     "ACT-USDT-SWAP": 1786341263787,
