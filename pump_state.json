@@ -1,54 +1,5 @@
 {
-  "open_positions": {
-    "ASTER-USDT-SWAP": {
-      "instId": "ASTER-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.486,
-      "activeStop": 0.5061606240843777,
-      "extreme": 0.486,
-      "entryTs": 1794689100000
-    },
-    "CP-USDT-SWAP": {
-      "instId": "CP-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.005132,
-      "activeStop": 0.0052956997117133515,
-      "extreme": 0.005132,
-      "entryTs": 1794689100000
-    },
-    "CHIP-USDT-SWAP": {
-      "instId": "CHIP-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.02556,
-      "activeStop": 0.02622435629887096,
-      "extreme": 0.02556,
-      "entryTs": 1794689100000
-    },
-    "XPL-USDT-SWAP": {
-      "instId": "XPL-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.04174,
-      "activeStop": 0.042918134593259744,
-      "extreme": 0.04174,
-      "entryTs": 1794689100000
-    },
-    "ZRO-USDT-SWAP": {
-      "instId": "ZRO-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 1.4204,
-      "activeStop": 1.4641306531880158,
-      "extreme": 1.4204,
-      "entryTs": 1794689100000
-    },
-    "MEGA-USDT-SWAP": {
-      "instId": "MEGA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.0461,
-      "activeStop": 0.04487406612649121,
-      "extreme": 0.0461,
-      "entryTs": 1794689100000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -80,7 +31,7 @@
     "SHELL-USDT-SWAP": 1794619995560,
     "NEIRO-USDT-SWAP": 1789727404897,
     "MOODENG-USDT-SWAP": 1789645815960,
-    "CHIP-USDT-SWAP": 1791685897684,
+    "CHIP-USDT-SWAP": 1794711774878,
     "RECALL-USDT-SWAP": 1788441419225,
     "HOME-USDT-SWAP": 1787132729775,
     "GRVT-USDT-SWAP": 1787440845648,
@@ -133,9 +84,9 @@
     "MON-USDT-SWAP": 1787611682986,
     "CRV-USDT-SWAP": 1787293392645,
     "BERA-USDT-SWAP": 1787310434964,
-    "ASTER-USDT-SWAP": 1787313125068,
+    "ASTER-USDT-SWAP": 1794711773395,
     "TURBO-USDT-SWAP": 1787313127512,
-    "XPL-USDT-SWAP": 1787500428029,
+    "XPL-USDT-SWAP": 1794711775610,
     "ZORA-USDT-SWAP": 1787332572301,
     "BONK-USDT-SWAP": 1790175290395,
     "MINA-USDT-SWAP": 1790956835949,
@@ -152,7 +103,7 @@
     "NOT-USDT-SWAP": 1787385262513,
     "SOL-USDT-SWAP": 1787385263386,
     "POPCAT-USDT-SWAP": 1787661132912,
-    "ZRO-USDT-SWAP": 1787674902933,
+    "ZRO-USDT-SWAP": 1794711776339,
     "FARTCOIN-USDT-SWAP": 1792369539299,
     "PUMP-USDT-SWAP": 1792008059093,
     "UNI-USDT-SWAP": 1789727401894,
@@ -214,7 +165,7 @@
     "AZTEC-USDT-SWAP": 1790547049373,
     "GRT-USDT-SWAP": 1790557423183,
     "SYRUP-USDT-SWAP": 1790674023954,
-    "MEGA-USDT-SWAP": 1790898911105,
+    "MEGA-USDT-SWAP": 1794711777087,
     "MANA-USDT-SWAP": 1790956836843,
     "APE-USDT-SWAP": 1790975892207,
     "ESP-USDT-SWAP": 1791110919265,
@@ -235,6 +186,7 @@
     "BILL-USDT-SWAP": 1793841352099,
     "XTZ-USDT-SWAP": 1793912326924,
     "BARD-USDT-SWAP": 1794530134171,
-    "INJ-USDT-SWAP": 1794697636400
+    "INJ-USDT-SWAP": 1794697636400,
+    "CP-USDT-SWAP": 1794711774149
   }
 }
