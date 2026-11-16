@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "HUMA-USDT-SWAP": {
+      "instId": "HUMA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.00884,
+      "activeStop": 0.008375875222906901,
+      "extreme": 0.00884,
+      "entryTs": 1794847500000
+    },
+    "PIEVERSE-USDT-SWAP": {
+      "instId": "PIEVERSE-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 2.0949,
+      "activeStop": 2.0407499003632292,
+      "extreme": 2.0949,
+      "entryTs": 1794847500000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1788942259201,
     "SOXL-USDT-SWAP": 1785376050821,
