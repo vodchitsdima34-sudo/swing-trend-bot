@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "PI-USDT-SWAP": {
-      "instId": "PI-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 0.05713,
-      "activeStop": 0.058271949199808715,
-      "extreme": 0.05713,
-      "entryTs": 1794875400000
+    "LUNA-USDT-SWAP": {
+      "instId": "LUNA-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.03449,
+      "activeStop": 0.033975110793712196,
+      "extreme": 0.03449,
+      "entryTs": 1794904200000
     }
   },
   "cooldown_until": {
@@ -196,6 +196,7 @@
     "XTZ-USDT-SWAP": 1793912326924,
     "BARD-USDT-SWAP": 1794530134171,
     "INJ-USDT-SWAP": 1794697636400,
-    "CP-USDT-SWAP": 1794711774149
+    "CP-USDT-SWAP": 1794711774149,
+    "PI-USDT-SWAP": 1794912601709
   }
 }
