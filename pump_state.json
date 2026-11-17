@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "LUNA-USDT-SWAP": {
-      "instId": "LUNA-USDT-SWAP",
+    "ZIL-USDT-SWAP": {
+      "instId": "ZIL-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.03449,
-      "activeStop": 0.033975110793712196,
-      "extreme": 0.03449,
-      "entryTs": 1794904200000
+      "entryPrice": 0.000964,
+      "activeStop": 0.0009382256480131579,
+      "extreme": 0.000964,
+      "entryTs": 1794937500000
     }
   },
   "cooldown_until": {
@@ -49,7 +49,7 @@
     "DOS-USDT-SWAP": 1793255797753,
     "RVN-USDT-SWAP": 1786728770287,
     "ACU-USDT-SWAP": 1787744415343,
-    "LUNA-USDT-SWAP": 1786469920516,
+    "LUNA-USDT-SWAP": 1794946260267,
     "ICX-USDT-SWAP": 1788897607576,
     "SPACE-USDT-SWAP": 1787152092873,
     "GPS-USDT-SWAP": 1791990338931,
