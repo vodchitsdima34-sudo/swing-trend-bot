@@ -1,12 +1,12 @@
 {
   "open_positions": {
-    "PROS-USDT-SWAP": {
-      "instId": "PROS-USDT-SWAP",
+    "PIPPIN-USDT-SWAP": {
+      "instId": "PIPPIN-USDT-SWAP",
       "direction": "long",
-      "entryPrice": 0.5447,
-      "activeStop": 0.5301087244235223,
-      "extreme": 0.5447,
-      "entryTs": 1794961800000
+      "entryPrice": 0.01657,
+      "activeStop": 0.015842131800822962,
+      "extreme": 0.01657,
+      "entryTs": 1794988800000
     }
   },
   "cooldown_until": {
@@ -197,6 +197,7 @@
     "BARD-USDT-SWAP": 1794530134171,
     "INJ-USDT-SWAP": 1794697636400,
     "CP-USDT-SWAP": 1794711774149,
-    "PI-USDT-SWAP": 1794912601709
+    "PI-USDT-SWAP": 1794912601709,
+    "PROS-USDT-SWAP": 1794997365150
   }
 }
