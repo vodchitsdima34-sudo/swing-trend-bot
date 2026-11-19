@@ -1,20 +1,12 @@
 {
   "open_positions": {
-    "HUMA-USDT-SWAP": {
-      "instId": "HUMA-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.008833,
-      "activeStop": 0.008578073636049526,
-      "extreme": 0.008833,
-      "entryTs": 1795094100000
-    },
-    "MMT-USDT-SWAP": {
-      "instId": "MMT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.2185,
-      "activeStop": 0.20823344793360327,
-      "extreme": 0.2185,
-      "entryTs": 1795094100000
+    "OFC-USDT-SWAP": {
+      "instId": "OFC-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 0.003279,
+      "activeStop": 0.0034108941599738135,
+      "extreme": 0.003279,
+      "entryTs": 1795123800000
     }
   },
   "cooldown_until": {
@@ -34,7 +26,7 @@
     "KGEN-USDT-SWAP": 1787234641878,
     "SPCX-USDT-SWAP": 1786131215492,
     "SLX-USDT-SWAP": 1786131216534,
-    "MMT-USDT-SWAP": 1795051771346,
+    "MMT-USDT-SWAP": 1795132261800,
     "HMSTR-USDT-SWAP": 1786307960543,
     "H-USDT-SWAP": 1787758440201,
     "UB-USDT-SWAP": 1786270066137,
@@ -70,7 +62,7 @@
     "AEON-USDT-SWAP": 1787466147302,
     "WAL-USDT-SWAP": 1786800457962,
     "MERL-USDT-SWAP": 1793930566870,
-    "HUMA-USDT-SWAP": 1794883659124,
+    "HUMA-USDT-SWAP": 1795132261028,
     "BOME-USDT-SWAP": 1788467937322,
     "DYDX-USDT-SWAP": 1786927869396,
     "SOPH-USDT-SWAP": 1789288428695,
