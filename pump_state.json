@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "BTW-USDT-SWAP": {
+      "instId": "BTW-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.5733,
+      "activeStop": 0.5496786462559778,
+      "extreme": 0.5733,
+      "entryTs": 1795060800000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1794970653685,
     "SOXL-USDT-SWAP": 1785376050821,
