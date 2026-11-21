@@ -1,18 +1,9 @@
 {
-  "open_positions": {
-    "OFC-USDT-SWAP": {
-      "instId": "OFC-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.003729,
-      "activeStop": 0.0035567775543627754,
-      "extreme": 0.003729,
-      "entryTs": 1795275900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1794970653685,
     "SOXL-USDT-SWAP": 1785376050821,
-    "OFC-USDT-SWAP": 1795150280052,
+    "OFC-USDT-SWAP": 1795304326438,
     "STABLE-USDT-SWAP": 1787282127717,
     "LA-USDT-SWAP": 1788423096840,
     "BICO-USDT-SWAP": 1787767217375,
