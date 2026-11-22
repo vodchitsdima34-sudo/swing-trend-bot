@@ -1,5 +1,14 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "ENSO-USDT-SWAP": {
+      "instId": "ENSO-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.5078,
+      "activeStop": 0.4891970817089676,
+      "extreme": 0.5078,
+      "entryTs": 1795310100000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1794970653685,
     "SOXL-USDT-SWAP": 1785376050821,
