@@ -1,5 +1,22 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "KORU-USDT-SWAP": {
+      "instId": "KORU-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 4.914,
+      "activeStop": 5.084341915589803,
+      "extreme": 4.914,
+      "entryTs": 1795401000000
+    },
+    "PIEVERSE-USDT-SWAP": {
+      "instId": "PIEVERSE-USDT-SWAP",
+      "direction": "short",
+      "entryPrice": 3.4139,
+      "activeStop": 3.58407846749235,
+      "extreme": 3.4139,
+      "entryTs": 1795401000000
+    }
+  },
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1794970653685,
     "SOXL-USDT-SWAP": 1785376050821,
