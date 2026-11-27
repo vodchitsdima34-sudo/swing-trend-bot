@@ -1,12 +1,28 @@
 {
   "open_positions": {
-    "AKE-USDT-SWAP": {
-      "instId": "AKE-USDT-SWAP",
+    "BTW-USDT-SWAP": {
+      "instId": "BTW-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 1.1519,
+      "activeStop": 1.098064716473732,
+      "extreme": 1.1519,
+      "entryTs": 1795788900000
+    },
+    "SSV-USDT-SWAP": {
+      "instId": "SSV-USDT-SWAP",
       "direction": "short",
-      "entryPrice": 0.001221,
-      "activeStop": 0.0013490748559142195,
-      "extreme": 0.001221,
-      "entryTs": 1795753800000
+      "entryPrice": 2.78,
+      "activeStop": 2.9722565474196267,
+      "extreme": 2.78,
+      "entryTs": 1795788900000
+    },
+    "AT-USDT-SWAP": {
+      "instId": "AT-USDT-SWAP",
+      "direction": "long",
+      "entryPrice": 0.05828,
+      "activeStop": 0.05719173407608706,
+      "extreme": 0.05828,
+      "entryTs": 1795788900000
     }
   },
   "cooldown_until": {
@@ -154,7 +170,7 @@
     "ARB-USDT-SWAP": 1789727401081,
     "XRP-USDT-SWAP": 1789526370345,
     "RAVE-USDT-SWAP": 1789543049347,
-    "AKE-USDT-SWAP": 1795618645421,
+    "AKE-USDT-SWAP": 1795797795444,
     "ONE-USDT-SWAP": 1790077225641,
     "0G-USDT-SWAP": 1789663355164,
     "APT-USDT-SWAP": 1789727402747,
