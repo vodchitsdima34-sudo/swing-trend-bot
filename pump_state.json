@@ -1,30 +1,5 @@
 {
-  "open_positions": {
-    "BTW-USDT-SWAP": {
-      "instId": "BTW-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 1.1519,
-      "activeStop": 1.098064716473732,
-      "extreme": 1.1519,
-      "entryTs": 1795788900000
-    },
-    "SSV-USDT-SWAP": {
-      "instId": "SSV-USDT-SWAP",
-      "direction": "short",
-      "entryPrice": 2.78,
-      "activeStop": 2.9722565474196267,
-      "extreme": 2.78,
-      "entryTs": 1795788900000
-    },
-    "AT-USDT-SWAP": {
-      "instId": "AT-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.05828,
-      "activeStop": 0.05719173407608706,
-      "extreme": 0.05828,
-      "entryTs": 1795788900000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1794970653685,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -199,7 +174,7 @@
     "XDP-USDT-SWAP": 1791732172521,
     "PYTH-USDT-SWAP": 1792096198218,
     "TRUTH-USDT-SWAP": 1793734451849,
-    "BTW-USDT-SWAP": 1795103042105,
+    "BTW-USDT-SWAP": 1795827544659,
     "AXIS-USDT-SWAP": 1792823773393,
     "DNA-USDT-SWAP": 1792876529939,
     "ORDER-USDT-SWAP": 1792855200529,
@@ -215,6 +190,8 @@
     "CP-USDT-SWAP": 1794711774149,
     "PI-USDT-SWAP": 1794912601709,
     "PROS-USDT-SWAP": 1794997365150,
-    "PIPPIN-USDT-SWAP": 1795030002115
+    "PIPPIN-USDT-SWAP": 1795030002115,
+    "SSV-USDT-SWAP": 1795827545575,
+    "AT-USDT-SWAP": 1795827546509
   }
 }
