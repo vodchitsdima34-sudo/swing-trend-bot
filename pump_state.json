@@ -1,14 +1,5 @@
 {
-  "open_positions": {
-    "O-USDT-SWAP": {
-      "instId": "O-USDT-SWAP",
-      "direction": "long",
-      "entryPrice": 0.853,
-      "activeStop": 0.810398111605652,
-      "extreme": 0.853,
-      "entryTs": 1795871700000
-    }
-  },
+  "open_positions": {},
   "cooldown_until": {
     "ZIL-USDT-SWAP": 1794970653685,
     "SOXL-USDT-SWAP": 1785376050821,
@@ -104,7 +95,7 @@
     "FLOKI-USDT-SWAP": 1791167262571,
     "SAND-USDT-SWAP": 1790956835038,
     "CORE-USDT-SWAP": 1787376355747,
-    "O-USDT-SWAP": 1791623218118,
+    "O-USDT-SWAP": 1795908133860,
     "AVNT-USDT-SWAP": 1790422088954,
     "MOVE-USDT-SWAP": 1787381358543,
     "POL-USDT-SWAP": 1787385259124,
